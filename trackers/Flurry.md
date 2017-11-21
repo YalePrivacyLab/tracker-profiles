@@ -15,6 +15,9 @@ Oath Inc. (subsidiary of Verizon Communications; Oath includes Yahoo and AOL) [W
 ## Detection rules
 * flurry \ .com
 
+## Documentation
+https://developer.yahoo.com/flurry/docs/integrateflurry/android/
+
 ## What it does
 Flurry Analytics:
 
