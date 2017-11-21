@@ -1,6 +1,6 @@
 # Flurry
 
-## Location
+## Primary Location
 United States
 
 ## Website
