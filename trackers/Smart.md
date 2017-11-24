@@ -142,13 +142,13 @@ Available for web and mobile apps"
 
 Available for web and mobile apps  
 
-Smart Video Background: "Displayed in the background at the top of the page.  
+Smart Video Background: "Displayed in the background at the top of the page."
 
     * Increases inventory / VAST 3.0 & VPAID 2.0 compliant / Features customizable behavior / Includes interaction tracking
 
 Available for web  
 
-Go-To Vertical Video: "Re-designed to be displayed vertically when played on a mobile phone.  
+Go-To Vertical Video: "Re-designed to be displayed vertically when played on a mobile phone."
 
     * Increases inventory / VAST 3.0 compliant / Can be served with RTB   
 
