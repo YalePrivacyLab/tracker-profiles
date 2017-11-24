@@ -1,6 +1,6 @@
 # Localytics
 
-## Primary location
+## Primary Location
 United States (Boston) [Localytics, 01](https://www.localytics.com/company/about)
 
 ## Website
@@ -12,8 +12,8 @@ Localytics offers an analytics and marketing platform for targeted and personali
 ## Ownership
 Self-owned
 
-## Detection rules
-localytics
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
+* `localytics\.com`
 
 ## Documentation
 [https://docs.localytics.com/dev/android.html#android](https://docs.localytics.com/dev/android.html#android)
@@ -45,14 +45,14 @@ _Technology partners:_ Aarki / adjust / Applift / Applovin / AppsFlyer / Apptimi
 _Financial details:_ Localytics was founded in 2009 and and has raised over $69 million from funders [Localytics, 01](https://www.localytics.com/company/about); [Crunchbase, 01](https://www.crunchbase.com/organization/localytics).
 
 ## References
-_Localytics, 01_ [https://www.localytics.com/company/about](https://www.localytics.com/company/about)  
-_Localytics, 02_ [https://www.localytics.com](https://www.localytics.com)  
-_Localytics, 03_ [https://www.localytics.com/company/partners](https://www.localytics.com/company/partners)  
-_Localytics, 04_ [https://docs.localytics.com/dev/android.html#android](https://docs.localytics.com/dev/android.html#android)  
-_Localytics, 05_ [http://docs.localytics.com/dev/ios.html#identifying-users-ios](http://docs.localytics.com/dev/ios.html#identifying-users-ios)  
-_Localytics, 06_ [http://docs.localytics.com/dev/ios.html#uninstall-tracking-ios](http://docs.localytics.com/dev/ios.html#uninstall-tracking-ios)  
-_Localytics, 07_ [https://www.localytics.com/privacy-policy](https://www.localytics.com/privacy-policy](https://www.localytics.com/privacy-policy)
+* _Localytics, 01._ [https://www.localytics.com/company/about](https://www.localytics.com/company/about)  
+* _Localytics, 02._ [https://www.localytics.com](https://www.localytics.com)  
+* _Localytics, 03._ [https://www.localytics.com/company/partners](https://www.localytics.com/company/partners)  
+* _Localytics, 04._ [https://docs.localytics.com/dev/android.html#android](https://docs.localytics.com/dev/android.html#android)  
+* _Localytics, 05._ [http://docs.localytics.com/dev/ios.html#identifying-users-ios](http://docs.localytics.com/dev/ios.html#identifying-users-ios)  
+* _Localytics, 06._ [http://docs.localytics.com/dev/ios.html#uninstall-tracking-ios](http://docs.localytics.com/dev/ios.html#uninstall-tracking-ios)  
+* _Localytics, 07._ [https://www.localytics.com/privacy-policy](https://www.localytics.com/privacy-policy](https://www.localytics.com/privacy-policy)
 
 ## External Links
-_Crunchbase (Localytics)_ [https://www.crunchbase.com/organization/localytics](https://www.crunchbase.com/organization/localytics)  
-_Ghostery (Localytics)_ [https://apps.ghostery.com/ko/apps/localytics](https://apps.ghostery.com/ko/apps/localytics)
+* _Crunchbase (Localytics):_ [https://www.crunchbase.com/organization/localytics](https://www.crunchbase.com/organization/localytics)  
+* _Ghostery (Localytics):_ [https://apps.ghostery.com/ko/apps/localytics](https://apps.ghostery.com/ko/apps/localytics)
