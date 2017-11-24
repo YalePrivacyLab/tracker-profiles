@@ -54,10 +54,10 @@ Trade fairs:
 2. Inform visitors effectively of exhibition conferences and other upcoming events.  
 
 Concerts and museums:  
-Fidzup could allow each visitor to a museum to "automatically receive information of a work or piece just by being close to it".  At a concert, "it is possible to send the corresponding clip for the song played, or even send a survey to the crowd to let it choose the next title to be played". [Fidzup v2, 03](https://web.archive.org/web/20171015030737/http://v2.fidzup.com/en//cas-dusage)  
+Fidzup could allow each visitor to a museum to "automatically receive information of a work or piece just by being close to it".  At a concert, "it is possible to send the corresponding clip for the song played, or even send a survey to the crowd to let it choose the next title to be played" [Fidzup v2, 03](https://web.archive.org/web/20171015030737/http://v2.fidzup.com/en//cas-dusage).  
 
-Scope:_  
-According to Viuz, Fidzup has "more than 250 Fidboxes already installed, more than 5 million unique database clients and more than 150 million covered 'foot traffic'" [Viuz, 01](https://viuz.com/2015/03/19/fidzup-trophee-espoir-lndr-2015-les-outils-du-web-pour-re-inventer-le-commerce-physique)
+_Scope:_  
+According to Viuz, Fidzup has "more than 250 Fidboxes already installed, more than 5 million unique database clients and more than 150 million covered 'foot traffic'" [Viuz, 01](https://viuz.com/2015/03/19/fidzup-trophee-espoir-lndr-2015-les-outils-du-web-pour-re-inventer-le-commerce-physique).
 
 ## Privacy Policy
 _Data collection and identifiable information:_ Fidzup states it "collects data from wifi-enabled smartphones. No personal information is ever collected by us. We don't know who you are, we don't have access to your contacts, your messages, etc."
@@ -87,7 +87,7 @@ _Financial details: "Fidzup was founded in 2011 by two entrepreneurs sharing the
 
 For Product pricing (from old website), see [Fidzup v2, 04](https://web.archive.org/web/20171015030915/http://v2.fidzup.com/en//nos-offres).
 
-_Awards:_ Fidzup won the 2015 "Kings of Hope Prize" [Viuz, 01](https://viuz.com/2015/03/19/fidzup-trophee-espoir-lndr-2015-les-outils-du-web-pour-re-inventer-le-commerce-physique)
+_Awards:_ Fidzup won the 2015 "Kings of Hope Prize" [Viuz, 01](https://viuz.com/2015/03/19/fidzup-trophee-espoir-lndr-2015-les-outils-du-web-pour-re-inventer-le-commerce-physique).
 
 _Fidzup history and ideology:_ Fidzup is "Aware of the opportunities coming from the use of smartphones in your stores, our teams develop microlocation technologies to help you to reach your goals. Continuous innovation and improvement help us to develop more and more relevant and quicker and quicker solutions to install for our customers" [Fidzup, 02](https://www.fidzup.com/en/team). Their ambition is to "Provide physical commerce with the tools that pure players now enjoy". Where on the web professionals are able to identify a highly qualified target to better send them promotions, no solution existed for retailers to recover these prospects.
 
@@ -104,14 +104,13 @@ _Slogans:_
 * "A mailing platform for geolocalized interactive content" [Fidzup v2, 01](http://archive.is/kUZGK)  
 
 ### Methods
-Fidzup "has developed 3 solutions to detect the presence of a consumer in stores: Fidzup Microtargeting, Fidzup Retargeting and Fidzup Analytics. These technologies, easily deployable, are based on the principle of indoor geolocation (operating by wifi, ultrasound or BLE) and broadcast interactive content on smartphone. Thus, Fidzup captures and reactivates the consumer or simple visitor, either directly at the point of sale, or when he leaves the sign." [Fidzup, 03](http://www.fidzup.com/fidzup-2015.zip)
+Fidzup "has developed 3 solutions to detect the presence of a consumer in stores: Fidzup Microtargeting, Fidzup Retargeting and Fidzup Analytics. These technologies, easily deployable, are based on the principle of indoor geolocation (operating by wifi, ultrasound or BLE) and broadcast interactive content on smartphone. Thus, Fidzup captures and reactivates the consumer or simple visitor, either directly at the point of sale, or when he leaves the sign" [Fidzup, 03](http://www.fidzup.com/fidzup-2015.zip).
 
 Big Data / Predictive analytics / Programmatic / RTB  
 
 _Consumer targeting:_ Geographical/store / Digital navigation (on devices) / Habits / Purchase intention  
 
 "The most accurate in-store tracking technology on the market.  Measure your online campaigns ROI with adapted offline KPIs"  
-
 _Fidbox:_   
   * Works without any mobile app  
   * 3 meters accuracy; 4 years of R&D, 2 patents registered  
@@ -133,30 +132,30 @@ The consumer then receives relevant content, at the right place and at the best 
 
 - Use: In the face of the few players capable of detecting presence at the point of sale, Fidzup chose to specialize in consumer care once it is present. Thus, the startup has developed the lightest solution to send promotional content at the best time to maximize efficiency. The end customer has no action to do (except to download the application of the sign or the mall), it is the content that comes to him automatically and at a time when he will be attentive. Since the media is mobile, it is essential to offer end users a limited number of actions to perform for a simple and fluid use."   
 
-This can result in real-time data mining: "Since the operations implemented are mainly digital, La Vache Noire has the possibility to follow in real time the impact of its operation (participation rate, winning prizes, etc.)."  This can bring businesses that did not previously data mine into the data mining fold: "Finally, the marketing department of the center has retained a certain interest from brands that have never participated so much in a digital transaction. Thus, prestigious brands such as Celio, Jules, Yves Rocher or Darjeeling participate each week in the operation 'List of promotions'."  [Fidzup, 03](http://www.fidzup.com/fidzup-2015.zip)
+This can result in real-time data mining: "Since the operations implemented are mainly digital, La Vache Noire has the possibility to follow in real time the impact of its operation (participation rate, winning prizes, etc.)."  This can bring businesses that did not previously data mine into the data mining fold: "Finally, the marketing department of the center has retained a certain interest from brands that have never participated so much in a digital transaction. Thus, prestigious brands such as Celio, Jules, Yves Rocher or Darjeeling participate each week in the operation 'List of promotions'"  [Fidzup, 03](http://www.fidzup.com/fidzup-2015.zip).
 
 "Fidzup has developed a means of communication between a sonic emitter and a mobile phone. Thus, by diffusing a tone, inaubible to the human ear, inside a building we can detect the presence of mobile phones and therefore their owners. How does the detection work? Your visitors must have the mobile application already installed on their smartphone. This contains a software layer (a SDK supplied by Fidzup) capable of detecting the signals and decoding them. What kind of sonic emitter can be used? It is possible to use any audio source to diffuse the signals. In fact, Fidzup has come up with a variety of hardware solutions depending on the user’s requirements.  
 
 ... We supply you with one or several bespoke sonic signals to diffuse in your establishment. Depending on the type of building and the type of usage you require, Fidzup offers a choice of several hardware and software solutions to simplify and optimize the diffusion of its sonic technology. Depending on the method of emission chosen, a sonic signal can be used to cover a precise zone of a store, the corridors of a shopping mall or even detect a visitor admiring a work of art in an art exhibition."   
 
-... "Installing the SDK into your mobile application: We supply you with a software layer (SDK) to add to your mobile application. this layer detects and decodes the audio signal. The SDK is supplied with full documentation to help you install it swiftly and easily into your mobile application.The SDK is compatible with both iOS (iPhone) and Android operating systems.  Minimum requirement for the iOS operating system: iOS version 5; Minimum requirement for the Android operating system: Android 2.3.5 (HTC One X not supported)" [Fidzup v2, 02](https://web.archive.org/web/20171015025307/http://v2.fidzup.com/en//notre-solution)
+... "Installing the SDK into your mobile application: We supply you with a software layer (SDK) to add to your mobile application. this layer detects and decodes the audio signal. The SDK is supplied with full documentation to help you install it swiftly and easily into your mobile application.The SDK is compatible with both iOS (iPhone) and Android operating systems.  Minimum requirement for the iOS operating system: iOS version 5; Minimum requirement for the Android operating system: Android 2.3.5 (HTC One X not supported)" [Fidzup v2, 02](https://web.archive.org/web/20171015025307/http://v2.fidzup.com/en//notre-solution).
 
 _Fidzup Analytics:_ "Fidzup Analytics is a technology based on wifi that analyzes the traffic in points of sale, especially for shopping centers and supermarkets. Coupled with the Fidzup Retargeting solution, this technology makes it possible to capture on average 40% of the real traffic, whether the consumers / visitors are carriers of the application of the center or not.
 
-To facilitate the handling of its solution, Fidzup gives direct access to the Analytics interface to the shopping center teams. The management can then see the route taken by its visitors from one store to another and analyze the data retrieved by day, week or month. Thus, Fidzup Analytics is able to display the traffic generated in the point of sale, the average duration of a visit, its frequency and to couple all these data to highlight trends or peaks of affluence. For the management of the center, the interest of these crossings of data is of size: to be able to identify the typical course of a customer and thus to define the zones "cold" or "hot" of the shopping mall (that is to say to say the locations more or less visited). Thanks to Fidzup Analytics, retail professionals can have a perfect knowledge of their customers, their habits in the center, but also know if their rental spaces are properly valued according to the passage of visitors. Finally, with the Analytics solution, shopping centers now have the opportunity to measure the audience generated by their communication devices already in place (promotional video screen, POS, display, totem ...). Indeed, depending on the information provided on these media, Fidzup is able to know the impact on the shopping journey of the customer and sales."   [Fidzup, 03](http://www.fidzup.com/fidzup-2015.zip)
+To facilitate the handling of its solution, Fidzup gives direct access to the Analytics interface to the shopping center teams. The management can then see the route taken by its visitors from one store to another and analyze the data retrieved by day, week or month. Thus, Fidzup Analytics is able to display the traffic generated in the point of sale, the average duration of a visit, its frequency and to couple all these data to highlight trends or peaks of affluence. For the management of the center, the interest of these crossings of data is of size: to be able to identify the typical course of a customer and thus to define the zones "cold" or "hot" of the shopping mall (that is to say to say the locations more or less visited). Thanks to Fidzup Analytics, retail professionals can have a perfect knowledge of their customers, their habits in the center, but also know if their rental spaces are properly valued according to the passage of visitors. Finally, with the Analytics solution, shopping centers now have the opportunity to measure the audience generated by their communication devices already in place (promotional video screen, POS, display, totem ...). Indeed, depending on the information provided on these media, Fidzup is able to know the impact on the shopping journey of the customer and sales"   [Fidzup, 03](http://www.fidzup.com/fidzup-2015.zip).
 
-"Fidzup’s Programmatic & Analytics Platform is made up of DSP, DMP and Tag management solutions, developed in-house for bricks-and-mortar stores. These technologies enable store managers to direct their campaigns while accurately measuring their return on investment."  [BusinessWire, 01](http://www.businesswire.com/news/home/20161130005981/en/Fidzup-Performance-Marketing-Startup-Retailers-Raises-3.7)
+"Fidzup’s Programmatic & Analytics Platform is made up of DSP, DMP and Tag management solutions, developed in-house for bricks-and-mortar stores. These technologies enable store managers to direct their campaigns while accurately measuring their return on investment"  [BusinessWire, 01](http://www.businesswire.com/news/home/20161130005981/en/Fidzup-Performance-Marketing-Startup-Retailers-Raises-3.7).
 
 Sonice emission solutions:   
 
 - Web player: The web player allows you to emit the Fidzup sonic signal via your computer. This solution is ideal for small spaces with no audio system in place.  
 - Standalone emitter unit: This mains connected unit allows you to broadcast your sound signal continuously in the manner of a portable and independent speaker enclosure. This solution is ideal for creating an interactive zone in a specific area of your establishment.   
 - Mixer emitter unit: The mixer unit, also mains connected, can automatically mix your signal sound with the music played through your audio system. This solution is ideal for users wishing to cover all areas of their establishment through their own public address system.   
-- Custom installation: Your audio system is managed by an external provider? No problem, Fidzup can work with them to simplify the deployment, as it could then be managed remotely, without any hardware installation in situ." [Fidzup, 03](http://www.fidzup.com/fidzup-2015.zip)  
+- Custom installation: Your audio system is managed by an external provider? No problem, Fidzup can work with them to simplify the deployment, as it could then be managed remotely, without any hardware installation in situ" [Fidzup, 03](http://www.fidzup.com/fidzup-2015.zip).  
 
 _Web interface:_ "We give you secure access to an administrative interface that allows you to devise promotional content that will be displayed on visitors’ smartphones as soon as they are detected in your establishment. Adjust the parameters and pre-visualize your content: expiry dates, target zones, message type, image uploads, content descriptions, etc., The interface is intuitive and extensive. From a discount coupon to a simple information bulletin, take advantage of the numerous pre- configured items in the interface to send the right content at the right time to your visitors.  
 
-... Following promotional campaigns: Our administrator’s inferface includes a comprehensive dashboard and accurate statistics that allow you to monitor the performance of your promotional campaigns.The number of detections in your location, number of messages sent and received, CTR (click- through rate)... View the impact of your advertising campaigns at a glance and optimize them swiftly." [Fidzup v2, 02](https://web.archive.org/web/20171015025307/http://v2.fidzup.com/en//notre-solution) <--See website for images      
+... Following promotional campaigns: Our administrator’s inferface includes a comprehensive dashboard and accurate statistics that allow you to monitor the performance of your promotional campaigns.The number of detections in your location, number of messages sent and received, CTR (click- through rate)... View the impact of your advertising campaigns at a glance and optimize them swiftly" [Fidzup v2, 02](https://web.archive.org/web/20171015025307/http://v2.fidzup.com/en//notre-solution).     
 
 _Some of the data collected:_  
 
@@ -206,18 +205,3 @@ _Fidzup, 10_ [https://web.archive.org/web/20171124094810/https://play.google.com
 _Fidzup, 11_ [https://web.archive.org/web/20171124094853/https://www.fidzup.com/en/use-case/](https://web.archive.org/web/20171124094853/https://www.fidzup.com/en/use-case/)
 _Fidzup, 12_ [https://web.archive.org/web/20171124094955/https://vimeo.com/59666867](https://web.archive.org/web/20171124094955/https://vimeo.com/59666867)
 _Fidzup, 13_ [https://web.archive.org/web/20171124095009/https://vimeo.com/80601084](https://web.archive.org/web/20171124095009/https://vimeo.com/80601084)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
