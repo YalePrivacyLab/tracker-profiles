@@ -13,7 +13,7 @@ Pushwoosh pushes in-app messaging across platforms [Pushwoosh, 01](https://www.p
 Pushwoosh
 
 ## Detection rules
-pushwoosh\.com
+* `pushwoosh\.com`
 
 ## Documentation
 [http://docs.pushwoosh.com/docs/fcm-integration](http://docs.pushwoosh.com/docs/fcm-integration)
