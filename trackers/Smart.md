@@ -1,23 +1,23 @@
 # Smart (Smart AdServer)
 
-## Location
+## Primary Location
 France
 
 ## Website
 http://smartadserver.com
 
-##About
+## About
 "Use a full stack ad technology platform to manage all your digital campaigns" [Smart, 03](http://smartadserver.com/request-a-demo)  
 "Multi-screen and multi-channel advertising is so complicated. Smart makes it easy." [Smart, 01](http://smartadserver.com)  
 
 ## Ownership
 Smart
 
-## Detection rules
-* smartadserver\.com
-* saspreview\.com
+## Detection Rules
+* `smartadserver\.com`
+* `saspreview\.com`
 
-## Products and services
+## Products and Services
 * bullet
 * bullet
 
@@ -190,10 +190,10 @@ _Mobile:_
 5. Showcasing: "Showcase apps by previewing ad on actual devices before it goes live" [Smart, 09](http://smartadserver.com/publisher-platform/mobile)
 
 ## References
-_Smart, 03_ [http://smartadserver.com/request-a-demo](http://smartadserver.com/request-a-demo)  
-_Wikipedia, 01_ [https://en.wikipedia.org/wiki/Smart_Adserver](https://en.wikipedia.org/wiki/Smart_Adserver)  
-_Ghostery, 01_ [https://apps.ghostery.com/apps/smart_adserver](https://apps.ghostery.com/apps/smart_adserver)
+* _Smart, 03._ [http://smartadserver.com/request-a-demo](http://smartadserver.com/request-a-demo)  
+* _Wikipedia, 01._ [https://en.wikipedia.org/wiki/Smart_Adserver](https://en.wikipedia.org/wiki/Smart_Adserver)  
+* _Ghostery, 01._ [https://apps.ghostery.com/apps/smart_adserver](https://apps.ghostery.com/apps/smart_adserver)
 
 ## External Links
-_Ghostery_ [https://apps.ghostery.com/apps/smart_adserver](https://apps.ghostery.com/apps/smart_adserver)  
-_Wikipedia_ [https://en.wikipedia.org/wiki/Smart_Adserver](https://en.wikipedia.org/wiki/Smart_Adserver)
+* _Ghostery_: [https://apps.ghostery.com/apps/smart_adserver](https://apps.ghostery.com/apps/smart_adserver)  
+* _Wikipedia_: [https://en.wikipedia.org/wiki/Smart_Adserver](https://en.wikipedia.org/wiki/Smart_Adserver)
