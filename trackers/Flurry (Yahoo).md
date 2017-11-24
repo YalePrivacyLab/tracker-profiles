@@ -1,6 +1,6 @@
 # Flurry
 
-## Location
+## Primary Location
 United States
 
 ## Website
@@ -12,8 +12,8 @@ Flurry is part of the Yahoo Developer network suite. Flurry's product, Flurry An
 ## Ownership
 Oath Inc. (subsidiary of Verizon Communications; Oath includes Yahoo and AOL) [Wikipedia, 01](https://en.wikipedia.org/wiki/Oath_Inc.); [Ars Technica, 01](https://arstechnica.com/information-technology/2017/06/oath-verizon-completes-4-5-billion-buy-of-yahoo-and-merges-it-with-aol)
 
-## Detection rules
-* `flurry \ .com`
+## Detection Rules
+* `flurry\.com`
 
 ## Products and Services
 Flurry Analytics:
