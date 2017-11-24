@@ -85,3 +85,6 @@ _AppNexus Platform Data Uses:_
 ## External Links
 * _Wikipedia (AppNexus)_: [https://en.wikipedia.org/wiki/AppNexus](https://en.wikipedia.org/wiki/AppNexus)
 * _AppBrain_: [https://www.appbrain.com/dev/AppNexus/](https://archive.is/rI5Hu)
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
