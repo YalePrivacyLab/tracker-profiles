@@ -70,3 +70,6 @@ The AppsFlyer SDK is available for Android, iPhone, and Windows Phone
 ## External Links
 * _Wikipedia (AppsFlyer)_: [https://en.wikipedia.org/wiki/AppsFlyer](https://en.wikipedia.org/wiki/AppsFlyer)
 * _AppBrain_: [https://www.appbrain.com/app/appsflyer-sdk-integration-test/com.appsflyer.referrerSender](https://archive.is/ufCAR)
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
