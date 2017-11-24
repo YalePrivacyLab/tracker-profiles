@@ -21,7 +21,7 @@ AppNexus
 ## Products and Services
 For publishers:
 
-* segments audiences
+* Segments audiences
 * Uses data analytics to predict delivery risk (ie, delivery of ads)
 * Connects ads across devices
 * Run bidding ad processes [AppsNexus, 01](https://www.appnexus.com/en/publishers)
