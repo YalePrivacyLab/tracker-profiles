@@ -26,11 +26,11 @@ Mopub describes itself as "The leading monetization platform for mobile app publ
 * They offer "ad serving tools, interface, and analytics".
 
 For publishers:  [Mopub, 02](https://www.mopub.com/publishers/overview)
-* Offer a "dependable back-end systems powered by Twitter’s world-class data center strength"
-* Consultative services
-* Offer a creative dashboard for ad serving tools, interface, and ad formats
-* Offer publishers access to over 180 demand-side platforms
-* Help publishers reach an audience across 49,000 apps and 1.5 billion devices [MoPub, 03](https://www.mopub.com/dsp/overview)
+* Offer a "dependable back-end systems powered by Twitter’s world-class data center strength."
+* Offer consultative services.
+* Offer a creative dashboard for ad serving tools, interface, and ad formats.
+* Offer publishers access to over 180 demand-side platforms.
+* Help publishers reach an audience across 49,000 apps and 1.5 billion devices [MoPub, 03](https://www.mopub.com/dsp/overview).
 
 ## Privacy Policy
 
@@ -61,7 +61,7 @@ _Information sharing:_
 * Aggregated and non-PII data: "We share aggregate or non-personally identifiable information about the use of our Services with MoPub Customers. For example, we provide advertisers reports showing how many users viewed or clicked on their ads. We also provide publishers reports about the types of ads served to their apps."
 * With partners: who help with anti-fraud, quality, and security efforts.
 * With partners: who help MoPub improve mobile advertising exchange services.
-* Within "our corporate family to provide, understand, or improve their or our services"
+* Within "our corporate family to provide, understand, or improve their or our services."
 
 MoPub also shares data as described in Section 3 of the Privacy Policy (see below).  
 
