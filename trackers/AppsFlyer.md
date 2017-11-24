@@ -1,19 +1,19 @@
 # AppsFlyer
 
-## Primary location
+## Primary Location
 Israel (Herzliya)
 
 ## Website
 [https://www.appsflyer.com](https://www.appsflyer.com)
 
-##About
+## About
 A mobile & attribution analytics platform that aims to help marketers make better decisions [AppsFlyer, 01](https://www.appsflyer.com)
 
 ## Ownership
 AppsFlyer
 
-## Detection rules
-appsflyer\.com
+## Detection Rules
+* `appsflyer\.com`
 
 ## Documentation
 [https://support.appsflyer.com/hc/en-us/articles/207032126-AppsFlyer-SDK-Integration-Android](https://support.appsflyer.com/hc/en-us/articles/207032126-AppsFlyer-SDK-Integration-Android)
@@ -51,21 +51,22 @@ According to VentureBeat, AppsFlyer leverages metadata from 98% of the world's m
 The AppsFlyer SDK is available for Android, iPhone, and Windows Phone
 
 ## References
-_AppsFlyer, 01_ [https://www.appsflyer.com](https://www.appsflyer.com)  
-_AppsFlyer, 02_ [https://www.appsflyer.com/we-are-appsflyer](https://www.appsflyer.com/we-are-appsflyer)  
-_AppsFlyer, 03_ [https://www.appsflyer.com/partners](https://www.appsflyer.com/partners)  
-_AppsFlyer, 04_ [https://www.appsflyer.com/product/protect360](https://www.appsflyer.com/product/protect360)  
-_AppsFlyer, 05_ [https://www.appsflyer.com/product/mobile-ecosystem](https://www.appsflyer.com/product/mobile-ecosystem)  
-_AppsFlyer, 06_ [https://www.appsflyer.com/product/marketing-analytics](https://www.appsflyer.com/product/marketing-analytics)  
-_AppsFlyer, 07_ [https://www.appsflyer.com/product/overview](https://www.appsflyer.com/product/overview)
+* _AppsFlyer, 01_. [https://www.appsflyer.com](https://www.appsflyer.com)  
+* _AppsFlyer, 02_. [https://www.appsflyer.com/we-are-appsflyer](https://www.appsflyer.com/we-are-appsflyer)  
+* _AppsFlyer, 03_. [https://www.appsflyer.com/partners](https://www.appsflyer.com/partners)  
+* _AppsFlyer, 04_. [https://www.appsflyer.com/product/protect360](https://www.appsflyer.com/product/protect360)  
+* _AppsFlyer, 05_. [https://www.appsflyer.com/product/mobile-ecosystem](https://www.appsflyer.com/product/mobile-ecosystem)  
+* _AppsFlyer, 06_. [https://www.appsflyer.com/product/marketing-analytics](https://www.appsflyer.com/product/marketing-analytics)  
+* _AppsFlyer, 07_. [https://www.appsflyer.com/product/overview](https://www.appsflyer.com/product/overview)
 
-_CrunchBase, 01_ [https://www.crunchbase.com/funding_round/appsflyer-seed--4b06b119](https://www.crunchbase.com/funding_round/appsflyer-seed--4b06b119)  
+* _CrunchBase, 01_. [https://www.crunchbase.com/funding_round/appsflyer-seed--4b06b119](https://www.crunchbase.com/funding_round/appsflyer-seed--4b06b119)  
 
-_Google, 01_ [https://adwords.googleblog.com/2015/05/new-media-partnerships-and-ad-solutions.html](https://adwords.googleblog.com/2015/05/new-media-partnerships-and-ad-solutions.html)  
+* _Google, 01_. [https://adwords.googleblog.com/2015/05/new-media-partnerships-and-ad-solutions.html](https://adwords.googleblog.com/2015/05/new-media-partnerships-and-ad-solutions.html)  
 
-_TechCrunch, 02_ [https://techcrunch.com/2015/05/28/google-expands-its-app-promotion-business-with-universal-app-campaigns-and-new-media-partnerships](https://techcrunch.com/2015/05/28/google-expands-its-app-promotion-business-with-universal-app-campaigns-and-new-media-partnerships)
+* _TechCrunch, 02_. [https://techcrunch.com/2015/05/28/google-expands-its-app-promotion-business-with-universal-app-campaigns-and-new-media-partnerships](https://techcrunch.com/2015/05/28/google-expands-its-app-promotion-business-with-universal-app-campaigns-and-new-media-partnerships)
 
-_VentureBeat, 01_ [https://venturebeat.com/2017/05/25/appsflyer-helps-mobile-advertisers-beat-back-ad-fraud-via-machine-learning](https://venturebeat.com/2017/05/25/appsflyer-helps-mobile-advertisers-beat-back-ad-fraud-via-machine-learning)
+* _VentureBeat, 01_. [https://venturebeat.com/2017/05/25/appsflyer-helps-mobile-advertisers-beat-back-ad-fraud-via-machine-learning](https://venturebeat.com/2017/05/25/appsflyer-helps-mobile-advertisers-beat-back-ad-fraud-via-machine-learning)
 
 ## External Links
-_Wikipedia (AppsFlyer_ [https://en.wikipedia.org/wiki/AppsFlyer](https://en.wikipedia.org/wiki/AppsFlyer)
+* _Wikipedia (AppsFlyer)_ [https://en.wikipedia.org/wiki/AppsFlyer](https://en.wikipedia.org/wiki/AppsFlyer)
+* _AppBrain_: [https://www.appbrain.com/app/appsflyer-sdk-integration-test/com.appsflyer.referrerSender](https://archive.is/ufCAR)
