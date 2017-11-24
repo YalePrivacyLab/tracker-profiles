@@ -21,15 +21,15 @@ doubleclick\.net
 
 ## Products and Services
 
-### Store visit tracking
-Through AdWords, Google offers insights on store-visit conversions: "In DoubleClick Search, you can report on store visit conversions by adding a custom AdWords store visit conversions column to a report" [Google, 01](https://support.google.com/ds/answer/6348835?hl=en).
-
 ### Identification and Analytics
 * Through DoubleClick Campaign Manager (DCM), Google uses mobile device IDs to attribute conversions to mobile devices [DoubleClick, 07](https://developers.google.com/doubleclick-advertisers/guides/conversions_overview#using_mobile_device_id).
 * DoubleClick segments audiences for targeted advertising [The Guardian, 01](https://www.theguardian.com/technology/2012/apr/23/doubleclick-tracking-trackers-cookies-web-monitoring).
 * Google performs cross-device identification (via Google Attribution) [Search Engine Land, 01](https://searchengineland.com/google-attribution-search-marketers-need-know-275751); [DoubleClick, 01](https://www.doubleclickbygoogle.com/articles/google-debuts-new-ad-attribution-service); [Forbes, 01](https://www.forbes.com/sites/roberthof/2017/05/23/did-that-ad-work-google-debuts-new-ai-driven-ad-attribution-service).
 * Google connects data to personally identifiable information [ProPublica, 01](https://www.propublica.org/article/google-has-quietly-dropped-ban-on-personally-identifiable-web-tracking).
 * DoubleClick offers analytics services for revenue management [DoubleClick, 05](https://www.doubleclickbygoogle.com/solutions/revenue-management/ad-exchange); [DoubleClick, 06](https://support.google.com/dcm/partner/answer/4568975?hl=en); [Online-behavior.com, 01](http://online-behavior.com/analytics/dfp-audience)
+
+### Store visit tracking
+Through AdWords, Google offers insights on store-visit conversions: "In DoubleClick Search, you can report on store visit conversions by adding a custom AdWords store visit conversions column to a report" [Google, 01](https://support.google.com/ds/answer/6348835?hl=en).
 
 ### Advertising Methods
 * DoubleClick loads targeted advertisements [Google, 03](https://support.google.com/dfp_premium/answer/2884033?hl=en); [Google, 05, PDF](http://services.google.com/fh/files/misc/case-study-accuweather-delivers-enhanced-value-to-advertisers-with-doubleclick-for-publishers-and-google-analytics-360.pdf); [The Guardian, 01](https://www.theguardian.com/technology/2012/apr/23/doubleclick-tracking-trackers-cookies-web-monitoring).
