@@ -184,3 +184,6 @@ _Passbook:_ "Thanks to Ad4Screen, discover Passbook and boost your in-store traf
 ## External links
 * _Crunchbase (Ad4Screen)_: [https://www.crunchbase.com/organization/ad4screen](https://www.crunchbase.com/organization/ad4screen)  
 * _AppBrain_: [https://www.appbrain.com/dev/AD4Screen/](https://archive.is/SgBjU)
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
