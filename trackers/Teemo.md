@@ -1,6 +1,6 @@
 # Teemo (ex Databerries)
 
-## Country
+## Primary Location
 France (Paris) [Crunchbase, 01](https://www.crunchbase.com/organization/databerries)
 
 ## Website
@@ -12,11 +12,11 @@ Teemo claims to run the "World's first and biggest persistent geolocation target
 ## Ownership
 Teemo
 
-## Detection rules
-databerries\.com
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
+* `databerries\.com`
 
 ## Documentation
-Not Listed
+https://teemo.co/sdkguidelines/
 
 ## Products and Services
 
@@ -46,7 +46,7 @@ _App Publishers - We Monetize Your Geolocation Data:_ "Our SDK:
 
 ### Methods
 
-Teemo utilizes geolocation collection through the Databerries (Teemo) SDK
+Teemo utilizes geolocation collection through the Databerries (Teemo) SDK.
 
 ## Privacy Policy
 
@@ -117,13 +117,15 @@ _Slogans:_
 _Devices:_ Android (Google Android ID) and Apple (IDFA)
 
 ## References
-_Crunchbase, 01_ [https://www.crunchbase.com/organization/databerries](
+* _Crunchbase, 01._ [https://www.crunchbase.com/organization/databerries](https://www.crunchbase.com/organization/databerries)
+* _Teemo, 01._ [http://teemo.co](http://teemo.co)  
+* _Teemo, 02._ [https://teemo.co/about](https://teemo.co/about) 
+* _Teemo, 03._ [https://teemo.co/sdkguidelines](https://teemo.co/sdkguidelines)   
+* _Teemo, 04._ [https://teemo.co/privacy](https://teemo.co/privacy)
 
-[Teemo, 01](http://teemo.co)  
-[Teemo, 02](https://teemo.co/about)  
-[Teemo, 03](https://teemo.co/sdkguidelines)   
-[Teemo, 04](https://teemo.co/privacy) 
+## External Links
+* _Go4Venture, 01:_ [http://go4venture.com/hti/usd-16m-a-mar-2017-databerries](http://go4venture.com/hti/usd-16m-a-mar-2017-databerries)  
+* _L'Expansion, 01:_ [https://lexpansion.lexpress.fr/high-tech/teemo-la-start-up-qui-traque-10-millions-de-francais-en-continu_1937638.html](https://lexpansion.lexpress.fr/high-tech/teemo-la-start-up-qui-traque-10-millions-de-francais-en-continu_1937638.html)
 
-[Go4Venture, 01](http://go4venture.com/hti/usd-16m-a-mar-2017-databerries)  
-
-[L'Expansion, 01](https://lexpansion.lexpress.fr/high-tech/teemo-la-start-up-qui-traque-10-millions-de-francais-en-continu_1937638.html)
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
