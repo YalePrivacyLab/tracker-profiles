@@ -6,14 +6,14 @@ United States
 ## Website
 [https://www.tinder.com](https://www.tinder.com)
 
-##About
+## About
 Tinder is a location-based social search mobile app geared towards dating and hook-up culture.
 
 ## Ownership
 Match Group (a division of IAC/InterActiveCorp) [BusinessInsider, 01](http://www.businessinsider.com/match-the-company-that-owns-tinder-just-filed-to-go-public-2015-10); [CrunchBase, 01](https://www.crunchbase.com/organization/match-group)
 
-## Detection rules
-etl\.tindersparks\.com
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
+* `etl\.tindersparks\.com`
 
 ## Documentation
 Not public
