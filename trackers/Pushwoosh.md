@@ -48,17 +48,17 @@ Nissan / Mercedes / Leica / Bosch / Sabre / runtastic / Abbyy / Silicon Beach Me
 _Financial details:_ Pushwoosh was founded in 2011 [Crunchbase, 01](https://www.crunchbase.com/organization/pushwoosh).
 
 ## References
-_CrunchBase, 01 [https://www.crunchbase.com/organization/pushwoosh](https://www.crunchbase.com/organization/pushwoosh)  
-
-_Pushwoosh, 01_ [https://www.pushwoosh.com](https://www.pushwoosh.com)  
-_Pushwoosh, 02_ [https://www.pushwoosh.com/features](https://www.pushwoosh.com/features)
-_Pushwoosh, 03_ [http://docs.pushwoosh.com/docs/geozones](http://docs.pushwoosh.com/docs/geozones)  
-_Pushwoosh, 04_ [http://docs.pushwoosh.com/docs/segmentation-tags-and-filters](http://docs.pushwoosh.com/docs/segmentation-tags-and-filters)  
-_Pushwoosh, 05_ [https://docs.pushwoosh.com/v1.0/docs/in-apps-tracking](https://docs.pushwoosh.com/v1.0/docs/in-apps-tracking)  
-_Pushwoosh, 06_ [https://www.pushwoosh.com/conversion-tracking](https://www.pushwoosh.com/conversion-tracking)  
-_Pushwoosh, 07_ [https://www.pushwoosh.com/abandoned-cart](https://www.pushwoosh.com/abandoned-cart)  
-_Pushwoosh, 08_ [https://www.pushwoosh.com/privacy-policy](https://www.pushwoosh.com/privacy-policy)  
-_Pushwoosh, 09_ [https://www.pushwoosh.com/business-cases](https://www.pushwoosh.com/business-cases)
+* _CrunchBase, 01._ [https://www.crunchbase.com/organization/pushwoosh](https://www.crunchbase.com/organization/pushwoosh)  
+* _Pushwoosh, 01._ [https://www.pushwoosh.com](https://www.pushwoosh.com)  
+* _Pushwoosh, 02._ [https://www.pushwoosh.com/features](https://www.pushwoosh.com/features)
+* _Pushwoosh, 03._ [http://docs.pushwoosh.com/docs/geozones](http://docs.pushwoosh.com/docs/geozones)  
+* _Pushwoosh, 04._ [http://docs.pushwoosh.com/docs/segmentation-tags-and-filters](http://docs.pushwoosh.com/docs/segmentation-tags-and-filters)  
+* _Pushwoosh, 05._ [https://docs.pushwoosh.com/v1.0/docs/in-apps-tracking](https://docs.pushwoosh.com/v1.0/docs/in-apps-tracking)  
+* _Pushwoosh, 06._ [https://www.pushwoosh.com/conversion-tracking](https://www.pushwoosh.com/conversion-tracking)  
+* _Pushwoosh, 07._ [https://www.pushwoosh.com/abandoned-cart](https://www.pushwoosh.com/abandoned-cart)  
+* _Pushwoosh, 08._ [https://www.pushwoosh.com/privacy-policy](https://www.pushwoosh.com/privacy-policy)  
+* _Pushwoosh, 09._ [https://www.pushwoosh.com/business-cases](https://www.pushwoosh.com/business-cases)
 
 ## External Links
-??? NONE ???
+* Owler company profile: [https://www.owler.com/iaApp/4589235/pushwoosh-company-profile](https://www.owler.com/iaApp/4589235/pushwoosh-company-profile)
+* Pushwoosh on Github: [https://github.com/Pushwoosh](https://github.com/Pushwoosh)
