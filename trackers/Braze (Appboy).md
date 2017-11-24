@@ -67,19 +67,18 @@ _Financial details:_ Braze was founded in 2011 and has raised over $95 million f
 * Reports for clients [Braze, 06](https://www.braze.com/product/optimization-ai)
 
 ## References
-[Braze, 01] (https://www.braze.com)  
-[Braze, 02] (https://www.braze.com/product/cross-channel-personalization)  
-[Braze, 03] (https://www.slideshare.net/Appboy/appboy-urban-outfitters-placeiq-case-study)  
-[Braze, 04] (https://www.braze.com/customers/postmates)  
-[Braze, 05] (https://www.braze.com/product/lifecycle-engagement-orchestration)  
-[Braze, 06] (https://www.braze.com/product/optimization-ai)  
-[Braze, 07] (https://www.braze.com/product/integrations)  
-[Braze, 08] (https://www.braze.com/academy/User_Targeting)  
-[Braze, 09] (https://www.braze.com/blog/appboy-location-targeting-tool)  
-[Braze, 10] (http://www.prweb.com/releases/2013/10/prweb11275487.htm)  
-[Braze, 11] (https://www.braze.com/privacy)
-
-[Crunchbase, 01](https://www.crunchbase.com/organization/braze)  
+* _Braze, 01._ (https://www.braze.com)[https://www.braze.com]
+* _Braze, 02._ (https://www.braze.com/product/cross-channel-personalization)[https://www.braze.com/product/cross-channel-personalization]
+* _Braze, 03._ (https://www.slideshare.net/Appboy/appboy-urban-outfitters-placeiq-case-study)[https://www.slideshare.net/Appboy/appboy-urban-outfitters-placeiq-case-study)  
+[Braze, 04._ (https://www.braze.com/customers/postmates)[https://www.braze.com/customers/postmates]
+* _Braze, 05._ (https://www.braze.com/product/lifecycle-engagement-orchestration)[https://www.braze.com/product/lifecycle-engagement-orchestration]
+* _Braze, 06._ (https://www.braze.com/product/optimization-ai)[https://www.braze.com/product/optimization-ai]
+* _Braze, 07._ (https://www.braze.com/product/integrations)[https://www.braze.com/product/integrations]
+* _Braze, 08._ (https://www.braze.com/academy/User_Targeting)[https://www.braze.com/academy/User_Targeting]
+* _Braze, 09._ (https://www.braze.com/blog/appboy-location-targeting-tool)[https://www.braze.com/blog/appboy-location-targeting-tool]
+* _Braze, 10._ (http://www.prweb.com/releases/2013/10/prweb11275487.htm)[http://www.prweb.com/releases/2013/10/prweb11275487.htm]
+* _Braze, 11._ (https://www.braze.com/privacy)[https://www.braze.com/privacy]
+* _Crunchbase, 01._ (https://www.crunchbase.com/organization/braze)[https://www.crunchbase.com/organization/braze)
 
 ## External Links
 * _Crunchbase (Braze):_ [https://www.crunchbase.com/organization/braze](https://www.crunchbase.com/organization/braze)
