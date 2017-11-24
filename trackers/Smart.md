@@ -13,13 +13,9 @@ http://smartadserver.com
 ## Ownership
 Smart
 
-## Detection Rules
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 * `smartadserver\.com`
 * `saspreview\.com`
-
-## Products and Services
-* bullet
-* bullet
 
 ## Relationships
 650+ customers [Smart, 11](http://smartadserver.com/media-buyers) 
@@ -31,7 +27,7 @@ _Others:_
 
 * 2nd screen: screenpulse / TVTY Real Time / Visiware International  
 * 3rd Party Vendors: adform / celtra / DoubleClick by Google / Atlast by Facebook / flashtalking / InMobi / inspired / justAd / MobileAds / S4M / Sizmek / userADgents / weborama / Joule  
-* Analytics: (Keynote? -- see website) / S4M  
+* Analytics: Keynote / S4M  
 * Audience Data: AudienceScience / ezakus / Globalfastads.com / navegg / Tail Target / krux  
 * Brandsafety: adwatchisobar  
 * Content Delivery Network: Akamai / Level(3)  
@@ -197,3 +193,6 @@ _Mobile:_
 ## External Links
 * _Ghostery_: [https://apps.ghostery.com/apps/smart_adserver](https://apps.ghostery.com/apps/smart_adserver)  
 * _Wikipedia_: [https://en.wikipedia.org/wiki/Smart_Adserver](https://en.wikipedia.org/wiki/Smart_Adserver)
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
