@@ -1,4 +1,4 @@
-# Scorecard Research
+# ScorecardResearch
 
 ## Primary Location
 Unknown
