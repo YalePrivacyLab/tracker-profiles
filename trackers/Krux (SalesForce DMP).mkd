@@ -12,8 +12,8 @@ Salesforce DMP is a data management platform that manages data, identifies end u
 ## Ownership
 Salesforce
 
-## Detection Rules
-krxd\.net
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
+* `mparticle\.com`
 
 ## Documentation
 [https://konsole.zendesk.com/hc/en-us/articles/226031268-Android-SDK-Implementation-Guide](https://konsole.zendesk.com/hc/en-us/articles/226031268-Android-SDK-Implementation-Guide)
@@ -301,69 +301,70 @@ Features:
 
 Devices; People are only displayed in the Segment dashboard." Safari users are not included because Safari doesn't allow 3rd party cookies. [Salesforce, 52](https://konsole.zendesk.com/hc/en-us/articles/115007354408-Salesforce-DMP-Reporting-FAQ)
 
-## BIBLIOGRAPHY
-_Crunchbase, 01_ [https://www.crunchbase.com/organization/krux-digital](https://www.crunchbase.com/organization/krux-digital)
+## References and External Links
+* _Crunchbase, 01._ [https://www.crunchbase.com/organization/krux-digital](https://www.crunchbase.com/organization/krux-digital)
+* _Salesforce, 01._ https://www.salesforce.com/blog/2017/05/krux-is-now-salesforce-dmp.html
+* _Salesforce, 02._ https://konsole.zendesk.com/hc/en-us/articles/115000451248-Salesforce-DMP-SDK-FAQ
+* _Salesforce, 03._ https://konsole.zendesk.com/hc/en-us/articles/115000428127-Mobile-IDs-FAQ
+* _Salesforce, 04._ https://konsole.zendesk.com/hc/en-us/articles/115000428307-Safari-FAQ
+* _Salesforce, 05._ https://secure.sfdcstatic.com/assets/pdf/misc/BCRPublicFAQ.pdf
+* _Salesforce, 06._ https://www.salesforce.com/company/privacy/full_privacy.jsp
+* _Salesforce, 07._ https://konsole.zendesk.com/hc/en-us/articles/217039187-Privacy-Policy-and-Opt-Out-Guide
+* _Salesforce, 08._ https://konsole.zendesk.com/hc/en-us/articles/115007222048-PII
+* _Salesforce, 09._ https://konsole.zendesk.com/hc/en-us/articles/115010458727-Data-Onboarding-Partners
+* _Salesforce, 10._ https://konsole.zendesk.com/hc/en-us/articles/227144948-Data-Collection-Partners
+* _Salesforce, 11._ https://konsole.zendesk.com/hc/en-us/articles/226620988-Data-Activation-Partners
+* _Salesforce, 12._ https://konsole.zendesk.com/hc/en-us/articles/217592967-Third-Party-Data-Marketplace
+* _Salesforce, 13._ https://konsole.zendesk.com/hc/en-us/articles/115012227268-Data-Sentry-Iris-Video-Tutorial
+* _Salesforce, 14._ https://konsole.zendesk.com/hc/en-us/articles/115010652267-Data-Sentry-IRIS-FAQ
+* _Salesforce, 15._ https://konsole.zendesk.com/hc/en-us/articles/115010652267-Data-Sentry-IRIS-FAQ
+* _Salesforce, 16._ https://konsole.zendesk.com/hc/en-us/articles/115012183888-Hashed-Device-Management
+* _Salesforce, 17._ https://konsole.zendesk.com/hc/en-us/articles/115010825168-Media-Tag-Generator-Video-Overview
+* _Salesforce, 18._ https://konsole.zendesk.com/hc/en-us/articles/115008240047-How-to-Create-Bulk-Segments
+* _Salesforce, 19._ https://konsole.zendesk.com/hc/en-us/articles/115007996507-Events-Overview
+* _Salesforce, 20._ https://konsole.zendesk.com/hc/en-us/articles/115005914227-How-to-Create-Platform-Segments-in-Salesforce-DMP
+* _Salesforce, 21._ https://konsole.zendesk.com/hc/en-us/articles/225407808-How-to-set-up-the-Salesforce-DMP-ControlTag-Helper
+* _Salesforce, 22._ https://konsole.zendesk.com/hc/en-us/articles/218941948-How-to-validate-a-Video-Ad-Unit-on-Video-Suite-Inspector-using-HTTP-Fox
+* _Salesforce, 23._ https://konsole.zendesk.com/hc/en-us/articles/115006072448-User-Matching-and-Match-Rates-FAQ
+* _Salesforce, 24._ https://konsole.zendesk.com/hc/en-us/articles/115012398067-What-if-I-just-want-to-import-data-instead-of-using-the-Control-Tag-SDK-or-other-DMP-tracking-
+* _Salesforce, 25._ https://konsole.zendesk.com/hc/en-us/articles/115012555408-What-does-the-Control-Tag-do-
+* _Salesforce, 26._ https://konsole.zendesk.com/hc/en-us/articles/115012367627-Will-the-DMP-Control-Tag-Impact-Page-Load-Performance-
+* _Salesforce, 27._ https://konsole.zendesk.com/hc/en-us/articles/115009397188-Cross-Device-Identity-Management-CDIM-FAQ-
+* _Salesforce, 28._ https://konsole.zendesk.com/hc/en-us/articles/226951307-How-to-Build-Segments-with-CDIM
+* _Salesforce, 29._ https://konsole.zendesk.com/hc/en-us/articles/226951307-How-to-Build-Segments-with-CDIM
+* _Salesforce, 30._ https://konsole.zendesk.com/hc/en-us/articles/218445237-Ad-Server-Integration-for-Yield-Analytics
+* _Salesforce, 31._ https://konsole.zendesk.com/hc/en-us/articles/115002783508-Data-Transfer-File-2-0-Import
+* _Salesforce, 32._ https://konsole.zendesk.com/hc/en-us/articles/214918988-First-Party-Data-Import
+* _Salesforce, 33._ https://konsole.zendesk.com/hc/en-us/articles/115012221127-Browser-Support
+* _Salesforce, 34._ https://konsole.zendesk.com/hc/en-us/articles/115011719688-How-Data-Costs-are-Billed
+* _Salesforce, 35._ https://konsole.zendesk.com/hc/en-us/articles/115011230687-How-to-verify-Hashed-Device-Management
+* _Salesforce, 36._ https://konsole.zendesk.com/hc/en-us/articles/115010886887-DFP-FAQ
+* _Salesforce, 37._ https://konsole.zendesk.com/hc/en-us/articles/115010886887-DFP-FAQ
+* _Salesforce, 38._ https://konsole.zendesk.com/hc/en-us/articles/115010860288-Content-Engagement-Report-FAQ
+* _Salesforce, 39._ https://konsole.zendesk.com/hc/en-us/articles/115010860128-Frequency-Report-FAQ
+* _Salesforce, 40._ https://konsole.zendesk.com/hc/en-us/articles/115010690407-Funnels-FAQ
+* _Salesforce, 41._ https://konsole.zendesk.com/hc/en-us/articles/115010859928-Lookalike-Modeling-FAQ
+* _Salesforce, 42._ https://konsole.zendesk.com/hc/en-us/articles/115010859228-Site-Distribution-Report-FAQ
+* _Salesforce, 43._ https://konsole.zendesk.com/hc/en-us/articles/115010859208-Segment-Overlap-Report-FAQ
+* _Salesforce, 44._ https://konsole.zendesk.com/hc/en-us/articles/115010859168-Audience-Profile-Report-FAQ
+* _Salesforce, 45._ https://konsole.zendesk.com/hc/en-us/articles/115010689407-Segment-Summary-FAQ
+* _Salesforce, 46._ https://konsole.zendesk.com/hc/en-us/articles/115010518787--Data-Studio-FAQ
+* _Salesforce, 47._ https://konsole.zendesk.com/hc/en-us/articles/115010365788-Why-are-top-segments-different-in-Audience-Profile-Reports-
+* _Salesforce, 48._ https://konsole.zendesk.com/hc/en-us/articles/115009920168-Partner-Management-Additional-Account-Details-FAQ
+* _Salesforce, 49._ https://konsole.zendesk.com/hc/en-us/articles/115009293927-Over-the-top-OTT-FAQ
+* _Salesforce, 50._ https://konsole.zendesk.com/hc/en-us/articles/115009151507-Media-Tagging-FAQ
+* _Salesforce, 51._ https://konsole.zendesk.com/hc/en-us/articles/115007393368-Data-Collection-FAQ
+* _Salesforce, 52._ https://konsole.zendesk.com/hc/en-us/articles/115007354408-Salesforce-DMP-Reporting-FAQ
+* _Salesforce, 53._ https://konsole.zendesk.com/hc/en-us/articles/115006780068-Real-time-Segment-FAQ
+* _Salesforce, 54._ https://konsole.zendesk.com/hc/en-us/articles/115006652948-Segment-Processing-FAQ
+* _Salesforce, 55._ https://konsole.zendesk.com/hc/en-us/articles/115002018607-UTM-Parameters-FAQ <-- in FP glossary only
+* _Salesforce, 56._ https://konsole.zendesk.com/hc/en-us/articles/115000428507-AMP-FAQ
+* _Salesforce, 57._ https://konsole.zendesk.com/hc/en-us/articles/115000428427-Data-Layer-FAQ
+* _Salesforce, 58._ https://konsole.zendesk.com/hc/en-us/articles/115000428127-Mobile-IDs-FAQ
+* _Salesforce, 59._ https://konsole.zendesk.com/hc/en-us/articles/236268468-Reach-Opportunities-Index-Calculation-Chart-Operations
+* _Salesforce, 60._ https://konsole.zendesk.com/hc/en-us/articles/227951188-Klever-UI-People-and-Devices
+* _Salesforce, 61._ https://konsole.zendesk.com/hc/en-us/articles/228024867-SuperTag-FAQ
 
-
-[Salesforce, 1](https://www.salesforce.com/blog/2017/05/krux-is-now-salesforce-dmp.html)
-[Salesforce, 2](https://konsole.zendesk.com/hc/en-us/articles/115000451248-Salesforce-DMP-SDK-FAQ)
-[Salesforce, 3](https://konsole.zendesk.com/hc/en-us/articles/115000428127-Mobile-IDs-FAQ)
-[Salesforce, 4](https://konsole.zendesk.com/hc/en-us/articles/115000428307-Safari-FAQ)
-[Salesforce, 5](https://secure.sfdcstatic.com/assets/pdf/misc/BCRPublicFAQ.pdf)
-[Salesforce, 6](https://www.salesforce.com/company/privacy/full_privacy.jsp)
-[Salesforce, 7](https://konsole.zendesk.com/hc/en-us/articles/217039187-Privacy-Policy-and-Opt-Out-Guide)
-[Salesforce, 8](https://konsole.zendesk.com/hc/en-us/articles/115007222048-PII)
-[Salesforce, 9](https://konsole.zendesk.com/hc/en-us/articles/115010458727-Data-Onboarding-Partners)
-[Salesforce, 10](https://konsole.zendesk.com/hc/en-us/articles/227144948-Data-Collection-Partners)
-[Salesforce, 11](https://konsole.zendesk.com/hc/en-us/articles/226620988-Data-Activation-Partners)
-[Salesforce, 12](https://konsole.zendesk.com/hc/en-us/articles/217592967-Third-Party-Data-Marketplace)
-[Salesforce, 13](https://konsole.zendesk.com/hc/en-us/articles/115012227268-Data-Sentry-Iris-Video-Tutorial)
-[Salesforce, 14](https://konsole.zendesk.com/hc/en-us/articles/115010652267-Data-Sentry-IRIS-FAQ)
-[Salesforce, 15](https://konsole.zendesk.com/hc/en-us/articles/115010652267-Data-Sentry-IRIS-FAQ)
-[Salesforce, 16](https://konsole.zendesk.com/hc/en-us/articles/115012183888-Hashed-Device-Management)
-[Salesforce, 17](https://konsole.zendesk.com/hc/en-us/articles/115010825168-Media-Tag-Generator-Video-Overview)
-[Salesforce, 18](https://konsole.zendesk.com/hc/en-us/articles/115008240047-How-to-Create-Bulk-Segments)
-[Salesforce, 19](https://konsole.zendesk.com/hc/en-us/articles/115007996507-Events-Overview)
-[Salesforce, 20](https://konsole.zendesk.com/hc/en-us/articles/115005914227-How-to-Create-Platform-Segments-in-Salesforce-DMP)
-[Salesforce, 21](https://konsole.zendesk.com/hc/en-us/articles/225407808-How-to-set-up-the-Salesforce-DMP-ControlTag-Helper)
-[Salesforce, 22](https://konsole.zendesk.com/hc/en-us/articles/218941948-How-to-validate-a-Video-Ad-Unit-on-Video-Suite-Inspector-using-HTTP-Fox)
-[Salesforce, 23](https://konsole.zendesk.com/hc/en-us/articles/115006072448-User-Matching-and-Match-Rates-FAQ)
-[Salesforce, 24](https://konsole.zendesk.com/hc/en-us/articles/115012398067-What-if-I-just-want-to-import-data-instead-of-using-the-Control-Tag-SDK-or-other-DMP-tracking-)
-[Salesforce, 25](https://konsole.zendesk.com/hc/en-us/articles/115012555408-What-does-the-Control-Tag-do-)
-[Salesforce, 26](https://konsole.zendesk.com/hc/en-us/articles/115012367627-Will-the-DMP-Control-Tag-Impact-Page-Load-Performance-)
-[Salesforce, 27](https://konsole.zendesk.com/hc/en-us/articles/115009397188-Cross-Device-Identity-Management-CDIM-FAQ-)
-[Salesforce, 28](https://konsole.zendesk.com/hc/en-us/articles/226951307-How-to-Build-Segments-with-CDIM)
-[Salesforce, 29](https://konsole.zendesk.com/hc/en-us/articles/226951307-How-to-Build-Segments-with-CDIM)
-[Salesforce, 30](https://konsole.zendesk.com/hc/en-us/articles/218445237-Ad-Server-Integration-for-Yield-Analytics)
-[Salesforce, 31](https://konsole.zendesk.com/hc/en-us/articles/115002783508-Data-Transfer-File-2-0-Import)
-[Salesforce, 32](https://konsole.zendesk.com/hc/en-us/articles/214918988-First-Party-Data-Import)
-[Salesforce, 33](https://konsole.zendesk.com/hc/en-us/articles/115012221127-Browser-Support)
-[Salesforce, 34](https://konsole.zendesk.com/hc/en-us/articles/115011719688-How-Data-Costs-are-Billed)
-[Salesforce, 35](https://konsole.zendesk.com/hc/en-us/articles/115011230687-How-to-verify-Hashed-Device-Management)
-[Salesforce, 36](https://konsole.zendesk.com/hc/en-us/articles/115010886887-DFP-FAQ)
-[Salesforce, 37](https://konsole.zendesk.com/hc/en-us/articles/115010886887-DFP-FAQ)
-[Salesforce, 38](https://konsole.zendesk.com/hc/en-us/articles/115010860288-Content-Engagement-Report-FAQ)
-[Salesforce, 39](https://konsole.zendesk.com/hc/en-us/articles/115010860128-Frequency-Report-FAQ)
-[Salesforce, 40](https://konsole.zendesk.com/hc/en-us/articles/115010690407-Funnels-FAQ)
-[Salesforce, 41](https://konsole.zendesk.com/hc/en-us/articles/115010859928-Lookalike-Modeling-FAQ)
-[Salesforce, 42](https://konsole.zendesk.com/hc/en-us/articles/115010859228-Site-Distribution-Report-FAQ)
-[Salesforce, 43](https://konsole.zendesk.com/hc/en-us/articles/115010859208-Segment-Overlap-Report-FAQ)
-[Salesforce, 44](https://konsole.zendesk.com/hc/en-us/articles/115010859168-Audience-Profile-Report-FAQ)
-[Salesforce, 45](https://konsole.zendesk.com/hc/en-us/articles/115010689407-Segment-Summary-FAQ)
-[Salesforce, 46](https://konsole.zendesk.com/hc/en-us/articles/115010518787--Data-Studio-FAQ)
-[Salesforce, 47](https://konsole.zendesk.com/hc/en-us/articles/115010365788-Why-are-top-segments-different-in-Audience-Profile-Reports-)
-[Salesforce, 48](https://konsole.zendesk.com/hc/en-us/articles/115009920168-Partner-Management-Additional-Account-Details-FAQ)
-[Salesforce, 49](https://konsole.zendesk.com/hc/en-us/articles/115009293927-Over-the-top-OTT-FAQ)
-[Salesforce, 50](https://konsole.zendesk.com/hc/en-us/articles/115009151507-Media-Tagging-FAQ)
-[Salesforce, 51](https://konsole.zendesk.com/hc/en-us/articles/115007393368-Data-Collection-FAQ)
-[Salesforce, 52](https://konsole.zendesk.com/hc/en-us/articles/115007354408-Salesforce-DMP-Reporting-FAQ)
-[Salesforce, 53](https://konsole.zendesk.com/hc/en-us/articles/115006780068-Real-time-Segment-FAQ)
-[Salesforce, 54](https://konsole.zendesk.com/hc/en-us/articles/115006652948-Segment-Processing-FAQ)
-[Salesforce, 55](https://konsole.zendesk.com/hc/en-us/articles/115002018607-UTM-Parameters-FAQ) <-- in FP glossary only
-[Salesforce, 56](https://konsole.zendesk.com/hc/en-us/articles/115000428507-AMP-FAQ)
-[Salesforce, 57](https://konsole.zendesk.com/hc/en-us/articles/115000428427-Data-Layer-FAQ)
-[Salesforce, 58](https://konsole.zendesk.com/hc/en-us/articles/115000428127-Mobile-IDs-FAQ)
-[Salesforce, 59](https://konsole.zendesk.com/hc/en-us/articles/236268468-Reach-Opportunities-Index-Calculation-Chart-Operations)
-[Salesforce, 60](https://konsole.zendesk.com/hc/en-us/articles/227951188-Klever-UI-People-and-Devices)
-[Salesforce, 61](https://konsole.zendesk.com/hc/en-us/articles/228024867-SuperTag-FAQ)
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
 
