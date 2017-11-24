@@ -78,8 +78,8 @@ _Analytics:_ Tinder uses Spotify and Facebook data to match users [Tech Times, 0
 ## References
 * _BusinessInsider, 01._ [http://www.businessinsider.com/match-the-company-that-owns-tinder-just-filed-to-go-public-2015-10](http://www.businessinsider.com/match-the-company-that-owns-tinder-just-filed-to-go-public-2015-10)  
 * _CrunchBase, 01._ [https://www.crunchbase.com/organization/match-group](https://www.crunchbase.com/organization/match-group)  
-* _Fortune, 01._ [http://fortune.com/2015/09/29/tinder-interana-analytics/]
-_Tech Times, 01._ [http://www.techtimes.com/articles/199964/20170302/tinder-users-finding-more-matches-thanks-spotify-popular-anthems-include.htm](http://www.techtimes.com/articles/199964/20170302/tinder-users-finding-more-matches-thanks-spotify-popular-anthems-include.htm)  
+* _Fortune, 01._ [http://fortune.com/2015/09/29/tinder-interana-analytics/](http://fortune.com/2015/09/29/tinder-interana-analytics/])
+* _Tech Times, 01._ [http://www.techtimes.com/articles/199964/20170302/tinder-users-finding-more-matches-thanks-spotify-popular-anthems-include.htm](http://www.techtimes.com/articles/199964/20170302/tinder-users-finding-more-matches-thanks-spotify-popular-anthems-include.htm)  
 * _The Guardian, 01._ [https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold](https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold)  
 * _Tinder, 01._ [https://www.gotinder.com/privacy](https://www.gotinder.com/privacy)
 
