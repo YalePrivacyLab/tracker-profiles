@@ -68,5 +68,5 @@ The AppsFlyer SDK is available for Android, iPhone, and Windows Phone
 * _VentureBeat, 01_. [https://venturebeat.com/2017/05/25/appsflyer-helps-mobile-advertisers-beat-back-ad-fraud-via-machine-learning](https://venturebeat.com/2017/05/25/appsflyer-helps-mobile-advertisers-beat-back-ad-fraud-via-machine-learning)
 
 ## External Links
-* _Wikipedia (AppsFlyer)_ [https://en.wikipedia.org/wiki/AppsFlyer](https://en.wikipedia.org/wiki/AppsFlyer)
+* _Wikipedia (AppsFlyer)_: [https://en.wikipedia.org/wiki/AppsFlyer](https://en.wikipedia.org/wiki/AppsFlyer)
 * _AppBrain_: [https://www.appbrain.com/app/appsflyer-sdk-integration-test/com.appsflyer.referrerSender](https://archive.is/ufCAR)
