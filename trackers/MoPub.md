@@ -13,7 +13,7 @@ MoPub offers services aimed th help publishers acquire and serve advertisements 
 Twitter
 
 ## Detection rules
-mopub\.com
+* `mopub\.com`
 
 ## Documentation
 [https://www.mopub.com/resources/docs/android-sdk-integration](https://www.mopub.com/resources/docs/android-sdk-integration)
@@ -85,14 +85,12 @@ _Clients:_ Apalon / ASKfm / FEO Media / First Touch Games / glu / Gram Games / J
 _Financial history:_ MoPub was founded in 2010 [CrunchBase, 01](https://www.crunchbase.com/organization/mopub). It was acquired by Twitter in 2013; the details of the deal were not disclosed. Media outlets estimated the deal at around $300 million [CCN Tech, 01](http://money.cnn.com/2013/09/10/technology/social/twitter-acquisition/index.html)
 
 ## References
-_CNN Tech, 01_ [http://money.cnn.com/2013/09/10/technology/social/twitter-acquisition/index.html](http://money.cnn.com/2013/09/10/technology/social/twitter-acquisition/index.html)  
-
-_CrunchBase, 01_ [https://www.crunchbase.com/organization/mopub](https://www.crunchbase.com/organization/mopub)
-
-_MoPub, 01_ [https://www.mopub.com](https://www.mopub.com)  
-_MoPub, 02_ [https://www.mopub.com/publishers/overview](https://www.mopub.com/publishers/overview)  
-_MoPub, 03_ [https://www.mopub.com/legal/privacy](https://www.mopub.com/legal/privacy)  
-_MoPub, 04_ [https://www.mopub.com/publishers/clients](https://www.mopub.com/publishers/clients)
+* _CNN Tech, 01_. [http://money.cnn.com/2013/09/10/technology/social/twitter-acquisition/index.html](http://money.cnn.com/2013/09/10/technology/social/twitter-acquisition/index.html)  
+* _CrunchBase, 01_. [https://www.crunchbase.com/organization/mopub](https://www.crunchbase.com/organization/mopub)
+* _MoPub, 01_. [https://www.mopub.com](https://www.mopub.com)  
+* _MoPub, 02_. [https://www.mopub.com/publishers/overview](https://www.mopub.com/publishers/overview)  
+* _MoPub, 03_. [https://www.mopub.com/legal/privacy](https://www.mopub.com/legal/privacy)  
+* _MoPub, 04_. [https://www.mopub.com/publishers/clients](https://www.mopub.com/publishers/clients)
 
 ## External Links
-_Ghostery (MoPub)_ [https://apps.ghostery.com/ko/apps/mopub](https://apps.ghostery.com/ko/apps/mopub)
+* _Ghostery (MoPub)_: [https://apps.ghostery.com/ko/apps/mopub](https://apps.ghostery.com/ko/apps/mopub)
