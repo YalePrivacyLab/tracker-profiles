@@ -1,19 +1,19 @@
 # Nexage (Millenial Media, part of ONE by AOL)
 
-## Primary location
+## Primary Location
 United States (Boston) [Crunchbase, 01](https://www.crunchbase.com/organization/nexage)
 
 ## Website
 [http://www.nexage.com](http://www.nexage.com)
 
-##About
+## About
 Nexage "offers a mobile advertising platform that provides private and public exchanges, data enrichment, and real-time targeting solutions" [Crunchbase, 01](https://www.crunchbase.com/organization/nexage).
 
 ## Ownership
 Millenial Media, which became part of ONE by AOL; the AOL company name has changed to Oath, which is a subsidiary of Verizon Communications [AOL, 01](http://privacy.aol.com)
 
-## Detection rules
-nexage\.com
+## Detection Rules
+* `nexage\.com`
 
 ## Documentation
 [http://docs.onemobilesdk.aol.com/android-ad-sdk/integration-guide.html](http://docs.onemobilesdk.aol.com/android-ad-sdk/integration-guide.html)
@@ -45,7 +45,7 @@ _Mobile device information:_ Oath states, "When you use our Services on a mobile
 
 Certain Services may require the collection of the phone number of your device. We may associate that phone number with other information; however, we will not use that number for telemarketing to you without your consent" [AOL, 07](http://legal.aol.com/mobileTOS).
 
-_Oath Standard Categories (segments) for targeted advertising:_ See Oath website for their list of Standard Categories [AOL, 05](https://advertising.aol.com/advisibility/standard-categories). Note that 
+_Oath Standard Categories (segments) for targeted advertising:_ See Oath website for their list of Standard Categories [AOL, 05](https://advertising.aol.com/advisibility/standard-categories).
 
 _Opt-out on mobile:_ Oath states users can opt out of interest-based (targeted) advertising through general device settings in iOS and Android. However, to stop data collection of an Oath app, users must uninstall the app.  
 
@@ -102,20 +102,20 @@ Oath brands include: #BuiltByGirls / Yahoo! Finance / Yahoo! / AOL / Yahoo! Spor
 _Financial details:_ Nexage was founded in 2006 and had raised $19.5 million by 2012. It was acquired by Millenial Media for approximately $108 million in 2014 [Crunchbase, 01](https://www.crunchbase.com/organization/nexage); [AdExchanger.com, 01](https://adexchanger.com/mobile/millennial-media-to-buy-nexage-mobile-ssp-and-exchange-for-108m).  
 
 ## References
-_AdExchanger.com, 01_ [https://adexchanger.com/mobile/millennial-media-to-buy-nexage-mobile-ssp-and-exchange-for-108m](https://adexchanger.com/mobile/millennial-media-to-buy-nexage-mobile-ssp-and-exchange-for-108m)  
-
-_AOL, 01_ [http://privacy.aol.com](http://privacy.aol.com)  
-_AOL, 02_ [http://privacy.aol.com/definitions](http://privacy.aol.com/definitions)  
-_AOL, 03_ [http://privacy.aol.com/cookies-web-beacons](http://privacy.aol.com/cookies-web-beacons)  
-_AOL, 04_ [http://privacy.aol.com/privacy-policy](http://privacy.aol.com/privacy-policy)  
-_AOL, 05_ [https://advertising.aol.com/advisibility/standard-categories](https://advertising.aol.com/advisibility/standard-categories)  
-_AOL, 06_ [http://privacy.aol.com/advertising-and-privacy](http://privacy.aol.com/advertising-and-privacy)  
-_AOL, 07_ [http://legal.aol.com/mobileTOS](http://legal.aol.com/mobileTOS)
-
-_Millenial Media, 01_ [http://www.millennialmedia.com/press/millennial-media-to-acquire-nexage-a-leading-mobile-ssp-and-advertising-exchange](http://www.millennialmedia.com/press/millennial-media-to-acquire-nexage-a-leading-mobile-ssp-and-advertising-exchange)  
-_Millenial Media, 02_ [http://www.millennialmedia.com/mobile-insights/client-stories/fall-for-unilever-singapore-dove-hair-rescue](http://www.millennialmedia.com/mobile-insights/client-stories/fall-for-unilever-singapore-dove-hair-rescue)  
-
-_Oath, 01_ [https://www.oath.com/our-brands](https://www.oath.com/our-brands)  
+* _AdExchanger.com, 01._ [https://adexchanger.com/mobile/millennial-media-to-buy-nexage-mobile-ssp-and-exchange-for-108m](https://adexchanger.com/mobile/millennial-media-to-buy-nexage-mobile-ssp-and-exchange-for-108m)
+* _AOL, 01._ [http://privacy.aol.com](http://privacy.aol.com)
+* _AOL, 02._ [http://privacy.aol.com/definitions](http://privacy.aol.com/definitions)
+* _AOL, 03._ [http://privacy.aol.com/cookies-web-beacons](http://privacy.aol.com/cookies-web-beacons)
+* _AOL, 04._ [http://privacy.aol.com/privacy-policy](http://privacy.aol.com/privacy-policy)
+* _AOL, 05._ [https://advertising.aol.com/advisibility/standard-categories](https://advertising.aol.com/advisibility/standard-categories)
+* _AOL, 06._ [http://privacy.aol.com/advertising-and-privacy](http://privacy.aol.com/advertising-and-privacy)  
+* _AOL, 07._ [http://legal.aol.com/mobileTOS](http://legal.aol.com/mobileTOS)
+* _Millenial Media, 01._ [http://www.millennialmedia.com/press/millennial-media-to-acquire-nexage-a-leading-mobile-ssp-and-advertising-exchange](http://www.millennialmedia.com/press/millennial-media-to-acquire-nexage-a-leading-mobile-ssp-and-advertising-exchange)
+* _Millenial Media, 02._ [http://www.millennialmedia.com/mobile-insights/client-stories/fall-for-unilever-singapore-dove-hair-rescue](http://www.millennialmedia.com/mobile-insights/client-stories/fall-for-unilever-singapore-dove-hair-rescue)
+* _Oath, 01._ [https://www.oath.com/our-brands](https://www.oath.com/our-brands)
 
 ## External Links
-_Ghostery (Nexage)_ [https://apps.ghostery.com/apps/nexage](https://apps.ghostery.com/apps/nexage)
+* _Ghostery (Nexage)_: [https://apps.ghostery.com/apps/nexage](https://apps.ghostery.com/apps/nexage)
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
