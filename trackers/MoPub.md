@@ -6,7 +6,7 @@ United States
 ## Website
 [https://www.mopub.com](https://www.mopub.com)
 
-##About
+## About
 MoPub offers services aimed th help publishers acquire and serve advertisements and advertisers to reach audiences that may be interested in their products and services [MoPub, 03](https://www.mopub.com/legal/privacy).
 
 ## Ownership
@@ -94,3 +94,6 @@ _Financial history:_ MoPub was founded in 2010 [CrunchBase, 01](https://www.crun
 
 ## External Links
 * _Ghostery (MoPub)_: [https://apps.ghostery.com/ko/apps/mopub](https://apps.ghostery.com/ko/apps/mopub)
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
