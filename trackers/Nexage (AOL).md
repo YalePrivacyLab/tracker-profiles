@@ -12,7 +12,7 @@ Nexage "offers a mobile advertising platform that provides private and public ex
 ## Ownership
 Millenial Media, which became part of ONE by AOL; the AOL company name has changed to Oath, which is a subsidiary of Verizon Communications [AOL, 01](http://privacy.aol.com)
 
-## Detection Rules
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 * `nexage\.com`
 
 ## Documentation
