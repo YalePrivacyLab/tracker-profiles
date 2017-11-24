@@ -7,13 +7,13 @@ United States
 [https://developer.yahoo.com](https://developer.yahoo.com)
 
 ## About
-Flurry is part of the Yahoo Developer network suite. Flurry's product, Flurry Analytics, offers mobile analytics, monetization, and advertising services [Yahoo, 01](https://developer.yahoo.com/analytics); [Yahoo, 14](https://developer.yahoo.com/flurry/docs);  [Wikipedia, 01](https://en.wikipedia.org/wiki/Flurry_(company)).
+Flurry is part of the Yahoo Developer network suite. Flurry's product, Flurry Analytics, offers mobile analytics, monetization, and advertising services [Yahoo, 01](https://developer.yahoo.com/analytics); [Yahoo, 14](https://developer.yahoo.com/flurry/docs); [Wikipedia, 01](https://en.wikipedia.org/wiki/Flurry_(company)).
 
 ## Ownership
 Oath Inc. (subsidiary of Verizon Communications; Oath includes Yahoo and AOL) [Wikipedia, 01](https://en.wikipedia.org/wiki/Oath_Inc.); [Ars Technica, 01](https://arstechnica.com/information-technology/2017/06/oath-verizon-completes-4-5-billion-buy-of-yahoo-and-merges-it-with-aol)
 
 ## Detection rules
-* flurry \ .com
+* `flurry \ .com`
 
 ## Products and Services
 Flurry Analytics:
@@ -64,33 +64,29 @@ _Additional services:_ Additional Flurry Analytics features for Android include:
 * Utilizes mobile SDK in apps to inject advertising, including video: "Monetize your app with native and video ads from Yahoo, Flurry, and BrightRoll advertisers" [Yahoo, 12](https://developer.yahoo.com/monetize)
 
 ## References
-_AdAge, 01_ [http://adage.com/article/digital/flurry-research-build-mobile-app-advertising-database/292287](http://adage.com/article/digital/flurry-research-build-mobile-app-advertising-database/292287)  
+* _AdAge, 01_ [http://adage.com/article/digital/flurry-research-build-mobile-app-advertising-database/292287](http://adage.com/article/digital/flurry-research-build-mobile-app-advertising-database/292287)  
 
-_Ars Technica, 01_ [https://arstechnica.com/information-technology/2017/06/oath-verizon-completes-4-5-billion-buy-of-yahoo-and-merges-it-with-aol](https://arstechnica.com/information-technology/2017/06/oath-verizon-completes-4-5-billion-buy-of-yahoo-and-merges-it-with-aol)  
+* _Ars Technica, 01_ [https://arstechnica.com/information-technology/2017/06/oath-verizon-completes-4-5-billion-buy-of-yahoo-and-merges-it-with-aol](https://arstechnica.com/information-technology/2017/06/oath-verizon-completes-4-5-billion-buy-of-yahoo-and-merges-it-with-aol)  
 
-_TechCrunch, 01_ [https://techcrunch.com/2013/12/06/flurry-funding](https://techcrunch.com/2013/12/06/flurry-funding)  
-_TechCrunch, 02_ [https://techcrunch.com/2014/07/21/yahoo-is-buying-mobile-analytics-firm-flurry-for-north-of-200m](https://techcrunch.com/2014/07/21/yahoo-is-buying-mobile-analytics-firm-flurry-for-north-of-200m)  
+* _TechCrunch, 01_ [https://techcrunch.com/2013/12/06/flurry-funding](https://techcrunch.com/2013/12/06/flurry-funding)  
+* _TechCrunch, 02_ [https://techcrunch.com/2014/07/21/yahoo-is-buying-mobile-analytics-firm-flurry-for-north-of-200m](https://techcrunch.com/2014/07/21/yahoo-is-buying-mobile-analytics-firm-flurry-for-north-of-200m)  
 
-_Yahoo, 01_ [https://developer.yahoo.com/analytics](https://developer.yahoo.com/analytics)  
-_Yahoo, 02_ [https://policies.yahoo.com/ie/en/yahoo/privacy/euoathnoticefaq](https://policies.yahoo.com/ie/en/yahoo/privacy/euoathnoticefaq)  
-_Yahoo, 03_ [https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/events/android](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/events/android)  
-_Yahoo, 04_ [https://policies.yahoo.com/ie/en/yahoo/privacy/topics/thirdparties/index.htm](https://policies.yahoo.com/ie/en/yahoo/privacy/topics/thirdparties/index.htm)  
-_Yahoo, 05_ [https://aim.yahoo.com/aim/ie/en/optout](https://aim.yahoo.com/aim/ie/en/optout)  
-_Yahoo, 06_ [https://policies.yahoo.com/ie/en/yahoo/privacy/tools/index.htm](https://policies.yahoo.com/ie/en/yahoo/privacy/tools/index.htm)  
-_Yahoo, 07_ [https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/revenue/android](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/revenue/android)  
-_Yahoo, 08_ [https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/trackcrashes/android](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/trackcrashes/android)  
-_Yahoo, 09_ [https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/technicalquickstart/android](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/technicalquickstart/android)  
-_Yahoo, 10_ [https://developer.yahoo.com/flurry/docs/publisher/code/android-ad-publishing](https://developer.yahoo.com/flurry/docs/publisher/code/android-ad-publishing)  
-_Yahoo, 11_ [https://developer.yahoo.com/flurry/docs/analytics/lexicon/analyticsusage](https://developer.yahoo.com/flurry/docs/analytics/lexicon/analyticsusage)  
-_Yahoo, 12_ [https://developer.yahoo.com/monetize](https://developer.yahoo.com/monetize)  
-_Yahoo, 13_ [https://developer.yahoo.com/flurry-pulse](https://developer.yahoo.com/flurry-pulse)  
-_Yahoo, 14_ [https://developer.yahoo.com/flurry/docs](https://developer.yahoo.com/flurry/docs)
+* _Yahoo, 01_ [https://developer.yahoo.com/analytics](https://developer.yahoo.com/analytics)  
+* _Yahoo, 02_ [https://policies.yahoo.com/ie/en/yahoo/privacy/euoathnoticefaq](https://policies.yahoo.com/ie/en/yahoo/privacy/euoathnoticefaq)  
+* _Yahoo, 03_ [https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/events/android](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/events/android)  
+* _Yahoo, 04_ [https://policies.yahoo.com/ie/en/yahoo/privacy/topics/thirdparties/index.htm](https://policies.yahoo.com/ie/en/yahoo/privacy/topics/thirdparties/index.htm)  
+* _Yahoo, 05_ [https://aim.yahoo.com/aim/ie/en/optout](https://aim.yahoo.com/aim/ie/en/optout)  
+* _Yahoo, 06_ [https://policies.yahoo.com/ie/en/yahoo/privacy/tools/index.htm](https://policies.yahoo.com/ie/en/yahoo/privacy/tools/index.htm)  
+* _Yahoo, 07_ [https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/revenue/android](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/revenue/android)  
+* _Yahoo, 08_ [https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/trackcrashes/android](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/trackcrashes/android)  
+* _Yahoo, 09_ [https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/technicalquickstart/android](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/technicalquickstart/android)  
+* _Yahoo, 10_ [https://developer.yahoo.com/flurry/docs/publisher/code/android-ad-publishing](https://developer.yahoo.com/flurry/docs/publisher/code/android-ad-publishing)  
+* _Yahoo, 11_ [https://developer.yahoo.com/flurry/docs/analytics/lexicon/analyticsusage](https://developer.yahoo.com/flurry/docs/analytics/lexicon/analyticsusage)  
+* _Yahoo, 12_ [https://developer.yahoo.com/monetize](https://developer.yahoo.com/monetize)  
+* _Yahoo, 13_ [https://developer.yahoo.com/flurry-pulse](https://developer.yahoo.com/flurry-pulse)  
+* _Yahoo, 14_ [https://developer.yahoo.com/flurry/docs](https://developer.yahoo.com/flurry/docs)
 
 ## External links
-_Ghostery_ [https://apps.ghostery.com/apps/flurry](https://apps.ghostery.com/apps/flurry)  
-_Wikipedia_ [https://en.wikipedia.org/wiki/Flurry_(company)](https://en.wikipedia.org/wiki/Flurry_(company))  
-_Flurry FAQ_ [https://developer.yahoo.com/flurry/docs/faq](https://developer.yahoo.com/flurry/docs/faq)
-
-
-
-
+* _Ghostery_ [https://apps.ghostery.com/apps/flurry](https://apps.ghostery.com/apps/flurry)  
+* _Wikipedia_ [https://en.wikipedia.org/wiki/Flurry_(company)](https://en.wikipedia.org/wiki/Flurry_(company))  
+* _Flurry FAQ_ [https://developer.yahoo.com/flurry/docs/faq](https://developer.yahoo.com/flurry/docs/faq)
