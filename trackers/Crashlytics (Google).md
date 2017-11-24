@@ -1,6 +1,6 @@
 # Crashlytics (Google)
 
-## Primary location
+## Primary Location
 United States (Boston) [Crunchbase, 01](https://www.crunchbase.com/organization/crashlytics)
 
 ## Website
