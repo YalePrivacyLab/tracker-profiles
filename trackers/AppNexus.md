@@ -6,14 +6,14 @@ United States (New York City) [Bloomberg, 01](https://www.bloomberg.com/research
 ## Website
 [https://www.appnexus.com](https://www.appnexus.com)
 
-##About
+## About
 "The world's largest independent digital marketplace" [AppsNexus, 01](https://www.appnexus.com/en/publishers), AppNexus offers services for auction-based and directly negotiated media campaigns across the Internet. According to CEO Brian O'Kelley, "the AppNexus platform" is "a single point where all key stakeholders in our ecosystem -- marketers, ad networks, demand side platforms (DSPs), agency networks, exchanges, inventory aggregators, third party data providers, and more -- connect with one another through a powerful technology platform" [PR Newswire, 01](https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html).
 
 ## Ownership
 AppNexus
 
-## Detection Rules
-adnxs\.com
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
+* `adnxs\.com`
 
 ## Documentation
 [https://wiki.appnexus.com/display/sdk/Integrate+the+SDK](https://wiki.appnexus.com/display/sdk/Integrate+the+SDK)
@@ -72,15 +72,15 @@ _AppNexus Platform Data Uses:_
 * Typically, companies using technology like the AppNexus Platform own the data that they provide to and get from the Platform. While the AppNexus Platform is designed to use only certain types of data, and Platform clients are prohibited from bringing data onto the Platform that directly identifies an individual, when clients remove their data from the Platform, their use of that data is governed by their own privacy policies and applicable laws, rules, or regulations. [AppNexus, 04](https://www.appnexus.com/en/company/platform-privacy-policy#choices)
 
 ## References
-_AppNexus, 01_ [https://www.appnexus.com/en/publishers](https://www.appnexus.com/en/publishers)  
-_AppNexus, 02_ [https://www.appnexus.com/en/buyers](https://www.appnexus.com/en/buyers)  
-_AppNexus, 03_ [https://www.appnexus.com/en](https://www.appnexus.com/en)  
-_AppNexus, 04_ [https://www.appnexus.com/en/company/platform-privacy-policy#choices](https://www.appnexus.com/en/company/platform-privacy-policy#choices)  
-_AppNexus, 05_ [https://www.appnexus.com/en/customer-stories](https://www.appnexus.com/en/customer-stories)  
+* _AppNexus, 01_. [https://www.appnexus.com/en/publishers](https://www.appnexus.com/en/publishers)  
+* _AppNexus, 02_. [https://www.appnexus.com/en/buyers](https://www.appnexus.com/en/buyers)  
+* _AppNexus, 03_. [https://www.appnexus.com/en](https://www.appnexus.com/en)  
+* _AppNexus, 04_. [https://www.appnexus.com/en/company/platform-privacy-policy#choices](https://www.appnexus.com/en/company/platform-privacy-policy#choices)  
+* _AppNexus, 05_. [https://www.appnexus.com/en/customer-stories](https://www.appnexus.com/en/customer-stories)  
 
-_Bloomberg, 01_ [https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=48973441](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=48973441)  
+* _Bloomberg, 01_. [https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=48973441](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=48973441)  
 
-_PR Newswire, 01_ [https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html](https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html)
+* _PR Newswire, 01_. [https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html](https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html)
 
 ## External Links
-_Wikipedia (AppNexus)_ [https://en.wikipedia.org/wiki/AppNexus](https://en.wikipedia.org/wiki/AppNexus)
+* _Wikipedia (AppNexus)_: [https://en.wikipedia.org/wiki/AppNexus](https://en.wikipedia.org/wiki/AppNexus)
