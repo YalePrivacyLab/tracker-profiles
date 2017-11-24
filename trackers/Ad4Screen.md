@@ -7,7 +7,7 @@ France (Paris). [Crunchbase, 01](https://www.crunchbase.com/organization/ad4scre
 [http://www.ad4screen.com](http://www.ad4screen.com)
 
 ## About
-Ad4Screen is "a marketing and advertising pioneer on Mobile Net (Smartphones, Tablets...)".  "Founded in 2010 and crowdfunding by OTC Agregator, a big French Insurance Company (MMA) and Web contractors (Business Interactive Founders as WCube, Betclic, Boncoin or Poweo), Ad4Screen helps companies to set up performant Mobile advertising campaigns and to increase App User engagement, retention and conversion." [Ad4Screen, 02](http://www.ad4screen.com/en/presentation)
+Ad4Screen is "a marketing and advertising pioneer on Mobile Net (Smartphones, Tablets...)".  They help companies "to set up performant Mobile advertising campaigns and to increase App User engagement, retention and conversion." [Ad4Screen, 02](http://www.ad4screen.com/en/presentation)
 
 ## Ownership
 Ad4Screen
@@ -123,7 +123,7 @@ _"They Trust Us":_ Betclic / Bouyges Telecom / Europcar / SFR / numericable / eb
 _Mobile First Alliance:_ In 2014, Ad4Screen "split its activities into two separate and independent companies", Accengage and Ad4Screen. Accengage offers a Mobile CRM technology while Ad4Screen specializes in "mobile media buying and mobile relationship marketing consulting". The Mobile First Alliance was formed thereafter, composed of three companies: Accengage, Ad4Screen, and Relatia. (Quotes are translated from French.) [Marketing web mobile, 01](http://marketing-webmobile.fr/2014/09/ad4screen-separe-ses-activites-dediteur-de-logiciels-de-mobile-crm-et-dagence-de-publicite-mobile).
 
 ## Details
-_Financial details:_ Ad4Screen was founded in 2010 and has raised $10 million [Ad4Screen, 02](http://www.ad4screen.com/en/presentation); [Crunchbase, 01](https://www.crunchbase.com/organization/ad4screen).
+_Financial details:_ Ad4Screen was founded in 2010 and has raised $10 million [Ad4Screen, 02](http://www.ad4screen.com/en/presentation); [Crunchbase, 01](https://www.crunchbase.com/organization/ad4screen). They were crowdfunded by OTC Agregator, a big French Insurance Company (MMA) and Web contractors (Business Interactive Founders as WCube, Betclic, Boncoin or Poweo) [Ad4Screen, 02](http://www.ad4screen.com/en/presentation).
 
 _Devices:_ Mobile and tablet media; iOS and Android [Ad4Screen, 03](http://www.ad4screen.com/publicite-mobile); works with iBeacons [Ad4Screen, 07](http://www.ad4screen.com/ibeacon).
 
