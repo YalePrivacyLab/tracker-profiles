@@ -16,7 +16,7 @@ Fidzup
 * `fidzup`
 
 ## Documentation
-Fidzup SDK Not Listed, other code available at https://github.com/Fidzup
+Fidzup SDK not listed, other code available at https://github.com/Fidzup
 
 ## Products and Services
 Fidzup has two primary services:
