@@ -90,3 +90,4 @@ _Additional services:_ Additional Flurry Analytics features for Android include:
 * _Ghostery_: [https://apps.ghostery.com/apps/flurry](https://apps.ghostery.com/apps/flurry)  
 * _Wikipedia_: [https://en.wikipedia.org/wiki/Flurry_(company)](https://en.wikipedia.org/wiki/Flurry_(company))  
 * _Flurry FAQ_: [https://developer.yahoo.com/flurry/docs/faq](https://developer.yahoo.com/flurry/docs/faq)
+* _AppBrain_: [https://www.appbrain.com/dev/Yahoo/](https://archive.is/7BNpX)
