@@ -12,7 +12,7 @@ Pushwoosh pushes in-app messaging across platforms [Pushwoosh, 01](https://www.p
 ## Ownership
 Pushwoosh
 
-## Detection rules
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 * `pushwoosh\.com`
 
 ## Documentation
