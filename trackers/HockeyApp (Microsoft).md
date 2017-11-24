@@ -36,7 +36,7 @@ Developers can opt out of statistical analysis of their app's users. "Just in ca
 
 ## Details
 
-HockeyApp was launched in 2012. It was acquired by Microsoft in 2014 [Crunchbase, 01](https://www.crunchbase.com/organization/bit-stadium-gmbh). The company existed in some form in 2011, with Microsoft as a customer [HockeyApp, 04](https://www.hockeyapp.net/blog/2014/12/11/hockeyapp-joins-microsoft.html).
+HockeyApp was launched in 2012. It was acquired by Microsoft in 2014 [Crunchbase, 01](https://www.crunchbase.com/organization/bit-stadium-gmbh). The company existed in some form in 2011, with Microsoft as a customer [HockeyApp, 05](https://www.hockeyapp.net/blog/2014/12/11/hockeyapp-joins-microsoft.html).
 
 "HockeyApp does not collect any PII (Personable Identifiable Information) and the user tracking is done anonymously... Keep in mind that whenever the HockeySDK sends metric data to our backend, a corresponding app version gets automatically added to the app." [HockeyApp, 04](https://support.hockeyapp.net/kb/general-account-management-2/getting-started-with-user-metrics)
 
