@@ -97,7 +97,7 @@ Opting Out of Teemo Services: You can stop the collection of information from Te
 Opting Out of Personalized Ads: You may opt out of the use of information about your mobile app activities to serve ads that are targeted to your interests using the settings available on your mobile device.  For information about how to opt out on your Android device, click here.  For information about how to opt out on your iOS device, click [here](https://support.apple.com/en-us/HT202074).  If you wish to opt out on multiple devices, you must repeat the process on each device where you wish to opt out" [Teemo, 04](https://teemo.co/privacy)"
 
 ## Relationships
-_Customers:_ Volkswagon / MyMedia / Intersport / Havas / dentsu / OMD / WPP / Publics Groupe / Carrefour / Toys"R"Us / McDonald's / Ford [Teemo, 01](http://teemo.co) / Decathlon / FNAC / Leclerc 
+_Customers:_ Volkswagon / MyMedia / Intersport / Havas / dentsu / OMD / WPP / Publics Groupe / Carrefour / Toys"R"Us / McDonald's / Ford / Decathlon / FNAC / Leclerc [Teemo, 01](http://teemo.co)
 
 ## Details
 _Financial details:_ Teemo (then Databerries) "raised $16m (?15m) in a Series A funding round led by new investor Index Ventures with support from existing investors ISAI and Mosaic Ventures and new individual investors Greg Coleman and Pascal Gauthier. The company will use the funds to launch its product in the US and double its workforce." [Go4Venture, 01](http://go4venture.com/hti/usd-16m-a-mar-2017-databerries)  
