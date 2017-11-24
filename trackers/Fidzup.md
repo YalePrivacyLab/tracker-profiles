@@ -170,17 +170,17 @@ _Some of the data collected:_
 * brands and OS terminals [Viuz, 01](https://viuz.com/2015/03/19/fidzup-trophee-espoir-lndr-2015-les-outils-du-web-pour-re-inventer-le-commerce-physique)
 
 ## References
-_Ad-exchange.fr, 01_ [http://ad-exchange.fr/fidzup-retargeting-unit-le-ciblage-publicitaire-sur-smartphone-et-le-monde-physique-14297](http://ad-exchange.fr/fidzup-retargeting-unit-le-ciblage-publicitaire-sur-smartphone-et-le-monde-physique-14297)  
+_Ad-exchange.fr, 01_ [http://ad-exchange.fr/fidzup-retargeting-unit-le-ciblage-publicitaire-sur-smartphone-et-le-monde-physique-14297](http://ad-exchange.fr/fidzup-retargeting-unit-le-ciblage-publicitaire-sur-smartphone-et-le-monde-physique-14297)
 _Ad-exchange.fr, 02_ [http://ad-exchange.fr/fidzup-veut-booster-ladoption-de-boitiers-du-type-beacon-dans-les-magasins-francais-27156](http://ad-exchange.fr/fidzup-veut-booster-ladoption-de-boitiers-du-type-beacon-dans-les-magasins-francais-27156)  
 
 [BusinessWire, 01](http://www.businesswire.com/news/home/20161130005981/en/Fidzup-Performance-Marketing-Startup-Retailers-Raises-3.7)  
 
 [Crunchbase, 01](https://www.crunchbase.com/organization/fidzup)
 
-[Fidzup, 01](https://www.fidzup.com/en)  
-[Fidzup, 02](https://www.fidzup.com/en/team)  
-[Fidzup, 03, .zip file](http://www.fidzup.com/fidzup-2015.zip)  
-[Fidzup, 04](https://www.fidzup.com/en/privacy)  
+[Fidzup, 01](https://web.archive.org/web/20171124095315/https://www.fidzup.com/en)  
+[Fidzup, 02](https://web.archive.org/web/20171124095424/https://www.fidzup.com/en/team)  
+[Fidzup, 03, .zip file](https://web.archive.org/web/20171124095525/http://www.fidzup.com/fidzup-2015.zip)  
+[Fidzup, 04](https://web.archive.org/web/20171124095616/https://www.fidzup.com/en/privacy)  
 
 [Fidzup v2, 01](http://archive.is/kUZGK)  
 [Fidzup v2, 02](https://web.archive.org/web/20171015025307/http://v2.fidzup.com/en//notre-solution)    
@@ -195,6 +195,17 @@ _Ad-exchange.fr, 02_ [http://ad-exchange.fr/fidzup-veut-booster-ladoption-de-boi
 
 [Viuz, 01](https://viuz.com/2015/03/19/fidzup-trophee-espoir-lndr-2015-les-outils-du-web-pour-re-inventer-le-commerce-physique) 
 
+## External Links
+_Crunchbase (Fidzup)_ [https://www.crunchbase.com/organization/fidzup](https://www.crunchbase.com/organization/fidzup)
+_Fidzup, 05_ [https://web.archive.o]rg/web/20171123081837/https://fidzup.com/en/live](https://web.archive.org/web/20171123081837/https://fidzup.com/en/live)
+_Fidzup, 06_ [https://web.archive.org/web/20171124000206/https://fidzup.com/en/product](https://web.archive.org/web/20171124000206/https://fidzup.com/en/product)
+_Fidzup, 07 [https://web.archive.org/web/20171124094502/https://itunes.apple.com/us/app/fidzup-live/id735938167?mt=8](https://web.archive.org/web/20171124094502/https://itunes.apple.com/us/app/fidzup-live/id735938167?mt=8)
+_Fidzup, 08_ [https://web.archive.org/web/20171124094519/https://play.google.com/store/apps/details?id=com.fidzup.fidzuplive](https://web.archive.org/web/20171124094519/https://play.google.com/store/apps/details?id=com.fidzup.fidzuplive)
+_Fidzup, 09_ [https://web.archive.org/web/20171124094739/https://play.google.com/store/apps/details?id=com.fidzup.spotinstore.diagnostic](https://web.archive.org/web/20171124094739/https://play.google.com/store/apps/details?id=com.fidzup.spotinstore.diagnostic)
+_Fidzup, 10_ [https://web.archive.org/web/20171124094810/https://play.google.com/store/apps/details?id=com.fidzup.petitpoucet](https://web.archive.org/web/20171124094810/https://play.google.com/store/apps/details?id=com.fidzup.petitpoucet)
+_Fidzup, 11_ [https://web.archive.org/web/20171124094853/https://www.fidzup.com/en/use-case/](https://web.archive.org/web/20171124094853/https://www.fidzup.com/en/use-case/)
+_Fidzup, 12_ [https://web.archive.org/web/20171124094955/https://vimeo.com/59666867](https://web.archive.org/web/20171124094955/https://vimeo.com/59666867)
+_Fidzup, 13_ [https://web.archive.org/web/20171124095009/https://vimeo.com/80601084](https://web.archive.org/web/20171124095009/https://vimeo.com/80601084)
 
 
 
