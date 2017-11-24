@@ -138,21 +138,17 @@ Adobe's platform support "includes Apple App Store, Google Play, Amazon Appstore
 * _Adobe, 22_. [https://marketing.adobe.com/resources/help/en_US/aam/faq_privacy.html](https://marketing.adobe.com/resources/help/en_US/aam/faq_privacy.html)  
 * _Adobe, 23_. [https://blogs.adobe.com/digitalmarketing/mobile/10-things-you-need-to-know-about-adobes-mobile-marketing](https://blogs.adobe.com/digitalmarketing/mobile/10-things-you-need-to-know-about-adobes-mobile-marketing)  
 * _Adobe, 24_. [http://www.adobe.com/experience-cloud/service-support/partners.html](http://www.adobe.com/experience-cloud/service-support/partners.html)  
-
 * _Analytics Demystified, 01_. [http://analyticsdemystified.com/adobe-analytics/adobes-new-marketing-cloud-visitor-id-how-does-it-work](http://analyticsdemystified.com/adobe-analytics/adobes-new-marketing-cloud-visitor-id-how-does-it-work)  
-
 * _Crunchbase, 01_. [https://www.crunchbase.com/organization/demdex](https://www.crunchbase.com/organization/demdex) 
-
 * _Forbes, 01_. [https://www.forbes.com/sites/roberthof/2013/11/07/adobe-takes-its-marketing-cloud-services-mobile](https://www.forbes.com/sites/roberthof/2013/11/07/adobe-takes-its-marketing-cloud-services-mobile)  
-
 * _MarketWatch, 01_. [https://www.marketwatch.com/story/adobe-launches-mobile-services-for-adobe-marketing-cloud-2013-11-07](https://www.marketwatch.com/story/adobe-launches-mobile-services-for-adobe-marketing-cloud-2013-11-07)  
-
 * _PCWorld, 01_. [https://www.pcworld.com/article/2061880/adobe-adds-geolocation-targeting-to-marketing-cloud.html](https://www.pcworld.com/article/2061880/adobe-adds-geolocation-targeting-to-marketing-cloud.html)  
-
 * _TechCrunch, 01_. [https://techcrunch.com/2011/01/18/adobe-buys-behavioral-data-management-platform-demdex](https://techcrunch.com/2011/01/18/adobe-buys-behavioral-data-management-platform-demdex)
-
 
 ## External links
 * _Wikipedia (Adobe Marketing Cloud_: [https://en.wikipedia.org/wiki/Adobe_Marketing_Cloud](https://en.wikipedia.org/wiki/Adobe_Marketing_Cloud)  
 * _Adobe Audience Manager_: [https://www.adobe.com/data-analytics-cloud/audience-manager.html](https://www.adobe.com/data-analytics-cloud/audience-manager.html)  
 * _Adobe Marketing Cloud_: [http://www.adobe.com/marketing-cloud.html](http://www.adobe.com/marketing-cloud.html) 
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
