@@ -12,9 +12,9 @@ DoubleClick offers products and services to publishers and advertisers. Publishe
 ## Ownership
 Google
 
-## Detection rules
-mng-ads\.com
-doubleclick\.net
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
+* `mng-ads\.com`
+* `doubleclick\.net`
 
 ## Documentation
 [https://developers.google.com/doubleclick-publishers/docs/start](https://developers.google.com/doubleclick-publishers/docs/start)
@@ -60,39 +60,32 @@ _Opt-out and user control:_ Users can control cookie tracking through Google Ad 
 DoubleClick was founded in 1995 [Crunchbase, 01](https://www.crunchbase.com/organization/doubleclick).
 
 ## References
-[AppsFlyer, 01] (https://support.appsflyer.com/hc/en-us/articles/115003213726-DoubleClick-Integration-Guide)  
-
-[Crunchbase, 01] (https://www.crunchbase.com/organization/doubleclick)
-
-[DoubleClick, 01] (https://www.doubleclickbygoogle.com/articles/google-debuts-new-ad-attribution-service)  
-[DoubleClick, 02] (https://support.google.com/adxseller/answer/6016023?hl=en)  
-[DoubleClick, 03] (https://support.google.com/dfp_premium/answer/6281539?hl=en)  
-[DoubleClick, 04] (https://www.doubleclickbygoogle.com/articles/bt-sport-dynamic-ad-insertion-google)  
-[DoubleClick, 05] (https://www.doubleclickbygoogle.com/solutions/revenue-management/ad-exchange)  
-[DoubleClick, 06] (https://support.google.com/dcm/partner/answer/4568975?hl=en)  
-[DoubleClick, 07] (https://developers.google.com/doubleclick-advertisers/guides/conversions_overview#using_mobile_device_id)  
-
-[Forbes, 01] (https://www.forbes.com/sites/roberthof/2017/05/23/did-that-ad-work-google-debuts-new-ai-driven-ad-attribution-service)  
-
-[Google, 01] (https://support.google.com/ds/answer/6348835?hl=en)  
-[Google, 02] (https://support.google.com/adwords/answer/6100636?co=ADWORDS.IsAWNCustomer%3Dfalse&hl=en-GB) 
-[Google, 03] (https://support.google.com/dfp_premium/answer/2884033?hl=en)     
-[Google, 04] (https://support.google.com/richmedia/answer/3399874?hl=en)  
-[Google, 05, PDF] (http://services.google.com/fh/files/misc/case-study-accuweather-delivers-enhanced-value-to-advertisers-with-doubleclick-for-publishers-and-google-analytics-360.pdf)   
-[Google, 06] (https://www.google.com/policies/technologies/ads)
-
-[Online-behavior.com, 01] (http://online-behavior.com/analytics/dfp-audience)  
-
-[ProPublica, 01] (https://www.propublica.org/article/google-has-quietly-dropped-ban-on-personally-identifiable-web-tracking)  
-
-[Search Engine Land, 01] (https://searchengineland.com/google-attribution-search-marketers-need-know-275751)  
-
-[TechCrunch, 01] (https://techcrunch.com/2017/05/23/google-attribution-is-a-free-and-easy-way-to-evaluate-marketing-efforts)  
-[TechCrunch, 02] (https://techcrunch.com/2017/05/23/google-is-now-using-deep-learning-to-measure-store-visits)    
+* _AppsFlyer, 01._ https://support.appsflyer.com/hc/en-us/articles/115003213726-DoubleClick-Integration-Guide  
+* _Crunchbase, 01._ https://www.crunchbase.com/organization/doubleclick
+* _DoubleClick, 01._ https://www.doubleclickbygoogle.com/articles/google-debuts-new-ad-attribution-service  
+* _DoubleClick, 02._ https://support.google.com/adxseller/answer/6016023?hl=en  
+* _DoubleClick, 03._ https://support.google.com/dfp_premium/answer/6281539?hl=en  
+* _DoubleClick, 04._ https://www.doubleclickbygoogle.com/articles/bt-sport-dynamic-ad-insertion-google  
+* _DoubleClick, 05._ https://www.doubleclickbygoogle.com/solutions/revenue-management/ad-exchange  
+* _DoubleClick, 06._ https://support.google.com/dcm/partner/answer/4568975?hl=en  
+* _DoubleClick, 07._ https://developers.google.com/doubleclick-advertisers/guides/conversions_overview#using_mobile_device_id  
+* _Forbes, 01._ https://www.forbes.com/sites/roberthof/2017/05/23/did-that-ad-work-google-debuts-new-ai-driven-ad-attribution-service  
+* _Google, 01._ https://support.google.com/ds/answer/6348835?hl=en  
+* _Google, 02._ https://support.google.com/adwords/answer/6100636?co=ADWORDS.IsAWNCustomer%3Dfalse&hl=en-GB
+* _Google, 03._ https://support.google.com/dfp_premium/answer/2884033?hl=en
+* _Google, 04._ https://support.google.com/richmedia/answer/3399874?hl=en  
+* _Google, 05, PDF._ http://services.google.com/fh/files/misc/case-study-accuweather-delivers-enhanced-value-to-advertisers-with-doubleclick-for-publishers-and-google-analytics-360.pdf
+* _Google, 06._ https://www.google.com/policies/technologies/ads
+* _Online-behavior.com, 01._ http://online-behavior.com/analytics/dfp-audience  
+* _ProPublica, 01._ https://www.propublica.org/article/google-has-quietly-dropped-ban-on-personally-identifiable-web-tracking  
+* _Search Engine Land, 01._ https://searchengineland.com/google-attribution-search-marketers-need-know-275751  
+* _TechCrunch, 01._ https://techcrunch.com/2017/05/23/google-attribution-is-a-free-and-easy-way-to-evaluate-marketing-efforts  
+* _TechCrunch, 02._ https://techcrunch.com/2017/05/23/google-is-now-using-deep-learning-to-measure-store-visits 
 
 ## External links
-_Crunchbase (DoubleClick):_ [https://www.crunchbase.com/organization/doubleclick](https://www.crunchbase.com/organization/doubleclick)
-_Wikpedia (DoubleClick):_ [https://en.wikipedia.org/wiki/DoubleClick](https://en.wikipedia.org/wiki/DoubleClick)
-_Ghostery (DoubleClick:_ [https://apps.ghostery.com/apps/doubleclick](https://apps.ghostery.com/apps/doubleclick)
+* _Crunchbase (DoubleClick):_ [https://www.crunchbase.com/organization/doubleclick](https://www.crunchbase.com/organization/doubleclick)
+* _Wikpedia (DoubleClick):_ [https://en.wikipedia.org/wiki/DoubleClick](https://en.wikipedia.org/wiki/DoubleClick)
+* _Ghostery (DoubleClick:_ [https://apps.ghostery.com/apps/doubleclick](https://apps.ghostery.com/apps/doubleclick)
 
-
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
