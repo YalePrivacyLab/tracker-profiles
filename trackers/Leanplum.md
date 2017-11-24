@@ -16,7 +16,7 @@ Leanplum
 * `leanplum\.com`
 
 ## Documentation
-[https://www.leanplum.com/docs/android]
+[https://www.leanplum.com/docs/android](https://www.leanplum.com/docs/android)
 
 ## Products and Services
 Leanplum has a number of services. They include:
