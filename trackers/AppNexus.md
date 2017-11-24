@@ -84,3 +84,4 @@ _AppNexus Platform Data Uses:_
 
 ## External Links
 * _Wikipedia (AppNexus)_: [https://en.wikipedia.org/wiki/AppNexus](https://en.wikipedia.org/wiki/AppNexus)
+* _AppBrain_: [https://www.appbrain.com/dev/AppNexus/](https://archive.is/rI5Hu)
