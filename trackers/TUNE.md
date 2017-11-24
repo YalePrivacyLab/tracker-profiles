@@ -1,19 +1,19 @@
 # TUNE
 
-## Primary location
+## Primary Location
 United States (Seattle) [Crunchbase, 01](https://www.crunchbase.com/organization/tune)
 
 ## Website
 [https://www.tune.com](https://www.tune.com)
 
-##About
-TUEN offers products and services for the digital marketing and advertising industry, including the TUNE Marketing Console, a mobile marketing technology stack [TUNE, 08](https://www.tune.com/who-we-are).
+## About
+TUNE offers products and services for the digital marketing and advertising industry, including the TUNE Marketing Console, a mobile marketing technology stack [TUNE, 08](https://www.tune.com/who-we-are).
 
 ## Ownership
 TUNE
 
-## Detection rules
-mobileapptracking\.com
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
+* `mobileapptracking\.com`
 
 ## Documentation
 [https://developers.tune.com/sdk/android-quick-start](https://developers.tune.com/sdk/android-quick-start)
@@ -84,21 +84,23 @@ _Financial details:_ TUNE was founded in 2009 and has raised over $36 million fr
 _Innovation:_ TUNE claims to be at the forefront of many innovations in the advertising industry. They state they are "the first self-service performance marketing platform, the original mobile app measurement product, and the first multi-touch attribution for app advertising. We were also the first to combine app and web measurement, and the first to measure performance on nearly every mobile advertising platform like Google, Twitter, Snapchat and others" [TUNE, 08](https://www.tune.com/who-we-are).
 
 ## References
-_Crunchbase, 01_ [https://www.crunchbase.com/organization/tune](https://www.crunchbase.com/organization/tune)  
-
-_TUNE, 01_ [https://www.tune.com](https://www.tune.com)  
-_TUNE, 02_ [https://www.tune.com/solutions/tune-marketing-console/in-app-marketing](https://www.tune.com/solutions/tune-marketing-console/in-app-marketing)  
-_TUNE, 03_ [https://www.tune.com/solutions/tune-marketing-console/our-difference](https://www.tune.com/solutions/tune-marketing-console/our-difference)  
-_TUNE, 04_ [https://www.tune.com/solutions/tune-marketing-console/attribution-analytics](https://www.tune.com/solutions/tune-marketing-console/attribution-analytics)  
-_TUNE, 05_ [https://www.tune.com/solutions/tune-marketing-console/app-store-analytics](https://www.tune.com/solutions/tune-marketing-console/app-store-analytics)  
-_TUNE, 06_ [https://www.tune.com/solutions/tune-marketing-console/mobile-ad-fraud-detection-prevention](https://www.tune.com/solutions/tune-marketing-console/mobile-ad-fraud-detection-prevention)  
-_TUNE, 07_ [https://developers.tune.com/sdk/measuring-in-app-events](https://developers.tune.com/sdk/measuring-in-app-events)  
-_TUNE, 08_ [https://www.tune.com/who-we-are](https://www.tune.com/who-we-are)  
-_TUNE, 09_ [http://www.optoutmobile.com](http://www.optoutmobile.com)  
-_TUNE, 10_ [https://www.tune.com/resources/data-and-privacy/privacy-policies/tmc-privacy-policy](https://www.tune.com/resources/data-and-privacy/privacy-policies/tmc-privacy-policy)  
-_TUNE, 11_ [https://www.tune.com/resources/data-and-privacy](https://www.tune.com/resources/data-and-privacy)  
-_TUNE, 12_ [https://www.tune.com/resources/resource-library/#customer-stories](https://www.tune.com/resources/resource-library/#customer-stories)  
-_TUNE, 13_ [https://help.tune.com/marketing-console/the-importance-of-securing-data-in-the-tmc](https://help.tune.com/marketing-console/the-importance-of-securing-data-in-the-tmc)
+* _Crunchbase, 01._ [https://www.crunchbase.com/organization/tune](https://www.crunchbase.com/organization/tune)  
+* _TUNE, 01._ [https://www.tune.com](https://www.tune.com)  
+* _TUNE, 02._ [https://www.tune.com/solutions/tune-marketing-console/in-app-marketing](https://www.tune.com/solutions/tune-marketing-console/in-app-marketing)  
+* _TUNE, 03._ [https://www.tune.com/solutions/tune-marketing-console/our-difference](https://www.tune.com/solutions/tune-marketing-console/our-difference)  
+* _TUNE, 04._ [https://www.tune.com/solutions/tune-marketing-console/attribution-analytics](https://www.tune.com/solutions/tune-marketing-console/attribution-analytics)  
+* _TUNE, 05._ [https://www.tune.com/solutions/tune-marketing-console/app-store-analytics](https://www.tune.com/solutions/tune-marketing-console/app-store-analytics)  
+* _TUNE, 06._ [https://www.tune.com/solutions/tune-marketing-console/mobile-ad-fraud-detection-prevention](https://www.tune.com/solutions/tune-marketing-console/mobile-ad-fraud-detection-prevention)  
+* _TUNE, 07._ [https://developers.tune.com/sdk/measuring-in-app-events](https://developers.tune.com/sdk/measuring-in-app-events)  
+* _TUNE, 08._ [https://www.tune.com/who-we-are](https://www.tune.com/who-we-are)  
+* _TUNE, 09._ [http://www.optoutmobile.com](http://www.optoutmobile.com)  
+* _TUNE, 10._ [https://www.tune.com/resources/data-and-privacy/privacy-policies/tmc-privacy-policy](https://www.tune.com/resources/data-and-privacy/privacy-policies/tmc-privacy-policy)  
+* _TUNE, 11._ [https://www.tune.com/resources/data-and-privacy](https://www.tune.com/resources/data-and-privacy)  
+* _TUNE, 12._ [https://www.tune.com/resources/resource-library/#customer-stories](https://www.tune.com/resources/resource-library/#customer-stories)  
+* _TUNE, 13._ [https://help.tune.com/marketing-console/the-importance-of-securing-data-in-the-tmc](https://help.tune.com/marketing-console/the-importance-of-securing-data-in-the-tmc)
 
 ## External Links
-_Crunchbase (TUNE)_ [https://www.crunchbase.com/organization/tune](https://www.crunchbase.com/organization/tune)
+* _Crunchbase (TUNE):_ [https://www.crunchbase.com/organization/tune](https://www.crunchbase.com/organization/tune)
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
