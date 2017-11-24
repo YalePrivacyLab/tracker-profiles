@@ -112,7 +112,7 @@ _TWO METHODS of data enrichment from publishers:_ "the first method includes the
 * _Weborama, 04._ [https://www.weborama.com/data/the-offering](https://www.weborama.com/data/the-offering)  
 * _Weborama, 05._ [https://www.weborama.com/infos-financieres/financial-figures](https://www.weborama.com/infos-financieres/financial-figures)  
 * _Weborama, 06._ [https://www.weborama.com/documents/2017/09/weborama-growth-of-the-operating-profit-in-the-first-half-of-2017.pdf](https://www.weborama.com/documents/2017/09/weborama-growth-of-the-operating-profit-in-the-first-half-of-2017.pdf)  
-* _Weborama, 07._ [https://www.weborama.com/e-privacy/our-commitment(https://www.weborama.com/e-privacy/our-commitment)
+* _Weborama, 07._ [https://www.weborama.com/e-privacy/our-commitment](https://www.weborama.com/e-privacy/our-commitment)
  
 ## External Links
 * _Wikipedia (Weborama, French):_ [https://fr.wikipedia.org/wiki/Weborama](https://fr.wikipedia.org/wiki/Weborama)  
