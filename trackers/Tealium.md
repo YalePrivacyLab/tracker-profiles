@@ -6,7 +6,7 @@ United States (San Diego) [Crunchbase, 01](https://www.crunchbase.com/organizati
 ## Website
 [https://www.tealium.com](https://www.tealium.com)
 
-##About
+## About
 Tealium offers a universal data hub that unites its clients' tools and teams with "universally acceptable, real-time customer data" [Tealium, 01](https://www.tealium.com).
 
 ## Ownership
