@@ -1,7 +1,7 @@
 # Ad4Screen
 
 ## Primary Location
-France (Paris) [Crunchbase, 01](https://www.crunchbase.com/organization/ad4screen)
+France (Paris). [Crunchbase, 01](https://www.crunchbase.com/organization/ad4screen)
 
 ## Website
 [http://www.ad4screen.com](http://www.ad4screen.com)
