@@ -62,3 +62,6 @@ _Financial details:_ Pushwoosh was founded in 2011 [Crunchbase, 01](https://www.
 ## External Links
 * Owler company profile: [https://www.owler.com/iaApp/4589235/pushwoosh-company-profile](https://www.owler.com/iaApp/4589235/pushwoosh-company-profile)
 * Pushwoosh on Github: [https://github.com/Pushwoosh](https://github.com/Pushwoosh)
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
