@@ -16,7 +16,7 @@ Part of Full Circle Studies, which is owned by comScore [ScorecardResearch, 01](
 * `scorecardresearch\.com`
 
 ## Documentation
-Via Optimizely: [https://help.optimizely.com/Integrate_Other_Platforms/Integrating_Optimizely_Classic_with_comScore_Digital_Analytix#Find_your_log_server_URL](https://help.optimizely.com/Integrate_Other_Platforms/Integrating_Optimizely_Classic_with_comScore_Digital_Analytix#Find_your_log_server_URL)
+Via Optimizely: [https://help.optimizely.com/Integrate_Other_Platforms/Integrating_Optimizely_Classic_with_comScore_Digital_Analytix](https://help.optimizely.com/Integrate_Other_Platforms/Integrating_Optimizely_Classic_with_comScore_Digital_Analytix)
 
 ## Products and Services
 _Data collected:_ "... Through the practices described above, we may also collect data about your Web browsing and mobile app usage behavior over time and across digital properties, including information about the possible relationships among different browsers and devices, and provide this data to third parties to use for their own interest-based advertising purposes" [ScorecardResearch, 02](https://www.scorecardresearch.com/privacy.aspx)"  
@@ -56,3 +56,6 @@ In 2012, ScorecardResearch was the third-biggest name in The Guardian's "Trackin
 * _ScorecardResearch_: [https://www.scorecardresearch.com/about.aspx](https://www.scorecardresearch.com/about.aspx)
 * _Full Circle Studies_: [https://www.fullcirclestudies.com](https://www.fullcirclestudies.com)  
 * _Ghostery (Full Circle Studies)_: [https://apps.ghostery.com/apps/scorecard_research_beacon](https://apps.ghostery.com/apps/scorecard_research_beacon)
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
