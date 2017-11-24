@@ -44,9 +44,7 @@ _Premium Programmatic:_ "Our cross-platform, cross-device, cross-channel technol
 3. Regain full control of your inventory (granular control over RTB rules, including transparency level of your inventory, setting floor prices, and block-lists; quality monitoring utilizing smart machine learning, 3rd party tools, transparency reports, and a creative control interface)
 4. Optimize your advertising revenue (manage all of your revenue sources - direct, programmatic, and ad network mediation - from a single interface).  A holistic yield optimization algorithm ensures impressions sold through the best sales channel to maximize revenue; an RTB+ Dashboard offers analytics for insights and revenue decisions; Smart AdServer teams to consult; and Smart Yield+ to optimize rules and price floors [Smart, 08](http://smartadserver.com/publisher-platform/premium-programmatic).
 
-_RTB Mobile:_ Deliver relevant mobile ad experiences, using rich media templates so "you can create a campaign even if you don’t have stellar technical skills"  
-
-Other products listed: Mobile SSP; video solution; Mobile Deal ID; RTB+; Smart AdServer; Rich Media solution <-- this is from a timeline and some of these may be obsolete [Smart, 03](http://smartadserver.com/company/about-us)
+_RTB Mobile:_ Deliver relevant mobile ad experiences, using rich media templates so "you can create a campaign even if you don’t have stellar technical skills" [Smart, 09](http://smartadserver.com/publisher-platform/mobile).
 
 ## Relationships
 650+ customers [Smart, 11](http://smartadserver.com/media-buyers) 
