@@ -110,17 +110,17 @@ _Slogans:_ "The leading free solution for measuring website traffic" [XiTi, 01](
 * _Ad Internet, 04._ [https://www.atinternet.com/en/resources/customer-success-stories](https://www.atinternet.com/en/resources/customer-success-stories) 
 * _AT Internet, 05._ [https://www.atinternet.com/en/glossary/xiti-free-2](https://www.atinternet.com/en/glossary/xiti-free-2) 
 * _AT Internet, 06._ [https://developers.atinternet-solutions.com/android-en/getting-started-android-en/tracker-initialisation-android-en](https://developers.atinternet-solutions.com/android-en/getting-started-android-en/tracker-initialisation-android-en)
-* _AT Internet, 07_ [https://developers.atinternet-solutions.com/apple-en/getting-started-apple-en/configuration-apple-en](https://developers.atinternet-solutions.com/apple-en/getting-started-apple-en/configuration-apple-en)
-* _AT Internet, 08_ [https://developers.atinternet-solutions.com/javascript-en/getting-started-javascript-en/tracker-initialisation-javascript-en](https://developers.atinternet-solutions.com/javascript-en/getting-started-javascript-en/tracker-initialisation-javascript-en)  
-* _French Chamber Singapore, 01_ [http://www.fccsingapore.com/publications/internet-obtains-4-million-euros-financing-continue-its-international-growth-and](http://www.fccsingapore.com/publications/internet-obtains-4-million-euros-financing-continue-its-international-growth-and)
-* _JDN, 01_ [http://www.journaldunet.com/solutions/analytics/1179294-mathieu-llorens-at-internet-ces-4-millions-d-euros-vont-nous-aider-a-passer-un-nouveau-cap](http://www.journaldunet.com/solutions/analytics/1179294-mathieu-llorens-at-internet-ces-4-millions-d-euros-vont-nous-aider-a-passer-un-nouveau-cap)  
-* _Wikipedia, 01, translated from French_ [https://fr.wikipedia.org/wiki/XiTi](https://fr.wikipedia.org/wiki/XiTi) 
-* _Xiti, 01_ [https://www.xiti.com/en](https://www.xiti.com/en)   
+* _AT Internet, 07._ [https://developers.atinternet-solutions.com/apple-en/getting-started-apple-en/configuration-apple-en](https://developers.atinternet-solutions.com/apple-en/getting-started-apple-en/configuration-apple-en)
+* _AT Internet, 08._ [https://developers.atinternet-solutions.com/javascript-en/getting-started-javascript-en/tracker-initialisation-javascript-en](https://developers.atinternet-solutions.com/javascript-en/getting-started-javascript-en/tracker-initialisation-javascript-en)  
+* _French Chamber Singapore, 01._ [http://www.fccsingapore.com/publications/internet-obtains-4-million-euros-financing-continue-its-international-growth-and](http://www.fccsingapore.com/publications/internet-obtains-4-million-euros-financing-continue-its-international-growth-and)
+* _JDN, 01._ [http://www.journaldunet.com/solutions/analytics/1179294-mathieu-llorens-at-internet-ces-4-millions-d-euros-vont-nous-aider-a-passer-un-nouveau-cap](http://www.journaldunet.com/solutions/analytics/1179294-mathieu-llorens-at-internet-ces-4-millions-d-euros-vont-nous-aider-a-passer-un-nouveau-cap)  
+* _Wikipedia, 01, translated from French._ [https://fr.wikipedia.org/wiki/XiTi](https://fr.wikipedia.org/wiki/XiTi) 
+* _Xiti, 01._ [https://www.xiti.com/en](https://www.xiti.com/en)   
 
 ## External Links
-* _Wikipedia (AT Internet)_ [https://en.wikipedia.org/wiki/AT_Internet](https://en.wikipedia.org/wiki/AT_Internet)
-* _XiTi (AT Internet)_ [https://www.crunchbase.com/organization/at-internet](https://www.crunchbase.com/organization/at-internet)
-* _Ghostery (AT Internet)_ [https://apps.ghostery.com/apps/at_internet](https://apps.ghostery.com/apps/at_internet)
+* _Wikipedia (AT Internet):_ [https://en.wikipedia.org/wiki/AT_Internet](https://en.wikipedia.org/wiki/AT_Internet)
+* _XiTi (AT Internet):_ [https://www.crunchbase.com/organization/at-internet](https://www.crunchbase.com/organization/at-internet)
+* _Ghostery (AT Internet):_ [https://apps.ghostery.com/apps/at_internet](https://apps.ghostery.com/apps/at_internet)
 
 # Questions or concerns about this document?
 Please contact Privacy Lab: https://privacylab.yale.edu/directory
