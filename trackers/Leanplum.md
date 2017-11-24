@@ -1,19 +1,19 @@
 # Leanplum
 
-## Primary location
+## Primary Location
 United States (San Francisco)
 
 ## Website
 [https://www.leanplum.com](https://www.leanplum.com)
 
-##About
+## About
 Leanplum offers a mobile marketing platform with solutions for mobile messaging, in-app experiences, and detailed analytics.
 
 ## Ownership
 Leanplum
 
-## Detection rules
-leanplum\.com
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
+* `leanplum\.com`
 
 ## Documentation
 [https://www.leanplum.com/docs/android]
@@ -58,22 +58,20 @@ _Scope:_ Leanplum says it handles 14 billion events per day.
 _Infrastructure:_ Leanplum built their service on the Google Cloud Platform "to optimize for fault-tolerance and availability" [Leanplum, 04](https://www.leanplum.com/plans).
 
 ## References
-_Business Insider, 01_ [http://www.businessinsider.com/why-i-quit-google-to-become-a-startup-founder-2015-11](http://www.businessinsider.com/why-i-quit-google-to-become-a-startup-founder-2015-11)  
-
-_Crunchbase, 01_ [https://www.crunchbase.com/organization/leanplum](https://www.crunchbase.com/organization/leanplum)  
-
-_Leanplum, 01_ [https://www.leanplum.com](https://www.leanplum.com)  
-_Leanplum, 02_ [https://www.leanplum.com/customers](https://www.leanplum.com/customers)  
-_Leanplum, 03_ [https://www.leanplum.com/customers/case-studies](https://www.leanplum.com/customers/case-studies)  
-_Leanplum, 04_ [https://www.leanplum.com/plans](https://www.leanplum.com/plans)  
-_Leanplum, 05_ [https://www.leanplum.com/platform/push-notifications-messaging](https://www.leanplum.com/platform/push-notifications-messaging)  
-_Leanplum, 06_ [https://www.leanplum.com/platform/mobile-marketing-automation](https://www.leanplum.com/platform/mobile-marketing-automation)
-_Leanplum, 07_ [https://www.leanplum.com/platform/app-editor](https://www.leanplum.com/platform/app-editor)  
-_Leanplum, 08_ [https://www.leanplum.com/platform/personalization](https://www.leanplum.com/platform/personalization)  
-_Leanplum, 09_ [https://www.leanplum.com/platform/mobile-ab-testing-optimization](https://www.leanplum.com/platform/mobile-ab-testing-optimization)  
-_Leanplum, 10_ [https://www.leanplum.com/platform/mobile-app-analytics](https://www.leanplum.com/platform/mobile-app-analytics)  
-_Leanplum, 11_ [https://leanplum-wordpress.storage.googleapis.com/Pers_new@1x-min.png](https://leanplum-wordpress.storage.googleapis.com/Pers_new@1x-min.png)  
-_Leanplum, 12_ [https://www.leanplum.com/platform](https://www.leanplum.com/platform)
+* _Business Insider, 01_. [http://www.businessinsider.com/why-i-quit-google-to-become-a-startup-founder-2015-11](http://www.businessinsider.com/why-i-quit-google-to-become-a-startup-founder-2015-11)  
+* _Crunchbase, 01_. [https://www.crunchbase.com/organization/leanplum](https://www.crunchbase.com/organization/leanplum)  
+* _Leanplum, 01_. [https://www.leanplum.com](https://www.leanplum.com)  
+* _Leanplum, 02_. [https://www.leanplum.com/customers](https://www.leanplum.com/customers)  
+* _Leanplum, 03_. [https://www.leanplum.com/customers/case-studies](https://www.leanplum.com/customers/case-studies)  
+* _Leanplum, 04_. [https://www.leanplum.com/plans](https://www.leanplum.com/plans)  
+* _Leanplum, 05_. [https://www.leanplum.com/platform/push-notifications-messaging](https://www.leanplum.com/platform/push-notifications-messaging)  
+* _Leanplum, 06_. [https://www.leanplum.com/platform/mobile-marketing-automation](https://www.leanplum.com/platform/mobile-marketing-automation)
+* _Leanplum, 07_. [https://www.leanplum.com/platform/app-editor](https://www.leanplum.com/platform/app-editor)  
+* _Leanplum, 08_. [https://www.leanplum.com/platform/personalization](https://www.leanplum.com/platform/personalization)  
+* _Leanplum, 09_. [https://www.leanplum.com/platform/mobile-ab-testing-optimization](https://www.leanplum.com/platform/mobile-ab-testing-optimization)  
+* _Leanplum, 10_. [https://www.leanplum.com/platform/mobile-app-analytics](https://www.leanplum.com/platform/mobile-app-analytics)  
+* _Leanplum, 11_. [https://leanplum-wordpress.storage.googleapis.com/Pers_new@1x-min.png](https://leanplum-wordpress.storage.googleapis.com/Pers_new@1x-min.png)  
+* _Leanplum, 12_. [https://www.leanplum.com/platform](https://www.leanplum.com/platform)
 
 ## External Links
-_Crunchbase (Leanplum)_ [https://www.crunchbase.com/organization/leanplum](https://www.crunchbase.com/organization/leanplum)
+* _Crunchbase (Leanplum)_: [https://www.crunchbase.com/organization/leanplum](https://www.crunchbase.com/organization/leanplum)
