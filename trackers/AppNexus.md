@@ -7,7 +7,7 @@ United States (New York City) [Bloomberg, 01](https://www.bloomberg.com/research
 [https://www.appnexus.com](https://www.appnexus.com)
 
 ## About
-"The world's largest independent digital marketplace" [AppsNexus, 01](https://www.appnexus.com/en/publishers), AppNexus offers services for auction-based and directly negotiated media campaigns across the Internet. According to CEO Brian O'Kelley, "the AppNexus platform" is "a single point where all key stakeholders in our ecosystem -- marketers, ad networks, demand side platforms (DSPs), agency networks, exchanges, inventory aggregators, third party data providers, and more -- connect with one another through a powerful technology platform" [PR Newswire, 01](https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html).
+AppNexus offers services for auction-based and directly negotiated media campaigns across the Internet. According to CEO Brian O'Kelley, "the AppNexus platform" is "a single point where all key stakeholders in our ecosystem -- marketers, ad networks, demand side platforms (DSPs), agency networks, exchanges, inventory aggregators, third party data providers, and more -- connect with one another through a powerful technology platform" [PR Newswire, 01](https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html).
 
 ## Ownership
 AppNexus
@@ -55,7 +55,7 @@ _Regulation:_ AppNexus supports industry self-regulation, and is "a member in go
 _Clients:_ Affiperf / Air France / Hearst / MEDIA.figaro / The Guardian / Wayfair [AppNexus, 03](https://www.appnexus.com/en) / Underdog Media / Liftoff / Advance Digital / USA Today / Xaxis / Accuen / Bloomberg / Defy Media / Dow Jones / Spectrum Platform Company / District M / BannerConnect / Hitch Digital / ESPN / Fox News / Saavn [AppNexus, 05](https://www.appnexus.com/en/customer-stories)
 
 ## Details
-_History:_ AppNexus is "Founded and managed by the pioneers of the Web's original and most successful ad exchanges at Yahoo!'s Right Media and Google's DoubleClick" [PR Newswire, 01](https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html).  
+_History:_ AppNexus is "Founded and managed by the pioneers of the Web's original and most successful ad exchanges at Yahoo!'s Right Media and Google's DoubleClick" [PR Newswire, 01](https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html). AppNexus claims to be "The world's largest independent digital marketplace" [AppsNexus, 01](https://www.appnexus.com/en/publishers). 
 
 _Collection Methods:_ "The Platform uses cookies, beacons, tags, mobile SDKs, and in some cases non-cookie technologies, to collect Platform Data associated with particular web browsers or devices" [AppNexus, 04](https://www.appnexus.com/en/company/platform-privacy-policy#choices).
 
