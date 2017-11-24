@@ -65,12 +65,9 @@ _Additional services:_ Additional Flurry Analytics features for Android include:
 
 ## References
 * _AdAge, 01_. [http://adage.com/article/digital/flurry-research-build-mobile-app-advertising-database/292287](http://adage.com/article/digital/flurry-research-build-mobile-app-advertising-database/292287)  
-
 * _Ars Technica, 01_. [https://arstechnica.com/information-technology/2017/06/oath-verizon-completes-4-5-billion-buy-of-yahoo-and-merges-it-with-aol](https://arstechnica.com/information-technology/2017/06/oath-verizon-completes-4-5-billion-buy-of-yahoo-and-merges-it-with-aol)  
-
 * _TechCrunch, 01_. [https://techcrunch.com/2013/12/06/flurry-funding](https://techcrunch.com/2013/12/06/flurry-funding)  
 * _TechCrunch, 02_. [https://techcrunch.com/2014/07/21/yahoo-is-buying-mobile-analytics-firm-flurry-for-north-of-200m](https://techcrunch.com/2014/07/21/yahoo-is-buying-mobile-analytics-firm-flurry-for-north-of-200m)  
-
 * _Yahoo, 01_. [https://developer.yahoo.com/analytics](https://developer.yahoo.com/analytics)  
 * _Yahoo, 02_. [https://policies.yahoo.com/ie/en/yahoo/privacy/euoathnoticefaq](https://policies.yahoo.com/ie/en/yahoo/privacy/euoathnoticefaq)  
 * _Yahoo, 03_. [https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/events/android](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/events/android)  
