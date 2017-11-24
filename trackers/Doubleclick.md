@@ -7,6 +7,7 @@ United States (New York City)
 [https://www.doubleclickbygoogle.com](https://www.doubleclickbygoogle.com)
 
 ## About
+DoubleClick offers products and services to publishers and advertisers. Publishers use DoubleClick to display advertisements, and advertisers use DoubleClick to control the displaying of their ads by publishers.
 
 ## Ownership
 Google
