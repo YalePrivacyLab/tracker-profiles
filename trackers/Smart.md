@@ -50,7 +50,7 @@ _RTB Mobile:_ Deliver relevant mobile ad experiences, using rich media templates
 650+ customers [Smart, 11](http://smartadserver.com/media-buyers) 
 150+ integrated partners [Smart, 10](http://smartadserver.com/what-we-do/ecosystem)  
 
-_Demand partners:_ radium one / turn / AppNexus / DoubleClick bid manager by Google / MediaMath / adform / criteol (A.I. marketing platform) / nextperf / theTradeDesk / sociomantic / quantcast / Index / BidSwitch / DataXu / AdRoll / Vizury / sitescout / liquid M / LDmobile / mediasmart / Trademob / A mob / StikeAd / loopMe / DynAdmic / zebestof / pocketmath / adelphic / TLVMedia [Smart, 10](http://smartadserver.com/what-we-do/ecosystem) / himediagroup / aufeminin / axel springer / SFR Régie / orange / M-Publicite / L'Équipe / Clarín / genesismedia / antevenio / [Smart, 13](http://smartadserver.com/company/customers)
+_Demand partners:_ Radium one / Turn / AppNexus / DoubleClick bid manager by Google / MediaMath / Adform / criteo (A.I. marketing platform) / nextperf / theTradeDesk / sociomantic / quantcast / Index / BidSwitch / DataXu / AdRoll / Vizury / Sitescout / Liquid M / LDmobile / mediasmart / Trademob / A mob / StikeAd / loopMe / DynAdmic / Zebestof / Pocketmath / adelphic / TLVMedia [Smart, 10](http://smartadserver.com/what-we-do/ecosystem) / himediagroup / aufeminin / Axel Springer / SFR Régie / Orange / M-Publicite / L'Équipe / Clarín / Genesismedia / Antevenio / [Smart, 13](http://smartadserver.com/company/customers)
 
 _Others:_  
 
