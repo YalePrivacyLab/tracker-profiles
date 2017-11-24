@@ -1,6 +1,6 @@
 # Ad4Screen
 
-## Country
+## Primary Location
 France (Paris) [Crunchbase, 01](https://www.crunchbase.com/organization/ad4screen)
 
 ## Website
@@ -12,12 +12,12 @@ Ad4Screen is "a marketing and advertising pioneer on Mobile Net (Smartphones, Ta
 ## Ownership
 Ad4Screen
 
-## Detection Rules
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 
-* ad4screen
-* a4\.tl
-* app4free
-* accengage\.com
+* `ad4screen`
+* `a4\.tl`
+* `app4free`
+* `accengage\.com`
 
 ## Documentation
 Via Accengage [https://docs.accengage.com/display/AND/Integration](https://docs.accengage.com/display/AND/Integration)
@@ -26,7 +26,8 @@ Via Accengage [https://docs.accengage.com/display/AND/Integration](https://docs.
 
 Ad4Screen advises clients on "the best possible strategy to limit your risks and we manage, for you, the establishment and management of your campaigns from A to Z!" (translated from French) [Ad4Screen, 03](http://www.ad4screen.com/publicite-mobile).
 
-PRODUCTS AND SERVICES FOR MOBILE ADVERTISING: Branding Campaign / Promote Mobile Sites / Promote Mobile Apps / Mobile RTB / Mobile Tracking / App Store Optimization / Event Driven Strategy (Drive In-Store) [Ad4Screen, 01](http://www.ad4screen.com/en), [Ad4Screen, 02](http://www.ad4screen.com/en/presentation)  
+### Products and Services for Mobile Advertising
+Branding Campaign / Promote Mobile Sites / Promote Mobile Apps / Mobile RTB / Mobile Tracking / App Store Optimization / Event Driven Strategy (Drive In-Store) [Ad4Screen, 01](http://www.ad4screen.com/en), [Ad4Screen, 02](http://www.ad4screen.com/en/presentation)  
 
 _Branding Campaigns:_ "The best sites & APPS available; Many available targeting criteria’s (socio-demographics…); Geo-target campaigns; Thematic packages (CSP+, Media, Finance, Sports…); Innovative formats (interstial ads, rich media, videos…)  
 
@@ -36,10 +37,9 @@ Display / Rich Media / Videos: "Our Ad Hoc Experts select the best formats, supp
 
 Facebook & Twitter campaigns: "Our teams are Experts in setting up specific mobile campaigns on Facebook and Twitter. Share high visibility and drive a Performance Business Model forward! Many available targeting criteria specific for Mobile and for each specific plateform. Ensure an Ongoing Performance"  
 
-_Promote Mobile Apps:_ "Thanks to Mobile advertising, Ad4Screen helps you to enhance your brand reputation , gain in-depth visibility and increase your volume of APP downloads. Ad4Screen’s specific business goal lies on the guarantee to capture a growing share of Cost Per Download (CPD)." Display / Videos: "Our Experts select the market’s best set of formats, supports and well known players in the market in order to empower your Mobile APP or Tablet, whether iOS or Android.   
-Traditional formats:  
+_Promote Mobile Apps:_ "Thanks to Mobile advertising, Ad4Screen helps you to enhance your brand reputation, gain in-depth visibility and increase your volume of APP downloads. Ad4Screen’s specific business goal lies on the guarantee to capture a growing share of Cost Per Download (CPD)." Display / Videos: "Our Experts select the market’s best set of formats, supports and well known players in the market in order to empower your Mobile APP or Tablet, whether iOS or Android.   
    
-  * banners, interstitials   
+  * Traditional formats: banners, interstitials
   * Banners, interstitials HTML5   
   * Interstitials videos   
   * Pre-roll videos   
@@ -54,7 +54,7 @@ Facebook & Twitter App install campaigns: "Our teams are Experts on monitoring F
 
 _Mobile RTB Insights:_ "Our Media Buying & Planning team uses the best next generation Mobile technologies (DSP) in order to program Mobile RTB campaigns. We work with the main 100% Mobile Ad-Exchanges in the market (MoPub, Flurry, Smaato, La Place Média…).  
 
-  * Gain wide access to « apps » ad inventory (80% ad impressions & non available on Web AdEx)  
+  * Gain wide access to apps ad inventory (80% ad impressions & non available on Web AdEx)  
   * Use conversion tracking to see in-app activity  
   * Leverage intelligent algorithms in real time based on in-app conversion  
   * Communicating to the best with digital savvy shoppers  
@@ -81,17 +81,18 @@ We use the most pertinent Marketing Drive In-Store Tools:
   * Mobile Retargeting
   * Push Notification
   * GeoTargeted Mobile Advertising
-  * iBeacon, Geofencing, QR Code…
+  * iBeacon, Geofencing, QR Code...
 
 Ad4Screen implements contest specific rules:
 
-  * « Instant Win »Games
+  * Instant Win Games
   * Sweepstake
   * In-APP & Mobile Web animations  [Ad4Screen, 05](http://www.ad4screen.com/en/mobile-advertising)
 
-PRODUCTS AND SERVICES FOR MOBILE CRM: Push Notifications / Customer Loyalty Programs (Relationship Programs) / Mobile Retargeting / Email Responsive (Responsive Email Templates) / Mobile Couponing (Mobile Email Tag) / Passbook [Ad4Screen, 01](http://www.ad4screen.com/en), [Ad4Screen, 02](http://www.ad4screen.com/en/presentation)
+# Products and Services for Mobile CRM
+Push Notifications / Customer Loyalty Programs (Relationship Programs) / Mobile Retargeting / Email Responsive (Responsive Email Templates) / Mobile Couponing (Mobile Email Tag) / Passbook [Ad4Screen, 01](http://www.ad4screen.com/en), [Ad4Screen, 02](http://www.ad4screen.com/en/presentation)
 
-Support: Sales Team / Advisory Board / Mobile CRM Experts / Media Buying & Planning / IT Team / Data Mining Team / Support Team   
+_Support:_ Sales Team / Advisory Board / Mobile CRM Experts / Media Buying & Planning / IT Team / Data Mining Team / Support Team   
 
 _Sales Team:_ "We analyze with you all your requirements and needs to create adapted and breakthrough projects maximizing your ROI."  
 _Advisory Board:_ "The Advisory Services Team covers App Store SEO, ROI Optimization, International Acquisition Campaigns Management…"  
@@ -164,20 +165,16 @@ _Passbook:_ "Thanks to Ad4Screen, discover Passbook and boost your in-store traf
   * Recommend to install your iPhone app  [Ad4Screen, 06](http://www.ad4screen.com/en/push-notifications)
 
 ## References
-[Ad4Screen, 01] (http://www.ad4screen.com/en)  
-[Ad4Screen, 02] (http://www.ad4screen.com/en/presentation)  
-[Ad4Screen, 03] (http://www.ad4screen.com/publicite-mobile)  
-[Ad4Screen, 04] (http://www.ad4screen.com/en/nos-references)  
-[Ad4Screen, 05] (http://www.ad4screen.com/en/mobile-advertising)  
-[Ad4Screen, 06] (http://www.ad4screen.com/en/push-notifications)  
-[Ad4Screen, 07] (http://www.ad4screen.com/ibeacon)
-
-[Crunchbase, 01](https://www.crunchbase.com/organization/ad4screen)  
-
-[Marketing Web Mobile, 01](http://marketing-webmobile.fr/2014/09/ad4screen-separe-ses-activites-dediteur-de-logiciels-de-mobile-crm-et-dagence-de-publicite-mobile)
+* [Ad4Screen, 01]. (http://www.ad4screen.com/en)  
+* [Ad4Screen, 02]. (http://www.ad4screen.com/en/presentation)  
+* [Ad4Screen, 03]. (http://www.ad4screen.com/publicite-mobile)  
+* [Ad4Screen, 04]. (http://www.ad4screen.com/en/nos-references)  
+* [Ad4Screen, 05]. (http://www.ad4screen.com/en/mobile-advertising)  
+* [Ad4Screen, 06]. (http://www.ad4screen.com/en/push-notifications)  
+* [Ad4Screen, 07]. (http://www.ad4screen.com/ibeacon)
+* [Crunchbase, 01]. (https://www.crunchbase.com/organization/ad4screen)  
+* [Marketing Web Mobile, 01]. (http://marketing-webmobile.fr/2014/09/ad4screen-separe-ses-activites-dediteur-de-logiciels-de-mobile-crm-et-dagence-de-publicite-mobile)
 
 ## External links
-_Crunchbase (Ad4Screen)_ [https://www.crunchbase.com/organization/ad4screen](https://www.crunchbase.com/organization/ad4screen)  
-
-
-
+* _Crunchbase (Ad4Screen)_: [https://www.crunchbase.com/organization/ad4screen](https://www.crunchbase.com/organization/ad4screen)  
+* _AppBrain_: [https://www.appbrain.com/dev/AD4Screen/](https://archive.is/SgBjU)
