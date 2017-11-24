@@ -21,10 +21,11 @@ krxd\.net
 ## Products and Services
 
 ### TECHNOLOGY
+
+Salesforce DMP has a vast array of technologies for use in its data management platform. A selection of these technologies are sampled below.  
+
 **AMP for Mobile Tracking**  
 AMP stands for ‘Accelerated Mobile Pages’ and is designed to facilitate mobile-optimized content. A notable aspect of the design is that it keeps 3rd party JavaScript out as much as possible to improve performance, however, there are AMP libraries available to provide additional rich content."  
-
-Ads are served through an <amp-ad> element on the page.  It loads the ad through an Iframe of a different origin and executes our JavaScript into the Iframe.  The origin point is up to the client, but it will eventually load a remote.html file provided by Salesforce.
 
 See AMP FAQ for more: [Salesforce, 56](https://konsole.zendesk.com/hc/en-us/articles/115000428507-AMP-FAQ)
 
@@ -56,9 +57,6 @@ There are some rules in place to determine which of the KUIDs is elected the Ube
 
 It is mainly Safari users to contribute to these Uber ID changes, as on Safari each page impression created a unique new KUID." [Salesforce, 54](https://konsole.zendesk.com/hc/en-us/articles/115006652948-Segment-Processing-FAQ)
 
-**Hadoop**  
-"Salesforce DMP uses Hadoop for big data processing" [Salesforce, 32](https://konsole.zendesk.com/hc/en-us/articles/214918988-First-Party-Data-Import)
-
 **Salesforce DMP Einstein**   
 "Salesforce DMP Einstein Segmentation, which allows marketers to use machine learning to discover the multiple distinct personas that exist within their audience.
 
@@ -68,8 +66,6 @@ This is a great example of how our data management layer consisting of first, se
 
 **Tracking**    
 _Device strategies & KUIDs:_ "We differentiate between Mobile Web and Mobile App. Mobile work works just like Desktop Web with KUIDs stored as 3rd Party cookies. This has all the benefits and limitations (e.g. Safari) Desktop Web has.
-
-Mobile Apps cannot access cookies. They provide their device IDs IDFA (iOS) or AdID (Android) which are used by Salesforce DMP as unique identifiers instead of a Salesforce DMP cookie." [Salesforce, 3](https://konsole.zendesk.com/hc/en-us/articles/115000428127-Mobile-IDs-FAQ)
 
 _Reidentification:_ "Can I reidentify users in Apps?
 Yes, the IDFA or AdID stays constant. Users can be reidentified and targeted in Apps with these device IDs. User can reset this ID and receive a new one though. This is comparable to deleting cookies but not widely used." [Salesforce, 3](https://konsole.zendesk.com/hc/en-us/articles/115000428127-Mobile-IDs-FAQ)
@@ -90,12 +86,6 @@ There are a few vendors outside of Salesforce who provide Hashed Device IDs, how
 How can you tell if other providers offering Hashed Device Management solutions are accurate or employing CDIM?
 If or when you hear really high numbers of unique users (UUs) reported against Safari, it often means that they are not resolving the browser down to a single user; each page view counts as a UU in Safari if you don't have a CDIM solution." [Salesforce, 4](https://konsole.zendesk.com/hc/en-us/articles/115000428307-Safari-FAQ)
 
-_Viewing IDs (Safari FAQ):_ "Where can I see the IDs once they’ve been enabled?
-You can view the hashed device ID in the pixel.gif call from beacon.krxd.net under kfuid, which serves as the user’s KUID on Safari. The kxfp value is also a corresponding hashed ID that comes from the user data service.
-
-Are Hashed IDs written to LocalStorage?
-Yes, you can view your browser’s ID, as noted above, in localStorage corresponding to “kxfp_id” and “kxfp”" [Salesforce, 4](https://konsole.zendesk.com/hc/en-us/articles/115000428307-Safari-FAQ)
-
 "Do users have a KUID in Mobile Devices?
 We differentiate between Mobile Web and Mobile App. Mobile work works just like Desktop Web with KUIDs stored as 3rd Party cookies. This has all the benefits and limitations (e.g. Safari) Desktop Web has.
 
@@ -109,33 +99,10 @@ Natively this is not possible. If the user logs in on Mobile Web and Mobile App 
 
 
 
-**Hashed Device Management (to get around Safari)**  
+**Hashed Device Management (targeting Safari 3rd party blocking)**  
 Used for Safari because Safari has 3rd party blocking [Salesforce, 16](https://konsole.zendesk.com/hc/en-us/articles/115012183888-Hashed-Device-Management)
 
 "The Salesforce DMP Hashed Device Management solution allows for targeting users on Safari browsers that block 3rd party cookies.  Please open a ticket in the Help Portal if you would like to request Hashed Device Management."  Details here: [Salesforce, 35](https://konsole.zendesk.com/hc/en-us/articles/115011230687-How-to-verify-Hashed-Device-Management)
-
-**Media Tag Generator**  
-Impression trackers, click trackers, non-script (image pixel) trackers (where JavaScript is not supported, such as video environments and mobile apps).  Different macros are used to collect different media elements.  [Salesforce, 17](https://konsole.zendesk.com/hc/en-us/articles/115010825168-Media-Tag-Generator-Video-Overview).  See also, [Salesforce, 21](https://konsole.zendesk.com/hc/en-us/articles/225407808-How-to-set-up-the-Salesforce-DMP-ControlTag-Helper)
-
-**Super Tag**  
-SuperTag is Salesforce DMP’s integrated tag management system, allowing full control over how your tags fire. SuperTag also offers extensive tag firing capabilities, including conditional, throttle, data and frequency-based targeting.  
-
-Key use cases for SuperTag:  
-
-* _Optimized Campaign Targeting:_ Limit tag fires to specific audiences and activate that tailored audience in your campaigns
-* _Control Event and Tag-based Activities:_ Fire Salesforce DMP event pixels or custom tags to specified URLs, segments, attributes, geo-locations and frequency
-* _Define the Timing and Frequency of Tag Fires:_ Specify the order, timing and frequency of tag fires for an improved site experience
-* _Partner Tag Management:_ Fire Partner User Match tags, Brand Study pixels, and Programmatic partner pixels via SuperTag. Any tag you need deployed for optimized marketing or superior site experience can be deployed through SuperTag.  
-* _Explore A/B Testing:_ Utilize conditional tag firing for test initiatives
-
-Types of tag targeting are available in SuperTag:  
-
-* _Attribute:_ Fire a tag to specific attribute(s)
-* _Tag ordering:_ Fire a tag before or after another tag
-* _Frequency:_ Specify how many times a tag should fire in 24 hours
-* _Segment:_ Fire a tag to a specific segment(s) of users
-* _Throttle:_ Fire a tag to a specific percentage of users
-* _URL:_ Fire a tag to a specific URL(s)" [Salesforce, 61](https://konsole.zendesk.com/hc/en-us/articles/228024867-SuperTag-FAQ)
 
 **Real-time Segments**  
 "_What are Real-time segments?_
@@ -192,33 +159,7 @@ https://konsole.zendesk.com/hc/en-us/articles/115006072448-User-Matching-and-Mat
 Cumulative population is the population we expect to see in DSP after all the previous considerations. In reality this can differ due to circumstances outside our control. E.g. Google only counts users that have been active in Google's universe on at least two different days for its population/forecasting. For full refresh connections the cumulative population is the population we send every day." [Salesforce, 48](https://konsole.zendesk.com/hc/en-us/articles/115009920168-Partner-Management-Additional-Account-Details-FAQ)
 
 **Ad Server analytics**  
-"Salesforce DMP's Yield Analytics reports allow you to understand and analyze audience segment delivery and yield across all ad impressions, irrespective of whether an ad was targeted to an audience segment or not. The "raw" ad impression delivery information is combined with the user audience segment map managed in the Salesforce DMP platform to produce these audience segment delivery and yield reports... The ad impression log file contains a record of every impression delivered, and each impression delivery record must contain the Krux User ID of the user who saw the ad. Note that it is not required for every delivery record to contain the Krux User ID; Salesforce DMP simply ignores the records that don't contain the Krux User ID, but the accuracy of the reports is directly proportional to the number of records that contain the Krux User ID."
-
-For Custom Ads:
-
-The raw delivery log file contains the following columns:
-
-    Timestamp: the time at which the ad was served (Salesforce DMP can accommodate many date/time formats; 2 common formats are: YYYY-MM-DD hh:mm:ss or the Unix timestamp – the number of seconds since January 1, 1970)
-    User ID: the Krux User ID of the User who saw the ad
-    Campaign ID (or Order ID): the ID of the Campaign that contains the ad
-    Ad ID (or Line Item ID): the ID of the Ad that contains the creative for the ad.
-    Ad Size: the size of the creative (728x90, 300x250, etc.)
-    TargetedKruxSegments: a comma separated list of Salesforce DMP Segment IDs that were used to target this ad impression (this field must be populated if the Ad is targeted to one or more Salesforce DMP segments)
-
-
-Salesforce DMP recommends that the Client also provide "clicks" and "conversions" (or "actions") log files that contain a record of every click (and respectively, conversion or action) generated by users that see the ads in the ad impression delivery log file. This will help you understand audience segment yield for CPC and CPA as well as CPM campaigns. The format for the "clicks" and "conversions" log files is the same as the "impressions" log file.
-
-The aggregate delivery log file contains the following columns:
-
-    Day: in YYYY-MM-DD format (e.g., 2013-01-05)
-    User ID: the ID of the User in the partner's system that saw the ad
-    Campaign ID (or Order ID): the ID of the Campaign that contains the ad
-    Ad ID (or Line Item ID): the ID of the Ad that contains the creative for the ad.
-    Ad Size: the size of the creative (728x90, 300x250, etc.)
-    TargetedKruxSegments: a comma separated list of Salesforce DMP Segment IDs that were used to target the ad impressions (this field must be populated if the Ad is targeted to one or more Salesforce DMPsegments)
-    Impressions: the total number of impressions aggregated over columns 1-5.
-    Clicks: the total number of clicks aggregated over columns 1-5.
-    Conversions: the total number of conversions (or actions) aggregated over columns 1-5." [Salesforce, 30](https://konsole.zendesk.com/hc/en-us/articles/218445237-Ad-Server-Integration-for-Yield-Analytics)
+"Salesforce DMP's Yield Analytics reports allow you to understand and analyze audience segment delivery and yield across all ad impressions, irrespective of whether an ad was targeted to an audience segment or not. The "raw" ad impression delivery information is combined with the user audience segment map managed in the Salesforce DMP platform to produce these audience segment delivery and yield reports... The ad impression log file contains a record of every impression delivered, and each impression delivery record must contain the Krux User ID of the user who saw the ad. Note that it is not required for every delivery record to contain the Krux User ID; Salesforce DMP simply ignores the records that don't contain the Krux User ID, but the accuracy of the reports is directly proportional to the number of records that contain the Krux User ID" [Salesforce, 30](https://konsole.zendesk.com/hc/en-us/articles/218445237-Ad-Server-Integration-for-Yield-Analytics).
 
 **Content Engagement Reports**  
 Reports allow site metrics like:
@@ -249,17 +190,6 @@ Benefits:
     Expand reach by finding lookalikes among known users"
 
 "Uses 1st and 3rd party data for modelling" [Salesforce, 41](https://konsole.zendesk.com/hc/en-us/articles/115010859928-Lookalike-Modeling-FAQ)
-
-**Site Distribution Report**  
-"The Site Distribution report is useful for those with multiple sites. It reveals how a particular segment indexes across all of your sites, and where you would see the highest unique reach if you were to target across all the portfolio." [Salesforce, 42](https://konsole.zendesk.com/hc/en-us/articles/115010859228-Site-Distribution-Report-FAQ)
-
-**Segment Overlap Report**  
-"The Segment Overlaps report shows which other segments you have created have the greatest similarity to a given segment.  
-
-Benefits:
-
-    Identify both similar profile or attributes (high overlaps) as well as additional reach opportunities (low overlaps)
-    Can expand a segment by adding site visitors who fall into diﬀerent segments but are similar across thousands of attributes" [Salesforce, 43](https://konsole.zendesk.com/hc/en-us/articles/115010859208-Segment-Overlap-Report-FAQ)
 
 **Audience Profile Report**  
 "The Audience Profile report shows demographic information about a specific campaign or segment and the segments with the greatest number of unique impressions."
@@ -325,17 +255,12 @@ Users can reset their IDFA or AdID to receive a new one. This is comparable to d
 
 They can also block these completely by opting-out of Ad Track or Ads Personalization. In that case, Salesforce DMP cannot track or target these users." [Salesforce, 58](https://konsole.zendesk.com/hc/en-us/articles/115000428127-Mobile-IDs-FAQ)
 
-**Amazon role: a cloud service provider?**  
-"Salesforce DMP will create a bucket for the client in Krux’s Amazon S3 account and the client can upload the data files to S3 as per a mutually agreed upon schedule...Amazon S3 Bucket Information
-
-Here is a general website regarding connecting to the Amazon S3 bucket via Cyberduck (though, Terminal can also be used): https://trac.cyberduck.io/wiki/help/en/howto/s3#ConnectingtoAmazonS3" [Salesforce, 32](https://konsole.zendesk.com/hc/en-us/articles/214918988-First-Party-Data-Import)  
-
 **Personally Identifiable Information**  
 "Personally Identifiable Information (PII) includes any data that could potentially identify a specific individual and can be used for de-anonymizing data. Salesforce does not collect or store PII."
 
 Some examples of PII include: Full name; Email address; Phone numbers; Credit card numbers; Date of birth; Login/screen name; IP address is considered PII in some countries outside of the US; Home address; etc" [Salesforce, 8](https://konsole.zendesk.com/hc/en-us/articles/115007222048-PII)
 
-"Data Privacy and Security Considerations
+**Data Privacy and Security Considerations**
 
 Salesforce DMP does not accept PII data and it is a breach of the MSA to send to us. Onboarding might be a better option if you have data connected to email addresses and are concerned with offline data import user matching. Usage and set up fees apply." [Salesforce, 32](https://konsole.zendesk.com/hc/en-us/articles/214918988-First-Party-Data-Import)  
 
