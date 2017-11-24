@@ -75,3 +75,6 @@ _Infrastructure:_ Leanplum built their service on the Google Cloud Platform "to 
 
 ## External Links
 * _Crunchbase (Leanplum)_: [https://www.crunchbase.com/organization/leanplum](https://www.crunchbase.com/organization/leanplum)
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
