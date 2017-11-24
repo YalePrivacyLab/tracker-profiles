@@ -19,11 +19,11 @@ Twitter
 [https://www.mopub.com/resources/docs/android-sdk-integration](https://www.mopub.com/resources/docs/android-sdk-integration)
 
 ## Products and Services
-Mopub describes itself as "The leading monetization platform for mobile app publishers and developers."  [MoPub, 01](https://www.mopub.com)  
+Mopub describes itself as "The leading monetization platform for mobile app publishers and developers"  [MoPub, 01](https://www.mopub.com).  
 
-* They connect publishers with advertisers in a way aimed to "drive the highest price for every ad impression" [MoPub, 01](https://www.mopub.com)
-* They "flexible mediation system allows publishers to target the right inventory with the right network partner, based on each publisher’s unique business goals" [MoPub, 01](https://www.mopub.com)
-* They offer "ad serving tools, interface, and analytics"
+* They connect publishers with advertisers in a way aimed to "drive the highest price for every ad impression" [MoPub, 01](https://www.mopub.com).
+* They "flexible mediation system allows publishers to target the right inventory with the right network partner, based on each publisher’s unique business goals" [MoPub, 01](https://www.mopub.com).
+* They offer "ad serving tools, interface, and analytics".
 
 For publishers:  [Mopub, 02](https://www.mopub.com/publishers/overview)
 * Offer a "dependable back-end systems powered by Twitter’s world-class data center strength"
@@ -53,30 +53,30 @@ _Information Use on End Users:_ This includes for the following purposes:
 * Geo-Targeting
 * Providing and Improving MoPub Services
 
-_PII:_ "MoPub will not combine the non-personally identifiable information collected to provide the MoPub Services with your personally-identifying information without your express consent".  
+_PII:_ "MoPub will not combine the non-personally identifiable information collected to provide the MoPub Services with your personally-identifying information without your express consent." 
 
-_Information sharing:_  
+_Information sharing:_ 
 
-* With advertiser customers for the purposes of the ad bidding process.
+* With advertiser customers: for the purposes of the ad bidding process.
 * Aggregated and non-PII data: "We share aggregate or non-personally identifiable information about the use of our Services with MoPub Customers. For example, we provide advertisers reports showing how many users viewed or clicked on their ads. We also provide publishers reports about the types of ads served to their apps."
-* Partners who help with anti-fraud, quality, and security efforts
-* Partners who help MoPub improve mobile advertising exchange services.
+* With partners: who help with anti-fraud, quality, and security efforts.
+* With partners: who help MoPub improve mobile advertising exchange services.
 * Within "our corporate family to provide, understand, or improve their or our services"
 
 MoPub also shares data as described in Section 3 of the Privacy Policy (see below).  
 
-_Opt-Out:_ "Your iOS mobile device may provide a “Limit Ad Tracking” setting. On Android devices, your settings may allow you to “Opt out of Interest-Based Ads.” When you have opted out using this setting on a device, MoPub will not use in-app information collected from that device to infer your interests or serve ads to that device that are targeted based on your inferred interests." MoPub also observes "Do Not Track" requests in web browsers. MoPub "requires its advertising customers to honor opt-out preferences expressed using these controls".  
+_Opt-Out:_ "Your iOS mobile device may provide a 'Limit Ad Tracking' setting. On Android devices, your settings may allow you to 'Opt out of Interest-Based Ads.' When you have opted out using this setting on a device, MoPub will not use in-app information collected from that device to infer your interests or serve ads to that device that are targeted based on your inferred interests." MoPub also observes "Do Not Track" requests in web browsers. MoPub "requires its advertising customers to honor opt-out preferences expressed using these controls."  
 
-_Requirements of MoPub Customers:_ "MoPub requires MoPub Customers to comply with all applicable laws and regulations and to provide end users with notice of the collection of data for advertising purposes as outlined in this Privacy Policy. We encourage all users to review the privacy policies of sites and apps they visit for information about those sites’ and apps’ data collection and use practices".  
+_Requirements of MoPub Customers:_ "MoPub requires MoPub Customers to comply with all applicable laws and regulations and to provide end users with notice of the collection of data for advertising purposes as outlined in this Privacy Policy. We encourage all users to review the privacy policies of sites and apps they visit for information about those sites’ and apps’ data collection and use practices."  
 
 ### Section 3: General Information
-_Other sharing policies:_ MoPub "may preserve or disclose information if we believe that it is reasonably necessary to comply with a law, regulation, legal process, or governmental request; to protect the safety of any person; to address fraud, security or technical issues; or to protect the rights or property of MoPub, MoPub Customers, users of our website, or end users".
+_Other sharing policies:_ MoPub "may preserve or disclose information if we believe that it is reasonably necessary to comply with a law, regulation, legal process, or governmental request; to protect the safety of any person; to address fraud, security or technical issues; or to protect the rights or property of MoPub, MoPub Customers, users of our website, or end users."
 
-_Information from Third Parties:_ MoPub "may receive information about you from third parties, including MoPub Customers, data partners, and our corporate family. This information may include, for example, browser cookie IDs, mobile device IDs, demographic or interest data, and content viewed or actions taken on a website or app".  
+_Information from Third Parties:_ MoPub "may receive information about you from third parties, including MoPub Customers, data partners, and our corporate family. This information may include, for example, browser cookie IDs, mobile device IDs, demographic or interest data, and content viewed or actions taken on a website or app."  
 
 _Other sites:_ MoPub "is not responsible for the privacy practices or content of these other sites."  
 
-_Confidentiality and Security:_ MoPub "has implemented reasonable security measures in order to protect both personal and non-personal information from loss, misuse and unauthorized access, disclosure, alteration or destruction".
+_Confidentiality and Security:_ MoPub "has implemented reasonable security measures in order to protect both personal and non-personal information from loss, misuse and unauthorized access, disclosure, alteration or destruction."
 
 ## Relationships
 _Clients:_ Apalon / ASKfm / FEO Media / First Touch Games / glu / Gram Games / Jorudan / LA Place Media / Lotum / Lovoo / MeetMe / Miniclip / MobilityWare / Outfit7 / theScore / Simeji / Spinrilla / timehop / truecaller / tunein / Ubisoft / Paper.io / The Weather Channel / Zynga [MoPub, 04](https://www.mopub.com/publishers/clients)
