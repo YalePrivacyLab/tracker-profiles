@@ -77,9 +77,7 @@ _AppNexus Platform Data Uses:_
 * _AppNexus, 03_. [https://www.appnexus.com/en](https://www.appnexus.com/en)  
 * _AppNexus, 04_. [https://www.appnexus.com/en/company/platform-privacy-policy#choices](https://www.appnexus.com/en/company/platform-privacy-policy#choices)  
 * _AppNexus, 05_. [https://www.appnexus.com/en/customer-stories](https://www.appnexus.com/en/customer-stories)  
-
 * _Bloomberg, 01_. [https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=48973441](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=48973441)  
-
 * _PR Newswire, 01_. [https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html](https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html)
 
 ## External Links
