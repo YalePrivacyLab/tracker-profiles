@@ -13,7 +13,7 @@ Demdex offers audience management solutions for parts of Adobe's advertising eco
 Adobe Systems Incorporated
 
 ## Detection rules
-demdex\.net
+* `demdex\.net`
 
 ## Documentation
 [https://marketing.adobe.com/developer/get-started/mobile/c-measuring-mobile-applications](https://marketing.adobe.com/developer/get-started/mobile/c-measuring-mobile-applications)
@@ -114,61 +114,45 @@ Products include:
 Adobe's platform support "includes Apple App Store, Google Play, Amazon Appstore, Windows Store, and Windows Phone Store, as well as analytics support for Roku, Xbox, AppleTV, PlayStation, and other connected devices" [Adobe, 23](https://blogs.adobe.com/digitalmarketing/mobile/10-things-you-need-to-know-about-adobes-mobile-marketing)
 
 ## References
-_Adobe, 01_ [http://www.adobe.com/marketing-cloud.html](http://www.adobe.com/marketing-cloud.html)  
-_Adobe, 02_ [https://www.adobe.com/data-analytics-cloud/audience-manager/audience-segmentation.html](https://www.adobe.com/data-analytics-cloud/audience-manager/audience-segmentation.html)  
-_Adobe, 03_ [http://www.adobe.com/marketing-cloud.html](http://www.adobe.com/marketing-cloud.html)  
-_Adobe, 04_ [http://www.adobe.com/advertising-cloud.html](http://www.adobe.com/advertising-cloud.html)  
-_Adobe, 05_ [https://www.adobe.com/advertising-cloud/media-optimizer/demand-side-platform.html](https://www.adobe.com/advertising-cloud/media-optimizer/demand-side-platform.html)  
-_Adobe, 06_ [https://www.adobe.com/advertising-cloud/media-optimizer/display-advertising-management.html](https://www.adobe.com/advertising-cloud/media-optimizer/display-advertising-management.html)  
-_Adobe, 07_ [https://www.adobe.com/experience-cloud/overview.html](https://www.adobe.com/experience-cloud/overview.html)  
-_Adobe, 08_ [https://www.adobe.com/advertising-cloud/protecting-brand-equity.html](https://www.adobe.com/advertising-cloud/protecting-brand-equity.html)  
-_Adobe, 09_ [https://www.adobe.com/advertising-cloud/media-optimizer/dynamic-creative-optimization.html](https://www.adobe.com/advertising-cloud/media-optimizer/dynamic-creative-optimization.html)  
-_Adobe, 10_ [http://www.adobe.com/marketing-cloud/experience-manager.html](http://www.adobe.com/marketing-cloud/experience-manager.html)  
-_Adobe, 11_ [http://www.adobe.com/marketing-cloud/campaign.html](http://www.adobe.com/marketing-cloud/campaign.html)  
-_Adobe, 12_ [http://www.adobe.com/marketing-cloud/target.html](http://www.adobe.com/marketing-cloud/target.html)  
-_Adobe, 13_ [http://www.adobe.com/marketing-cloud/primetime.html](http://www.adobe.com/marketing-cloud/primetime.html)  
-_Adobe, 14_ [http://www.adobe.com/marketing-cloud/social.html](http://www.adobe.com/marketing-cloud/social.html)  
-_Adobe, 15_ [http://www.adobe.com/data-analytics-cloud.html](http://www.adobe.com/data-analytics-cloud.html)  
-_Adobe, 16_ [http://www.adobe.com/data-analytics-cloud/analytics.html](http://www.adobe.com/data-analytics-cloud/analytics.html)  
-_Adobe, 17_ [http://www.adobe.com/data-analytics-cloud/audience-manager.html](http://www.adobe.com/data-analytics-cloud/audience-manager.html)  
-_Adobe, 18_ [https://www.adobe.com/data-analytics-cloud/audience-manager.html#m226a251c23c15530b6f70ef20da2003c](https://www.adobe.com/data-analytics-cloud/audience-manager.html#m226a251c23c15530b6f70ef20da2003c)  
-_Adobe, 19_ [https://www.adobe.com/data-analytics-cloud/audience-manager.html#x](https://www.adobe.com/data-analytics-cloud/audience-manager.html#x)  
-_Adobe, 20_ [http://www.adobe.com/privacy/marketing-cloud.html](http://www.adobe.com/privacy/marketing-cloud.html)  
-_Adobe, 21_ [https://www.adobe.com/privacy/opt-out.html](https://www.adobe.com/privacy/opt-out.html)  
-_Adobe, 22_ [https://marketing.adobe.com/resources/help/en_US/aam/faq_privacy.html](https://marketing.adobe.com/resources/help/en_US/aam/faq_privacy.html)  
-_Adobe, 23_ [https://blogs.adobe.com/digitalmarketing/mobile/10-things-you-need-to-know-about-adobes-mobile-marketing](https://blogs.adobe.com/digitalmarketing/mobile/10-things-you-need-to-know-about-adobes-mobile-marketing)  
-_Adobe, 24_ [http://www.adobe.com/experience-cloud/service-support/partners.html](http://www.adobe.com/experience-cloud/service-support/partners.html)  
+* _Adobe, 01_. [http://www.adobe.com/marketing-cloud.html](http://www.adobe.com/marketing-cloud.html)  
+* _Adobe, 02_. [https://www.adobe.com/data-analytics-cloud/audience-manager/audience-segmentation.html](https://www.adobe.com/data-analytics-cloud/audience-manager/audience-segmentation.html)  
+* _Adobe, 03_. [http://www.adobe.com/marketing-cloud.html](http://www.adobe.com/marketing-cloud.html)  
+* _Adobe, 04_. [http://www.adobe.com/advertising-cloud.html](http://www.adobe.com/advertising-cloud.html)  
+* _Adobe, 05_. [https://www.adobe.com/advertising-cloud/media-optimizer/demand-side-platform.html](https://www.adobe.com/advertising-cloud/media-optimizer/demand-side-platform.html)  
+* _Adobe, 06_. [https://www.adobe.com/advertising-cloud/media-optimizer/display-advertising-management.html](https://www.adobe.com/advertising-cloud/media-optimizer/display-advertising-management.html)  
+* _Adobe, 07_. [https://www.adobe.com/experience-cloud/overview.html](https://www.adobe.com/experience-cloud/overview.html)  
+* _Adobe, 08_. [https://www.adobe.com/advertising-cloud/protecting-brand-equity.html](https://www.adobe.com/advertising-cloud/protecting-brand-equity.html)  
+* _Adobe, 09_. [https://www.adobe.com/advertising-cloud/media-optimizer/dynamic-creative-optimization.html](https://www.adobe.com/advertising-cloud/media-optimizer/dynamic-creative-optimization.html)  
+* _Adobe, 10_. [http://www.adobe.com/marketing-cloud/experience-manager.html](http://www.adobe.com/marketing-cloud/experience-manager.html)  
+* _Adobe, 11_. [http://www.adobe.com/marketing-cloud/campaign.html](http://www.adobe.com/marketing-cloud/campaign.html)  
+* _Adobe, 12_. [http://www.adobe.com/marketing-cloud/target.html](http://www.adobe.com/marketing-cloud/target.html)  
+* _Adobe, 13_. [http://www.adobe.com/marketing-cloud/primetime.html](http://www.adobe.com/marketing-cloud/primetime.html)  
+* _Adobe, 14_. [http://www.adobe.com/marketing-cloud/social.html](http://www.adobe.com/marketing-cloud/social.html)  
+* _Adobe, 15_. [http://www.adobe.com/data-analytics-cloud.html](http://www.adobe.com/data-analytics-cloud.html)  
+* _Adobe, 16_. [http://www.adobe.com/data-analytics-cloud/analytics.html](http://www.adobe.com/data-analytics-cloud/analytics.html)  
+* _Adobe, 17_. [http://www.adobe.com/data-analytics-cloud/audience-manager.html](http://www.adobe.com/data-analytics-cloud/audience-manager.html)  
+* _Adobe, 18_. [https://www.adobe.com/data-analytics-cloud/audience-manager.html#m226a251c23c15530b6f70ef20da2003c](https://www.adobe.com/data-analytics-cloud/audience-manager.html#m226a251c23c15530b6f70ef20da2003c)  
+* _Adobe, 19_. [https://www.adobe.com/data-analytics-cloud/audience-manager.html#x](https://www.adobe.com/data-analytics-cloud/audience-manager.html#x)  
+* _Adobe, 20_. [http://www.adobe.com/privacy/marketing-cloud.html](http://www.adobe.com/privacy/marketing-cloud.html)  
+* _Adobe, 21_. [https://www.adobe.com/privacy/opt-out.html](https://www.adobe.com/privacy/opt-out.html)  
+* _Adobe, 22_. [https://marketing.adobe.com/resources/help/en_US/aam/faq_privacy.html](https://marketing.adobe.com/resources/help/en_US/aam/faq_privacy.html)  
+* _Adobe, 23_. [https://blogs.adobe.com/digitalmarketing/mobile/10-things-you-need-to-know-about-adobes-mobile-marketing](https://blogs.adobe.com/digitalmarketing/mobile/10-things-you-need-to-know-about-adobes-mobile-marketing)  
+* _Adobe, 24_. [http://www.adobe.com/experience-cloud/service-support/partners.html](http://www.adobe.com/experience-cloud/service-support/partners.html)  
 
-_Analytics Demystified, 01_ [http://analyticsdemystified.com/adobe-analytics/adobes-new-marketing-cloud-visitor-id-how-does-it-work](http://analyticsdemystified.com/adobe-analytics/adobes-new-marketing-cloud-visitor-id-how-does-it-work)  
+* _Analytics Demystified, 01_. [http://analyticsdemystified.com/adobe-analytics/adobes-new-marketing-cloud-visitor-id-how-does-it-work](http://analyticsdemystified.com/adobe-analytics/adobes-new-marketing-cloud-visitor-id-how-does-it-work)  
 
-_Crunchbase, 01_ [https://www.crunchbase.com/organization/demdex](https://www.crunchbase.com/organization/demdex) 
+* _Crunchbase, 01_. [https://www.crunchbase.com/organization/demdex](https://www.crunchbase.com/organization/demdex) 
 
-_Forbes, 01_ [https://www.forbes.com/sites/roberthof/2013/11/07/adobe-takes-its-marketing-cloud-services-mobile](https://www.forbes.com/sites/roberthof/2013/11/07/adobe-takes-its-marketing-cloud-services-mobile)  
+* _Forbes, 01_. [https://www.forbes.com/sites/roberthof/2013/11/07/adobe-takes-its-marketing-cloud-services-mobile](https://www.forbes.com/sites/roberthof/2013/11/07/adobe-takes-its-marketing-cloud-services-mobile)  
 
-_MarketWatch, 01_ [https://www.marketwatch.com/story/adobe-launches-mobile-services-for-adobe-marketing-cloud-2013-11-07](https://www.marketwatch.com/story/adobe-launches-mobile-services-for-adobe-marketing-cloud-2013-11-07)  
+* _MarketWatch, 01_. [https://www.marketwatch.com/story/adobe-launches-mobile-services-for-adobe-marketing-cloud-2013-11-07](https://www.marketwatch.com/story/adobe-launches-mobile-services-for-adobe-marketing-cloud-2013-11-07)  
 
-_PCWorld, 01_ [https://www.pcworld.com/article/2061880/adobe-adds-geolocation-targeting-to-marketing-cloud.html](https://www.pcworld.com/article/2061880/adobe-adds-geolocation-targeting-to-marketing-cloud.html)  
+* _PCWorld, 01_. [https://www.pcworld.com/article/2061880/adobe-adds-geolocation-targeting-to-marketing-cloud.html](https://www.pcworld.com/article/2061880/adobe-adds-geolocation-targeting-to-marketing-cloud.html)  
 
-_TechCrunch, 01_ [https://techcrunch.com/2011/01/18/adobe-buys-behavioral-data-management-platform-demdex](https://techcrunch.com/2011/01/18/adobe-buys-behavioral-data-management-platform-demdex)
+* _TechCrunch, 01_. [https://techcrunch.com/2011/01/18/adobe-buys-behavioral-data-management-platform-demdex](https://techcrunch.com/2011/01/18/adobe-buys-behavioral-data-management-platform-demdex)
 
 
 ## External links
-_Wikipedia (Adobe Marketing Cloud_ [https://en.wikipedia.org/wiki/Adobe_Marketing_Cloud](https://en.wikipedia.org/wiki/Adobe_Marketing_Cloud)  
-_Adobe Audience Manager_ [https://www.adobe.com/data-analytics-cloud/audience-manager.html](https://www.adobe.com/data-analytics-cloud/audience-manager.html)  
-_Adobe Marketing Cloud_ [http://www.adobe.com/marketing-cloud.html](http://www.adobe.com/marketing-cloud.html)  
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
+* _Wikipedia (Adobe Marketing Cloud_: [https://en.wikipedia.org/wiki/Adobe_Marketing_Cloud](https://en.wikipedia.org/wiki/Adobe_Marketing_Cloud)  
+* _Adobe Audience Manager_: [https://www.adobe.com/data-analytics-cloud/audience-manager.html](https://www.adobe.com/data-analytics-cloud/audience-manager.html)  
+* _Adobe Marketing Cloud_: [http://www.adobe.com/marketing-cloud.html](http://www.adobe.com/marketing-cloud.html) 
