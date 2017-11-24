@@ -93,7 +93,7 @@ _Fidzup history and ideology:_ Fidzup is "Aware of the opportunities coming from
 
 Since its creation in 2011, Fidzup was working on an indoor presence detection technology. The idea was to offer retailers and shopping centers a light technology to deploy and without constraint of use for consumers. This is how Fidzup Microtargeting was created, a platform for sending interactive and location-based content on the mobile of visitors to points of sale. It is the explosion of Criteo, the French giant of online advertising retargeting, which pushed the Fidzup teams to pivot towards a similar solution, but to the brick & mortar business. Since the startup was already able to understand the behavior of consumers in points of sale.
 
-Specifically, where Criteo is interested in the behavior of Internet users on e-commerce sites to retarget advertising on partner media pages, Fidzup is interested in the consumer shopper journey in physical stores to address contextualized advertising. on its mobile apps." [Fidzup, 03](http://www.fidzup.com/fidzup-2015.zip)  
+Specifically, where Criteo is interested in the behavior of Internet users on e-commerce sites to retarget advertising on partner media pages, Fidzup is interested in the consumer shopper journey in physical stores to address contextualized advertising. on its mobile apps" [Fidzup, 03](http://www.fidzup.com/fidzup-2015.zip).  
 
 _Devices:_ Mobile (Android, Apple) / Fidbox
 
