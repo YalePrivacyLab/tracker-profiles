@@ -91,3 +91,6 @@ _Additional services:_ Additional Flurry Analytics features for Android include:
 * _Wikipedia_: [https://en.wikipedia.org/wiki/Flurry_(company)](https://en.wikipedia.org/wiki/Flurry_(company))  
 * _Flurry FAQ_: [https://developer.yahoo.com/flurry/docs/faq](https://developer.yahoo.com/flurry/docs/faq)
 * _AppBrain_: [https://www.appbrain.com/dev/Yahoo/](https://archive.is/7BNpX)
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
