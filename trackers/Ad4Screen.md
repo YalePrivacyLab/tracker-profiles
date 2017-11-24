@@ -7,7 +7,7 @@ France (Paris). [Crunchbase, 01](https://www.crunchbase.com/organization/ad4scre
 [http://www.ad4screen.com](http://www.ad4screen.com)
 
 ## About
-Ad4Screen is "a marketing and advertising pioneer on Mobile Net (Smartphones, Tablets…)".  "Founded in 2010 and crowdfunding by OTC Agregator, a big French Insurance Company (MMA) and Web contractors (Business Interactive Founders as WCube, Betclic, Boncoin or Poweo), Ad4Screen helps companies to set up performant Mobile advertising campaigns and to increase App User engagement, retention and conversion." [Ad4Screen, 02](http://www.ad4screen.com/en/presentation)
+Ad4Screen is "a marketing and advertising pioneer on Mobile Net (Smartphones, Tablets...)".  "Founded in 2010 and crowdfunding by OTC Agregator, a big French Insurance Company (MMA) and Web contractors (Business Interactive Founders as WCube, Betclic, Boncoin or Poweo), Ad4Screen helps companies to set up performant Mobile advertising campaigns and to increase App User engagement, retention and conversion." [Ad4Screen, 02](http://www.ad4screen.com/en/presentation)
 
 ## Ownership
 Ad4Screen
@@ -29,7 +29,7 @@ Ad4Screen advises clients on "the best possible strategy to limit your risks and
 ### Products and Services for Mobile Advertising
 Branding Campaign / Promote Mobile Sites / Promote Mobile Apps / Mobile RTB / Mobile Tracking / App Store Optimization / Event Driven Strategy (Drive In-Store) [Ad4Screen, 01](http://www.ad4screen.com/en), [Ad4Screen, 02](http://www.ad4screen.com/en/presentation)  
 
-_Branding Campaigns:_ "The best sites & APPS available; Many available targeting criteria’s (socio-demographics…); Geo-target campaigns; Thematic packages (CSP+, Media, Finance, Sports…); Innovative formats (interstial ads, rich media, videos…)  
+_Branding Campaigns:_ "The best sites & APPS available; Many available targeting criteria’s (socio-demographics…); Geo-target campaigns; Thematic packages (CSP+, Media, Finance, Sports...); Innovative formats (interstial ads, rich media, videos…)  
 
 _Promoting Mobile Sites:_ "Thanks to Mobile advertising key results, Ad4Screen enables you to harness the power of your brand, generate more traffic, leads (CPL) and sales on your Mobile Sites and Tablets. Often the gap between click and real visits might be significantly important. With the objective to maximize performance, Ad4Screen guarantees an effective Cost Per Visit (CPV)."    
 
@@ -63,7 +63,7 @@ _Mobile RTB Insights:_ "Our Media Buying & Planning team uses the best next gene
 
 _Mobile Tracking:_ "Our main concern is to accurately follow conversion on mobile acquisition campaigns to overall revenue. Our ad hoc experts group has the know-how for the best acquisitions and tracking plateforms in the right private marketplaces.    
 
-  * Track where your users come from (lever, design, adWords…)  
+  * Track where your users come from (lever, design, adWord...)  
   * Analyse and compare specific conversion rates per sources, operating systems, countries, segments…  
   * Track how your users interact with your app  
   * Improve overall ROI by our Experts  
@@ -95,12 +95,18 @@ Push Notifications / Customer Loyalty Programs (Relationship Programs) / Mobile 
 _Support:_ Sales Team / Advisory Board / Mobile CRM Experts / Media Buying & Planning / IT Team / Data Mining Team / Support Team   
 
 _Sales Team:_ "We analyze with you all your requirements and needs to create adapted and breakthrough projects maximizing your ROI."  
+
 _Advisory Board:_ "The Advisory Services Team covers App Store SEO, ROI Optimization, International Acquisition Campaigns Management…"  
+
 _Mobile CRM Experts:_ "Our team of experts will support you with setting up Customer Loyalty Programs."  
-_Media Buying & Planning_: "We will identify the best traffic sources, getting the best price (CPC, CPL, CPV, CPD…)."  
+
+_Media Buying & Planning_: "We will identify the best traffic sources, getting the best price (CPC, CPL, CPV, CPD...)."  
+
 _IT Team:_ "We choose next generation Mobile Marketing technologies, at the cutting-edge of innovation."  
+
 _Data Mining Team:_ "We manage the extraction, integration and analysis of large volumes of DATA to optimize your targeting."  
-_Support Team:_ "We are here to help you planning, implementing SDK, training, preserving, updating…" [Ad4Screen, 02](http://www.ad4screen.com/en/presentation)  
+
+_Support Team:_ "We are here to help you planning, implementing SDK, training, preserving, updating..." [Ad4Screen, 02](http://www.ad4screen.com/en/presentation)  
 
 * (translated from French:) "Our Experts select the best formats, supports, boards and Ad-Exchanges of the market to effectively highlight the benefits and offers of your mobile site and / or tablet." [Ad4Screen, 03](http://www.ad4screen.com/publicite-mobile)
 
@@ -136,8 +142,8 @@ _Customer Loyalty Programs:_ "Ad4Screen enables you to set up a True Value added
 
 _Mobile Retargeting:_ "2 retargeting methods roll into action to retarget your digital device users:  
 
-  * From « opt-in » to push notification, mobile users are identified by Ad4Screen as having abandoned their shopping cart and reminded via customized push notifications  
-  * No « opt-in » to push are retargeted in a display mode through targeted customized banners and interstitials    
+  * From opt-in to push notification, mobile users are identified by Ad4Screen as having abandoned their shopping cart and reminded via customized push notifications  
+  * No opt-in to push are retargeted in a display mode through targeted customized banners and interstitials    
 
 _Responsive Email:_ "Ad4Screen delivers a Customer Seamless Experience to read your newsletter on Smartphone by displaying the email according to the device used by the user.  
 
