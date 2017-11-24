@@ -6,14 +6,14 @@ United States (New York) [Crunchbase, 01](https://www.crunchbase.com/organizatio
 ## Website
 [https://www.mparticle.com](https://www.mparticle.com)
 
-##About
+## About
 mParticle offers "a customer data platform built for mobile and native apps across all devices" [mParticle, 04](https://www.mparticle.com/news/mparticle-raises-15-million-series-a-led-by-social-capital)
 
 ## Ownership
 mParticle
 
-## Detection rules
-mparticle\.com
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
+* `mparticle\.com`
 
 ## Documentation
 [https://docs.mparticle.com/developers/sdk/android/getting-started](https://docs.mparticle.com/developers/sdk/android/getting-started)
@@ -79,19 +79,20 @@ _Financial details:_ mParticle was founded in 2013 and has raised over $76 milli
 _Location-based tracking:_ Via, an "on-demand ride-sharing app based in NYC", integrates with mParticle for geofencing services [mParticle, 13](https://www.mparticle.com/blog/via-predictive-analytics-radar).
 
 ## References
-_mParticle, 01_ [https://www.mparticle.com](https://www.mparticle.com)  
-_mParticle, 02_ [https://www.mparticle.com/customers](https://www.mparticle.com/customers)  
-_mParticle, 03_ [https://www.mparticle.com/news/mparticle-gartner-magic-quadrant-digital-marketing-hubs](https://www.mparticle.com/news/mparticle-gartner-magic-quadrant-digital-marketing-hubs)  
-_mParticle, 04_ [https://www.mparticle.com/news/mparticle-raises-15-million-series-a-led-by-social-capital](https://www.mparticle.com/news/mparticle-raises-15-million-series-a-led-by-social-capital)  
-_mParticle, 05_ [https://www.mparticle.com/product](https://www.mparticle.com/product)  
-_mParticle, 06_ [https://www.mparticle.com/marketer](https://www.mparticle.com/marketer)  
-_mParticle, 07_ [https://www.mparticle.com/productmanager](https://www.mparticle.com/productmanager)  
-_mParticle, 08_ [https://www.mparticle.com/analytics](https://www.mparticle.com/analytics)  
-_mParticle, 09_ [https://www.mparticle.com/integrations](https://www.mparticle.com/integrations)  
-_mParticle, 10_ [https://www.mparticle.com/integrations/integration-safegraph](https://www.mparticle.com/integrations/integration-safegraph)    
-_mParticle, 11_ [https://www.mparticle.com/blog/salesforce-partnership](https://www.mparticle.com/blog/salesforce-partnership)
-
-
+* _mParticle, 01._ [https://www.mparticle.com](https://www.mparticle.com)  
+* _mParticle, 02._ [https://www.mparticle.com/customers](https://www.mparticle.com/customers)  
+* _mParticle, 03._ [https://www.mparticle.com/news/mparticle-gartner-magic-quadrant-digital-marketing-hubs](https://www.mparticle.com/news/mparticle-gartner-magic-quadrant-digital-marketing-hubs)  
+* _mParticle, 04._ [https://www.mparticle.com/news/mparticle-raises-15-million-series-a-led-by-social-capital](https://www.mparticle.com/news/mparticle-raises-15-million-series-a-led-by-social-capital)  
+* _mParticle, 05._ [https://www.mparticle.com/product](https://www.mparticle.com/product)  
+* _mParticle, 06._ [https://www.mparticle.com/marketer](https://www.mparticle.com/marketer)  
+* _mParticle, 07._ [https://www.mparticle.com/productmanager](https://www.mparticle.com/productmanager)  
+* _mParticle, 08._ [https://www.mparticle.com/analytics](https://www.mparticle.com/analytics)  
+* _mParticle, 09._ [https://www.mparticle.com/integrations](https://www.mparticle.com/integrations)  
+* _mParticle, 10._ [https://www.mparticle.com/integrations/integration-safegraph](https://www.mparticle.com/integrations/integration-safegraph)    
+* _mParticle, 11._ [https://www.mparticle.com/blog/salesforce-partnership](https://www.mparticle.com/blog/salesforce-partnership)
 
 ## External Links
-_Crunchbase (mParticle)_ [https://www.crunchbase.com/organization/mparticle](https://www.crunchbase.com/organization/mparticle)
+* _Crunchbase (mParticle):_ [https://www.crunchbase.com/organization/mparticle](https://www.crunchbase.com/organization/mparticle)
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
