@@ -12,7 +12,7 @@ MoPub offers services aimed th help publishers acquire and serve advertisements 
 ## Ownership
 Twitter
 
-## Detection rules
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 * `mopub\.com`
 
 ## Documentation
