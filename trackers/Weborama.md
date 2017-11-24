@@ -18,7 +18,7 @@ Weborama
 
 ## Products and Services
 
-Weborama "specializes in creating and delivering targeted online ads. Weborama identifies the content, services and products that are most likely to match the interest of specific user groups according to their browsing history" [Weborama, 07](https://www.weborama.com/e-privacy/our-commitment)
+Weborama "specializes in creating and delivering targeted online ads. Weborama identifies the content, services and products that are most likely to match the interest of specific user groups according to their browsing history" [Weborama, 07](https://www.weborama.com/e-privacy/our-commitment).
 
 Weborama features an audience-driven advertising platform:
 
@@ -27,9 +27,13 @@ Weborama features an audience-driven advertising platform:
 "Weborama has been developing solutions in adserving, data Management Platform (DMP), audience analysis, data segmentation and target segments for 15 years" [Weborama, 03](http://www.weborama.com/documents/2013/06/data-according-to-weborama.pdf). 
 
 _Weborama Audience Manager:_ A Data Management Platform; it is a "data management platform for segmentation of different sources of 1st party (CRM, media and website) data, enriched by 3rd party data using access to data owned by Weborama."
+
 _Weborama Audience Insight:_ A "tool for analysing audience behavior on internet sites"  
+
 _Weborama Campaign Manager:_ "adserving tool for management and optimisation of advertising campaigns" 
+
 _Weborama Advanced Rich Media:_ A "tool for managing rich media/video campaigns"  
+
 _Weborama Audience Exchange:_ A " premium multi-device audience platform, on two channels (WaX for agency, WaX for trading desk). Classic formats, rich media and in stream" 
 
 Weborama offers audience analysis and a targeted marketing proposal for publishers [Weborama, 03](http://www.weborama.com/documents/2013/06/data-according-to-weborama.pdf).
