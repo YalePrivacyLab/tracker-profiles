@@ -1,6 +1,6 @@
 # Tinder Analytics
 
-## Primary location
+## Primary Location
 United States
 
 ## Website
@@ -19,9 +19,9 @@ Match Group (a division of IAC/InterActiveCorp) [BusinessInsider, 01](http://www
 Not public
 
 ## Products and Services
-It is note entirely clear what the Tinder Analytics SDK does. Some news outlets have published details about Tinder analytical practices, often in conjunction with third parties.  
+It is note entirely clear what the Tinder Analytics SDK does. Some news outlets have published details about Tinder analytical practices, often in conjunction with third parties. Minor press about Tinder and "swiping right" offers clues:
 
-FILL IN HERE
+"Earlier this year, to combat this collection of overzealous swipers, the company set a limit on the number of right swipes users could make daily. Then it rounded up profiles of the most prolific right-swipers and watched what happened. Would they get upset and leave? Would they stop using for a while and lick their wounds? Or would they realize the error in their ways and be a little more discriminating in suggesting possible hookups?" [Fortune, 01](http://fortune.com/2015/09/29/tinder-interana-analytics/)
 
 ## Privacy Policy
 The privacy policy for the Tinder Analytics SDK tracker is not public. In September 2017, French journalist Judith Duportail published details about her data request from Tinder which revealed that Tinder had 800 pages of information about her. The profile was created over four years of use, and included information about her Facebook "likes", links to (now-deleted) Instagram photos, her education, the age-rank of men she was interested in, number of Facebook friends, the when and where of every one of her Tinder match conversations, and more [The Guardian, 01](https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold).
@@ -67,8 +67,6 @@ _Jurisdictional issues:_ Tinder states, "we cannot always know where personal in
 
 If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal data, including sensitive data, by Tinder from your region to countries which do not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area, including the United States. By providing your personal information, you consent to any transfer and processing in accordance with this Policy" [Tinder, 01](https://www.gotinder.com/privacy).
 
-
-
 ## Relationships
 _Match Group businesses:_ Match.com / OkCupid / OurTime.com / BlackPeopleMeet.com / Twoo / Meetic / POF / LoveScout24 / ParPerfeito [Tinder, 01](https://www.gotinder.com/privacy)
 
@@ -78,15 +76,15 @@ _Usage requirements:_ Tinder users are required to have a Facebook account and t
 _Analytics:_ Tinder uses Spotify and Facebook data to match users [Tech Times, 01](http://www.techtimes.com/articles/199964/20170302/tinder-users-finding-more-matches-thanks-spotify-popular-anthems-include.htm)
 
 ## References
-_BusinessInsider, 01_ [http://www.businessinsider.com/match-the-company-that-owns-tinder-just-filed-to-go-public-2015-10](http://www.businessinsider.com/match-the-company-that-owns-tinder-just-filed-to-go-public-2015-10)  
-
-_CrunchBase, 01_ [https://www.crunchbase.com/organization/match-group](https://www.crunchbase.com/organization/match-group)  
-
-_Tech Times, 01_ [http://www.techtimes.com/articles/199964/20170302/tinder-users-finding-more-matches-thanks-spotify-popular-anthems-include.htm](http://www.techtimes.com/articles/199964/20170302/tinder-users-finding-more-matches-thanks-spotify-popular-anthems-include.htm)  
-
-_The Guardian, 01_ [https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold](https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold)  
-
-_Tinder, 01_ [https://www.gotinder.com/privacy](https://www.gotinder.com/privacy)
+* _BusinessInsider, 01._ [http://www.businessinsider.com/match-the-company-that-owns-tinder-just-filed-to-go-public-2015-10](http://www.businessinsider.com/match-the-company-that-owns-tinder-just-filed-to-go-public-2015-10)  
+* _CrunchBase, 01._ [https://www.crunchbase.com/organization/match-group](https://www.crunchbase.com/organization/match-group)  
+* _Fortune, 01._ [http://fortune.com/2015/09/29/tinder-interana-analytics/]
+_Tech Times, 01._ [http://www.techtimes.com/articles/199964/20170302/tinder-users-finding-more-matches-thanks-spotify-popular-anthems-include.htm](http://www.techtimes.com/articles/199964/20170302/tinder-users-finding-more-matches-thanks-spotify-popular-anthems-include.htm)  
+* _The Guardian, 01._ [https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold](https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold)  
+* _Tinder, 01._ [https://www.gotinder.com/privacy](https://www.gotinder.com/privacy)
 
 ## External Links
-_Wikipedia (Tinder app)_ [https://en.wikipedia.org/wiki/Tinder_(app)](https://en.wikipedia.org/wiki/Tinder_(app))
+* _Wikipedia (Tinder app):_ [https://en.wikipedia.org/wiki/Tinder_(app)](https://en.wikipedia.org/wiki/Tinder_(app))
+
+# Questions or concerns about this document?
+Please contact Privacy Lab: https://privacylab.yale.edu/directory
