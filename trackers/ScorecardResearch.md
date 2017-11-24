@@ -1,7 +1,7 @@
 # Scorecard Research
 
 ## Primary Location
-???
+Unknown
 
 ## Website
 [https://www.scorecardresearch.com](https://www.scorecardresearch.com)
@@ -13,10 +13,10 @@ About: "ScorecardResearch, a service of Full Circle Studies, Inc., is part of th
 Part of Full Circle Studies, which is owned by comScore [ScorecardResearch, 01](https://www.scorecardresearch.com); [The Guardian, 01](https://www.theguardian.com/technology/2012/apr/23/scorecardresearch-tracking-trackers-cookies-web-monitoring)
 
 ## Detection rules
-scorecardresearch\.com
+* `scorecardresearch\.com`
 
 ## Documentation
-???
+Via Optimizely: [https://help.optimizely.com/Integrate_Other_Platforms/Integrating_Optimizely_Classic_with_comScore_Digital_Analytix#Find_your_log_server_URL](https://help.optimizely.com/Integrate_Other_Platforms/Integrating_Optimizely_Classic_with_comScore_Digital_Analytix#Find_your_log_server_URL)
 
 ## Products and Services
 _Data collected:_ "... Through the practices described above, we may also collect data about your Web browsing and mobile app usage behavior over time and across digital properties, including information about the possible relationships among different browsers and devices, and provide this data to third parties to use for their own interest-based advertising purposes" [ScorecardResearch, 02](https://www.scorecardresearch.com/privacy.aspx)"  
@@ -47,16 +47,12 @@ _Self-regulation:"
 In 2012, ScorecardResearch was the third-biggest name in The Guardian's "Tracking the Trackers" data set [The Guardian, 01](https://www.theguardian.com/technology/2012/apr/23/scorecardresearch-tracking-trackers-cookies-web-monitoring).
 
 ## References
-_ScorecardResearch, 01_ [https://www.scorecardresearch.com](https://www.scorecardresearch.com)  
-_ScorecardResearch, 02_ [https://www.scorecardresearch.com/privacy.aspx](https://www.scorecardresearch.com/privacy.aspx)  
-_ScorecardResearch, 03_ [https://www.scorecardresearch.com/Principle.aspx](https://www.scorecardresearch.com/Principle.aspx)
-
-_The Guardian, 01_ [https://www.theguardian.com/technology/2012/apr/23/scorecardresearch-tracking-trackers-cookies-web-monitoring](https://www.theguardian.com/technology/2012/apr/23/scorecardresearch-tracking-trackers-cookies-web-monitoring)
+* _ScorecardResearch, 01._ [https://www.scorecardresearch.com](https://www.scorecardresearch.com)  
+* _ScorecardResearch, 02._ [https://www.scorecardresearch.com/privacy.aspx](https://www.scorecardresearch.com/privacy.aspx)  
+* _ScorecardResearch, 03._ [https://www.scorecardresearch.com/Principle.aspx](https://www.scorecardresearch.com/Principle.aspx)
+* _The Guardian, 01._ [https://www.theguardian.com/technology/2012/apr/23/scorecardresearch-tracking-trackers-cookies-web-monitoring](https://www.theguardian.com/technology/2012/apr/23/scorecardresearch-tracking-trackers-cookies-web-monitoring)
 
 ## External links
-_ScorecardResearch_ [https://www.scorecardresearch.com/about.aspx](https://www.scorecardresearch.com/about.aspx)
-_Full Circle Studies_ [https://www.fullcirclestudies.com](https://www.fullcirclestudies.com)  
-_Ghostery (Full Circle Studies)_ [https://apps.ghostery.com/apps/scorecard_research_beacon](https://apps.ghostery.com/apps/scorecard_research_beacon)
-
-
-
+* _ScorecardResearch_: [https://www.scorecardresearch.com/about.aspx](https://www.scorecardresearch.com/about.aspx)
+* _Full Circle Studies_: [https://www.fullcirclestudies.com](https://www.fullcirclestudies.com)  
+* _Ghostery (Full Circle Studies)_: [https://apps.ghostery.com/apps/scorecard_research_beacon](https://apps.ghostery.com/apps/scorecard_research_beacon)
