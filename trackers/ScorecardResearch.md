@@ -12,7 +12,7 @@ About: "ScorecardResearch, a service of Full Circle Studies, Inc., is part of th
 ## Ownership
 Part of Full Circle Studies, which is owned by comScore [ScorecardResearch, 01](https://www.scorecardresearch.com); [The Guardian, 01](https://www.theguardian.com/technology/2012/apr/23/scorecardresearch-tracking-trackers-cookies-web-monitoring)
 
-## Detection rules
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 * `scorecardresearch\.com`
 
 ## Documentation
@@ -37,7 +37,7 @@ DAA AppChoices Amazon " [ScorecardResearch, 02](https://www.scorecardresearch.co
 _Mobile privacy:_    
 "As part of ScorecardResearch’s market research effort, participants agree to deploy ScorecardResearch web tags throughout their site. These tags send a message to ScorecardResearch that causes a ScorecardResearch cookie to be dropped or a mobile identifier to be accessed... ScorecardResearch uses the combination of tagging,cookies, and mobile identifiers (where relevant) to help participants count users who have visited and seen a page or various parts of a page" [ScorecardResearch, 02](https://www.scorecardresearch.com/privacy.aspx).
 
-_Self-regulation:"_  
+_Self-regulation:_  
 "comScore supports the goals of the Digital Advertising Alliance, which has introduced Self-Regulatory Principles for Online Behavioral Advertising. comScore requires companies that place our tags on their webpages to include a notice that its sites or applications use cookies or other identifiers that collect anonymous traffic data, and that these cookies or other identifiers may be placed by the website or by a third-party who provides services to the web site. comScore's tags are used for market research; they are not used for behavioral advertising" [ScorecardResearch, 03](https://www.scorecardresearch.com/Principle.aspx).
 
 ## Relationships
