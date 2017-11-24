@@ -17,51 +17,9 @@ Smart
 * `saspreview\.com`
 
 ## Documentation
+[https://github.com/smartadserver/SAS-DFP-Adapter-Android](https://github.com/smartadserver/SAS-DFP-Adapter-Android)
 
-
-## Relationships
-650+ customers [Smart, 11](http://smartadserver.com/media-buyers) 
-150+ integrated partners [Smart, 10](http://smartadserver.com/what-we-do/ecosystem)  
-
-_Demand partners:_ radium one / turn / AppNexus / DoubleClick bid manager by Google / MediaMath / adform / criteol (A.I. marketing platform) / nextperf / theTradeDesk / sociomantic / quantcast / Index / BidSwitch / DataXu / AdRoll / Vizury / sitescout / liquid M / LDmobile / mediasmart / Trademob / A mob / StikeAd / loopMe / DynAdmic / zebestof / pocketmath / adelphic / TLVMedia [Smart, 10](http://smartadserver.com/what-we-do/ecosystem) / himediagroup / aufeminin / axel springer / SFR Régie / orange / M-Publicite / L'Équipe / Clarín / genesismedia / antevenio / [Smart, 13](http://smartadserver.com/company/customers)
-
-_Others:_  
-
-* 2nd screen: screenpulse / TVTY Real Time / Visiware International  
-* 3rd Party Vendors: adform / celtra / DoubleClick by Google / Atlast by Facebook / flashtalking / InMobi / inspired / justAd / MobileAds / S4M / Sizmek / userADgents / weborama / Joule  
-* Analytics: Keynote / S4M  
-* Audience Data: AudienceScience / ezakus / Globalfastads.com / navegg / Tail Target / krux  
-* Brandsafety: adwatchisobar  
-* Content Delivery Network: Akamai / Level(3)  
-* Creatives: iab / iab MRAID webTester / iab compliant VAST  
-* Environment: Android / HTML5 / W3C  
-* Forecast: Yieldex  
-* Membership: iab / MMA (Mobile Marketing Association)  
-* Order management: adlogix.eu / Advendio.com / fivia / nugg.ad  
-* Privacy: Ghostery / Your Online Choices  
-* Publishing Networks: Facebook / Google Display Network / msn / Pandora / Q1 Media / The New Yorker / Travel+ Leisure / YouTube  
-* Video Players: brightcove / Dailymotion / flowplayer / JWPlayer / OOYALA  
-* Viewability: AppNexus  [Smart, 10](http://smartadserver.com/what-we-do/ecosystem)
-
-Antevenio (ad network that delivers 1.2 billion ad impressions/month to MTV, Paramount, Libertad Digital, Letsbonus, Repsol, BBC, etc. - see [Smart, 07](http://smartadserver.com/uploads/EN_SAS_RTB_Case_study_antevenio_2014_3.pdf)) / access to 50,000 leading global marketer brand buyers through Smart AdServer's Demand Partner Network [Smart, 08](http://smartadserver.com/publisher-platform/premium-programmatic) altitude digital / adikteev [Smart, 11](http://smartadserver.com/media-buyers) / Fraudlogix [Smart, 12](http://smartadserver.com/wp-content/uploads/2017/10/20170606_Brand_Safety_Policy.pdf)
-
-_Industry Affiliations:_ European Interactive Digital Advertising Alliance [Ghostery, 01](https://apps.ghostery.com/apps/smart_adserver)
-
-## Privacy policy
-_Cookies & Web Beacons:_ "Like most digital marketing solutions, Smart AdServer uses “cookies” and other technologies to enhance users’ experiences on the web, to deliver more relevant ads, and for ad delivery and reporting. We cannot use these technologies to personally identify you, and these technologies do not damage your system or files. Smart AdServer uses these technologies to help recognize a unique computer or device so we are able to deliver relevant advertising and measure the impact of that advertising."  
-
-_Cookie Opt-Out:_ The cookie opt-out policy allows users to "opt out form our advertising network" and "ensures you that your browser will not be identify anymore by our system", see "http://www.smartadserver.com/diffx/optout/IABOptout.aspx. A blank page will open, confirming the opt-out process has been completed and Smart AdServer will no longer place cookies on your computer."
-
-_Online Behavioral Advertising opt-out via YourOnlineChoices platform:_ "Smart AdServer is a member of the European Interactive Digital Advertising Alliance (EDAA) and a signatory to the Self-Regulatory Principles for Online Behavioral Advertising (http://www.edaa.eu/european-principles/)."
-
-The EDAA offers a Consumer Choice Page (http://youronlinechoices.eu) (opt-out). To learn more, please visit http://edaa.eu." [Smart, 02](http://smartadserver.com/company/privacy-policy)
-
-Smart promises no personal identity is revealed through their practices: "Online measurements are compiled and anonymous"; "We cannot use [ cookies and other technologies ] to personally identify you"
-
-## Details
-_Financial Details:_ Smart AdServer was created by Internet portal Aufeminin.com in 2001 [clubic, 01](http://www.clubic.com/actualite-145758-100-clients-francais-smart-adserver.html).  In 2007, Axel Springer acquired Aufeminin.com.  Smart AdServer became independent from Aufeminin.com when it was acquired by Sino-French private-equity fund Cathay Capital for 37 million € [Wikipedia, 01](https://en.wikipedia.org/wiki/Smart_Adserver); [JDN, 01](http://www.journaldunet.com/ebusiness/publicite/vente-smart-adserver-cathay-capital.shtml); [Smart, 14](http://smartadserver.com/smart-adserver-officially-becomes-independent-with-the-support-of-cathay-capital); [Cathay, 01](http://www.cathay.fr/en/news/cathay-buy-smart-adserver-e37m). Smart AdServer "generated turnover of $16 million in 2014" [Ad Exchanger, 01](https://adexchanger.com/platforms/smart-adserver-goes-independent-via-private-equity-firm).  
-
-### Services
+## Products and Services
 _Solutions for publishers:_ Ad Server / Programmatic / Mobile / Video / Ad Formats [Smart, 04](http://smartadserver.com/publisher-platform/holistic-ad-server)  
 
 _Full stack ad technology platform:_ Smart is a full stack ad technology platform: "We come to work because we want to solve the biggest problem publishers, advertisers and agencies face in online advertising — control. It’s simple. When other companies sell and resell your ad inventory and data through various parties, you depreciate your company’s value along the way. Smart’s integrated ad server and RTB+ Solution allows you to maintain control over your valuable media assets. We provide you with one robust engine to drive your revenues at any scale. Your ad server is the core of your business. It’s your most important strategic asset. It’s that much more powerful when it is seamlessly integrated with RTB+ and can handle the monetization and delivery of any kind of ads – display, rich media, video – on any platform – web, mobile web or mobile apps." [Smart, 05](http://smartadserver.com/what-we-do/our-mission)  
@@ -90,6 +48,50 @@ _RTB Mobile:_ Deliver relevant mobile ad experiences, using rich media templates
 
 Other products listed: Mobile SSP; video solution; Mobile Deal ID; RTB+; Smart AdServer; Rich Media solution <-- this is from a timeline and some of these may be obsolete [Smart, 03](http://smartadserver.com/company/about-us)
 
+## Relationships
+650+ customers [Smart, 11](http://smartadserver.com/media-buyers) 
+150+ integrated partners [Smart, 10](http://smartadserver.com/what-we-do/ecosystem)  
+
+_Demand partners:_ radium one / turn / AppNexus / DoubleClick bid manager by Google / MediaMath / adform / criteol (A.I. marketing platform) / nextperf / theTradeDesk / sociomantic / quantcast / Index / BidSwitch / DataXu / AdRoll / Vizury / sitescout / liquid M / LDmobile / mediasmart / Trademob / A mob / StikeAd / loopMe / DynAdmic / zebestof / pocketmath / adelphic / TLVMedia [Smart, 10](http://smartadserver.com/what-we-do/ecosystem) / himediagroup / aufeminin / axel springer / SFR Régie / orange / M-Publicite / L'Équipe / Clarín / genesismedia / antevenio / [Smart, 13](http://smartadserver.com/company/customers)
+
+_Others:_  
+
+* 2nd screen: screenpulse / TVTY Real Time / Visiware International  
+* 3rd Party Vendors: adform / celtra / DoubleClick by Google / Atlast by Facebook / flashtalking / InMobi / inspired / justAd / MobileAds / S4M / Sizmek / userADgents / weborama / Joule  
+* Analytics: Keynote / S4M  
+* Audience Data: AudienceScience / ezakus / Globalfastads.com / navegg / Tail Target / krux  
+* Brandsafety: adwatchisobar  
+* Content Delivery Network: Akamai / Level(3)  
+* Creatives: iab / iab MRAID webTester / iab compliant VAST  
+* Environment: Android / HTML5 / W3C  
+* Forecast: Yieldex  
+* Membership: iab / MMA (Mobile Marketing Association)  
+* Order management: adlogix.eu / Advendio.com / fivia / nugg.ad  
+* Privacy: Ghostery / Your Online Choices  
+* Publishing Networks: Facebook / Google Display Network / msn / Pandora / Q1 Media / The New Yorker / Travel+ Leisure / YouTube  
+* Video Players: brightcove / Dailymotion / flowplayer / JWPlayer / OOYALA  
+* Viewability: AppNexus  [Smart, 10](http://smartadserver.com/what-we-do/ecosystem)
+
+Antevenio (ad network that delivers 1.2 billion ad impressions/month to MTV, Paramount, Libertad Digital, Letsbonus, Repsol, BBC, etc. - see [Smart, 07](http://smartadserver.com/uploads/EN_SAS_RTB_Case_study_antevenio_2014_3.pdf)) / access to 50,000 leading global marketer brand buyers through Smart AdServer's Demand Partner Network [Smart, 08](http://smartadserver.com/publisher-platform/premium-programmatic) altitude digital / adikteev [Smart, 11](http://smartadserver.com/media-buyers) / Fraudlogix [Smart, 12](http://smartadserver.com/wp-content/uploads/2017/10/20170606_Brand_Safety_Policy.pdf)
+
+In 2012, Smart AdServer teamed up with Rubicon Project for integration into their client base [ExchangeWire, 01](https://www.exchangewire.com/blog/2012/07/23/addressing-the-stack-smart-adserver-teams-up-with-rubicon-project-to-maximise-yield).
+
+_Industry Affiliations:_ European Interactive Digital Advertising Alliance [Ghostery, 01](https://apps.ghostery.com/apps/smart_adserver)
+
+## Privacy policy
+_Cookies & Web Beacons:_ "Like most digital marketing solutions, Smart AdServer uses “cookies” and other technologies to enhance users’ experiences on the web, to deliver more relevant ads, and for ad delivery and reporting. We cannot use these technologies to personally identify you, and these technologies do not damage your system or files. Smart AdServer uses these technologies to help recognize a unique computer or device so we are able to deliver relevant advertising and measure the impact of that advertising."  
+
+_Cookie Opt-Out:_ The cookie opt-out policy allows users to "opt out form our advertising network" and "ensures you that your browser will not be identify anymore by our system", see "http://www.smartadserver.com/diffx/optout/IABOptout.aspx. A blank page will open, confirming the opt-out process has been completed and Smart AdServer will no longer place cookies on your computer."
+
+_Online Behavioral Advertising opt-out via YourOnlineChoices platform:_ "Smart AdServer is a member of the European Interactive Digital Advertising Alliance (EDAA) and a signatory to the Self-Regulatory Principles for Online Behavioral Advertising (http://www.edaa.eu/european-principles/)."
+
+The EDAA offers a Consumer Choice Page (http://youronlinechoices.eu) (opt-out). To learn more, please visit http://edaa.eu." [Smart, 02](http://smartadserver.com/company/privacy-policy)
+
+Smart promises no personal identity is revealed through their practices: "Online measurements are compiled and anonymous"; "We cannot use [ cookies and other technologies ] to personally identify you"
+
+## Details
+_Financial Details:_ Smart AdServer was created by Internet portal Aufeminin.com in 2001 [clubic, 01](http://www.clubic.com/actualite-145758-100-clients-francais-smart-adserver.html).  In 2007, Axel Springer acquired Aufeminin.com.  Smart AdServer became independent from Aufeminin.com when it was acquired by Sino-French private-equity fund Cathay Capital for 37 million € [Wikipedia, 01](https://en.wikipedia.org/wiki/Smart_Adserver); [JDN, 01](http://www.journaldunet.com/ebusiness/publicite/vente-smart-adserver-cathay-capital.shtml); [Smart, 14](http://smartadserver.com/smart-adserver-officially-becomes-independent-with-the-support-of-cathay-capital); [Cathay, 01](http://www.cathay.fr/en/news/cathay-buy-smart-adserver-e37m). Smart AdServer "generated turnover of $16 million in 2014" [Ad Exchanger, 01](https://adexchanger.com/platforms/smart-adserver-goes-independent-via-private-equity-firm).  
+
 ## Details
 _Financial details:_ Smart was founded in 2001 [Crunchbase, 01](https://www.crunchbase.com/organization/smart-adserver)
 
@@ -117,6 +119,7 @@ _Mobile:_
 
 ## References
 * _Crunchbase, 01._ [https://www.crunchbase.com/organization/smart-adserver](https://www.crunchbase.com/organization/smart-adserver)
+* _ExchangeWire, 01._ [https://www.exchangewire.com/blog/2012/07/23/addressing-the-stack-smart-adserver-teams-up-with-rubicon-project-to-maximise-yield](https://www.exchangewire.com/blog/2012/07/23/addressing-the-stack-smart-adserver-teams-up-with-rubicon-project-to-maximise-yield)
 * _Ghostery, 01._ [https://apps.ghostery.com/apps/smart_adserver](https://apps.ghostery.com/apps/smart_adserver)
 * _Smart, 01._ [http://smartadserver.com](http://smartadserver.com)
 * _Smart, 02._ [http://smartadserver.com/company/privacy-policy](http://smartadserver.com/company/privacy-policy)
