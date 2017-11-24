@@ -12,7 +12,7 @@ A mobile & attribution analytics platform that aims to help marketers make bette
 ## Ownership
 AppsFlyer
 
-## Detection Rules
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 * `appsflyer\.com`
 
 ## Documentation
