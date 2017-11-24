@@ -12,7 +12,7 @@ Demdex offers audience management solutions for parts of Adobe's advertising eco
 ## Ownership
 Adobe Systems Incorporated
 
-## Detection rules
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 * `demdex\.net`
 
 ## Documentation
