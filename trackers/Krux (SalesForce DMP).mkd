@@ -20,7 +20,7 @@ krxd\.net
 
 ## Products and Services
 
-Salesforce DMP has a vast array of technologies for use in its data management platform. These are detailed in the Techology section under Details, below.
+Salesforce DMP offers a vast array of technologies in its data management platform. These are detailed in the Techology section under Details, below.
 
 Services provided by Salesforce DMP include:  
 
