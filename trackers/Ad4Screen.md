@@ -171,15 +171,15 @@ _Passbook:_ "Thanks to Ad4Screen, discover Passbook and boost your in-store traf
   * Recommend to install your iPhone app  [Ad4Screen, 06](http://www.ad4screen.com/en/push-notifications)
 
 ## References
-* [Ad4Screen, 01.](http://www.ad4screen.com/en)  
-* [Ad4Screen, 02.](http://www.ad4screen.com/en/presentation)  
-* [Ad4Screen, 03.](http://www.ad4screen.com/publicite-mobile)  
-* [Ad4Screen, 04.](http://www.ad4screen.com/en/nos-references)  
-* [Ad4Screen, 05.](http://www.ad4screen.com/en/mobile-advertising)  
-* [Ad4Screen, 06.](http://www.ad4screen.com/en/push-notifications)  
-* [Ad4Screen, 07.](http://www.ad4screen.com/ibeacon)
-* [Crunchbase, 01.](https://www.crunchbase.com/organization/ad4screen)  
-* [Marketing Web Mobile, 01.](http://marketing-webmobile.fr/2014/09/ad4screen-separe-ses-activites-dediteur-de-logiciels-de-mobile-crm-et-dagence-de-publicite-mobile)
+* Ad4Screen, 01. [http://www.ad4screen.com/en](http://www.ad4screen.com/en)  
+* Ad4Screen, 02. [http://www.ad4screen.com/en/presentation](http://www.ad4screen.com/en/presentation)  
+* Ad4Screen, 03. [http://www.ad4screen.com/publicite-mobile](http://www.ad4screen.com/publicite-mobile)  
+* Ad4Screen, 04. [http://www.ad4screen.com/en/nos-references](http://www.ad4screen.com/en/nos-references)  
+* Ad4Screen, 05. [http://www.ad4screen.com/en/mobile-advertising](http://www.ad4screen.com/en/mobile-advertising)  
+* Ad4Screen, 06. [http://www.ad4screen.com/en/push-notifications](http://www.ad4screen.com/en/push-notifications)  
+* Ad4Screen, 07. [http://www.ad4screen.com/ibeacon](http://www.ad4screen.com/ibeacon)
+* Crunchbase, 01. [https://www.crunchbase.com/organization/ad4screen](https://www.crunchbase.com/organization/ad4screen)  
+* Marketing Web Mobile, 01. [http://marketing-webmobile.fr/2014/09/ad4screen-separe-ses-activites-dediteur-de-logiciels-de-mobile-crm-et-dagence-de-publicite-mobile](http://marketing-webmobile.fr/2014/09/ad4screen-separe-ses-activites-dediteur-de-logiciels-de-mobile-crm-et-dagence-de-publicite-mobile)
 
 ## External links
 * _Crunchbase (Ad4Screen)_: [https://www.crunchbase.com/organization/ad4screen](https://www.crunchbase.com/organization/ad4screen)  
