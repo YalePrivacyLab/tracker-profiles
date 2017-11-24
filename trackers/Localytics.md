@@ -6,7 +6,7 @@ United States (Boston) [Localytics, 01](https://www.localytics.com/company/about
 ## Website
 [https://www.localytics.com](https://www.localytics.com)
 
-##About
+## About
 Localytics offers an analytics and marketing platform for targeted and personalized engagement campaigns on mobile [Localytics, 01](https://www.localytics.com/company/about); [Crunchbase, 01](https://www.crunchbase.com/organization/localytics).
 
 ## Ownership
