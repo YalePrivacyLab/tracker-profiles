@@ -23,7 +23,7 @@ Mopub describes itself as "The leading monetization platform for mobile app publ
 
 * They connect publishers with advertisers in a way aimed to "drive the highest price for every ad impression" [MoPub, 01](https://www.mopub.com).
 * They "flexible mediation system allows publishers to target the right inventory with the right network partner, based on each publisher’s unique business goals" [MoPub, 01](https://www.mopub.com).
-* They offer "ad serving tools, interface, and analytics".
+* They offer "ad serving tools, interface, and analytics."
 
 For publishers:  [Mopub, 02](https://www.mopub.com/publishers/overview)
 * Offer a "dependable back-end systems powered by Twitter’s world-class data center strength."
