@@ -19,7 +19,7 @@ Fidzup
 Not Listed
 
 ## Products and Services
-Fidzup primary services are twofold:
+Fidzup has two primary services:
 
 1. Drive to store campaign 
 2. Retargeting campaign    
