@@ -12,8 +12,8 @@ Braze is a mobile marketing company that offers CRM solutions and mobile marketi
 ## Ownership
 Braze
 
-## Detection Rules
-appboy\.com
+## [Exodus Detection Rules](https://exodus-privacy.eu.org)
+* `appboy\.com`
 
 ## Documentation
 [https://www.braze.com/documentation/Android](https://www.braze.com/documentation/Android)
@@ -82,4 +82,4 @@ _Financial details:_ Braze was founded in 2011 and has raised over $95 million f
 [Crunchbase, 01](https://www.crunchbase.com/organization/braze)  
 
 ## External Links
-_Crunchbase (Braze)_ [https://www.crunchbase.com/organization/braze](https://www.crunchbase.com/organization/braze)
+* _Crunchbase (Braze):_ [https://www.crunchbase.com/organization/braze](https://www.crunchbase.com/organization/braze)
