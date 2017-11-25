@@ -27,8 +27,8 @@ Crashlytics offers a variety of services for app developers. Crashlytics:
 
 Google's "Answers" analytics product can be installed by app developers via the Crashlytics tracker SDK [Fabric, 02](https://docs.fabric.io/android/answers/overview.html) or manually [Fabric, 04](https://docs.fabric.io/android/answers/installation.html). Answers is "the analytics engine" of Fabric [Answers, 01](https://answers.io), Google's mobile platform. With Google Fabric, clients can:
 
-* Perform analytics on app users and utilizes social media advertising: "Get insight into your users, what they’re doing, and inject live social content to delight them" [Fabric, 01](https://get.fabric.io)
-* Perform cross-device user identity and authentication via "Fabric" [Wired, 01](https://www.wired.com/2014/10/twitter-fabric-sdk)
+* Perform analytics on app users and utilizes social media advertising: "Get insight into your users, what they’re doing, and inject live social content to delight them" [Fabric, 01](https://get.fabric.io).
+* Perform cross-device user identity and authentication via "Fabric" [Wired, 01](https://www.wired.com/2014/10/twitter-fabric-sdk).
 
 * _Understand_ users:
 * * _Engagement_ to "Get insight into your users, what they’re doing, and inject live social content to delight them."
