@@ -56,6 +56,7 @@ _Financial details:_ Crashlytics was founded in 2011 and had raised $6 million f
 * _TechCrunch, 01:_ [https://techcrunch.com/2013/01/28/twitter-acquires-crash-reporting-tool-crashalytics-development-of-the-product-will-continue-unabated](https://techcrunch.com/2013/01/28/twitter-acquires-crash-reporting-tool-crashalytics-development-of-the-product-will-continue-unabated)  
 * _Fabric, 02:_ [https://blog.twitter.com/developer/en_us/a/2015/fabric-leading-the-sdk-market-in-performance-and-mobile-analytics.html](https://blog.twitter.com/developer/en_us/a/2015/fabric-leading-the-sdk-market-in-performance-and-mobile-analytics.html)  
 * _The Register, 01:_ [https://www.theregister.co.uk/2017/01/19/google_buys_twitters_mobile_app_development_team_fabric](https://www.theregister.co.uk/2017/01/19/google_buys_twitters_mobile_app_development_team_fabric)
+* _ADB 80 podcast (Crashlytics):_ [https://androidbackstage.blogspot.com/2017/10/episode-80-crash-talk.html](https://androidbackstage.blogspot.com/2017/10/episode-80-crash-talk.html)
 
 # Questions or concerns about this document?
 Please contact Privacy Lab: https://privacylab.yale.edu/directory
