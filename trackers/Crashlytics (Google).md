@@ -23,7 +23,7 @@ Crashlytics offers a variety of services for app developers. Crashlytics:
 
 * Receives and analyzes app crash reports which may contain user and device-specific data.
 
-* Performs analytics on app logs "even the exact line of code your app crashed on" [Crashlytics, 03](https://fabric.io/kits/ios/crashlytics)
+* Performs analytics on app logs "even the exact line of code your app crashed on" [Crashlytics, 03](https://fabric.io/kits/ios/crashlytics).
 
 Google's "Answers" analytics product can be installed by app developers via the Crashlytics tracker SDK [Fabric, 02](https://docs.fabric.io/android/answers/overview.html) or manually [Fabric, 04](https://docs.fabric.io/android/answers/installation.html). Answers is "the analytics engine" of Fabric [Answers, 01](https://answers.io), Google's mobile platform. With Google Fabric, clients can:
 
