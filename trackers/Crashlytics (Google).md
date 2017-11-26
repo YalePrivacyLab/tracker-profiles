@@ -31,11 +31,11 @@ Google's "Answers" analytics product can be installed by app developers via the 
 * Perform cross-device user identity and authentication via "Fabric" [Wired, 01](https://www.wired.com/2014/10/twitter-fabric-sdk).
 
 * _Understand_ users:
-* * _Engagement_ to "Get insight into your users, what they’re doing, and inject live social content to delight them."
-* * _Retention_ to "Uncover behaviors that correlate with healthy and unhealthy users."
+  * _Engagement_ to "Get insight into your users, what they’re doing, and inject live social content to delight them."
+  * _Retention_ to "Uncover behaviors that correlate with healthy and unhealthy users."
 * _Grow:_
-* * _Monitor_ "new user sign-ups" to "optimize your onboarding flow."
-* * _Revenue_ services to "Easily monetize your app with ads" [Fabric, 05](https://get.fabric.io).
+  * _Monitor_ "new user sign-ups" to "optimize your onboarding flow."
+  * _Revenue_ services to "Easily monetize your app with ads" [Fabric, 05](https://get.fabric.io).
 
 "While Crashlytics gives you powerful crash reporting," Google states, "with one additional click you can enable real-time analytics that help you understand what’s happening in your app" [Fabric, 03](https://docs.fabric.io/android/crashlytics/overview.html). Answers:
 
@@ -56,7 +56,8 @@ _Integrations:_ Redmine / Pivotal Tracker / Jira / PagerDuty / Asana / OpsGenie 
 ## Details
 _Financial details:_ Crashlytics was founded in 2011 and had raised $6 million from funders. Twitter acquired Crashlytics in in 2013 for a reported $38 million [Crunchbase, 01](https://www.crunchbase.com/organization/crashlytics); [Boston Business Journal, 01](https://www.bizjournals.com/boston/blog/techflash/2013/10/twitter-crashlytics-bluefin-labs.html). In 2017, Google acquired Twitter's developer suite Fabric, which included Crashlytics, for integration into Google Firebase. The details of the deal were not publicly disclosed [Recode, 01](https://www.recode.net/2017/1/18/14313164/google-twitter-acquisition-fabric-crashlytics). Crashlytics is a business division of Google, Inc. [Crashlytics, 04](https://try.crashlytics.com/terms/privacy-policy.pdf).
 
-_Features in Crashlytics:_
+### Features in Crashlytics###
+
 Features include:
 
 * Deep analysis
