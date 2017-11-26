@@ -56,7 +56,7 @@ _Integrations:_ Redmine / Pivotal Tracker / Jira / PagerDuty / Asana / OpsGenie 
 ## Details
 _Financial details:_ Crashlytics was founded in 2011 and had raised $6 million from funders. Twitter acquired Crashlytics in in 2013 for a reported $38 million [Crunchbase, 01](https://www.crunchbase.com/organization/crashlytics); [Boston Business Journal, 01](https://www.bizjournals.com/boston/blog/techflash/2013/10/twitter-crashlytics-bluefin-labs.html). In 2017, Google acquired Twitter's developer suite Fabric, which included Crashlytics, for integration into Google Firebase. The details of the deal were not publicly disclosed [Recode, 01](https://www.recode.net/2017/1/18/14313164/google-twitter-acquisition-fabric-crashlytics). Crashlytics is a business division of Google, Inc. [Crashlytics, 04](https://try.crashlytics.com/terms/privacy-policy.pdf).
 
-### Features in Crashlytics###
+### Features in Crashlytics
 
 Features include:
 
