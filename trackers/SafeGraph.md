@@ -81,7 +81,7 @@ _Slogans:_
 ## References
 _Crunchbase, 01._ [https://www.crunchbase.com/organization/safegraph](https://www.crunchbase.com/organization/safegraph)  
 
-_SafeGraph, 01._ [https://blog.safegraph.com/less-than-10-of-bid-stream-location-data-is-high-quality-and-we-know-how-to-find-it-3a2c0df35475](https://blog.safegraph.com/less-than-10-of-bid-stream-location-data-is-high-quality-and-we-know-how-to-find-it-3a2c0df35475)
+_SafeGraph, 01._ [https://blog.safegraph.com/less-than-10-of-bid-stream-location-data-is-high-quality-and-we-know-how-to-find-it-3a2c0df35475](https://blog.safegraph.com/less-than-10-of-bid-stream-location-data-is-high-quality-and-we-know-how-to-find-it-3a2c0df35475)  
 _SafeGraph, 02._ [https://blog.safegraph.com/safegraph-raises-16-million-series-a-e8e88eeb7beb](https://blog.safegraph.com/safegraph-raises-16-million-series-a-e8e88eeb7beb)  
 _SafeGraph, 03._ [https://developers.safegraph.com/docs/places.html](https://developers.safegraph.com/docs/places.html)  
 _SafeGraph, 04._ [https://github.com/OpenLocate](https://github.com/OpenLocate)  
