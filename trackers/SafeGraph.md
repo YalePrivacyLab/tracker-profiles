@@ -86,7 +86,8 @@ _SafeGraph, 02._ [https://blog.safegraph.com/safegraph-raises-16-million-series-
 _SafeGraph, 03._ [https://developers.safegraph.com/docs/places.html](https://developers.safegraph.com/docs/places.html)  
 _SafeGraph, 04._ [https://github.com/OpenLocate](https://github.com/OpenLocate)  
 _SafeGraph, 05._ [https://blog.safegraph.com/introducing-openlocate-the-open-source-location-sdk-f5c5d2739a48](https://blog.safegraph.com/introducing-openlocate-the-open-source-location-sdk-f5c5d2739a48)  
-_SafeGraph, 06._ [https://www.safegraph.com/truth](https://www.safegraph.com/truth)
+_SafeGraph, 06._ [https://www.safegraph.com/truth](https://www.safegraph.com/truth)  
+_SafeGraph, 07._ [https://www.safegraph.com/privacy-policy](https://www.safegraph.com/privacy-policy)
 
 ## External Links
 _Crunchbase (SafeGraph):_ [https://www.crunchbase.com/organization/safegraph](https://www.crunchbase.com/organization/safegraph)  
