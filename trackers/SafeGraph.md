@@ -89,7 +89,7 @@ _SafeGraph, 05._ [https://blog.safegraph.com/introducing-openlocate-the-open-sou
 _SafeGraph, 06._ [https://www.safegraph.com/truth](https://www.safegraph.com/truth)
 
 ## External Links
-_Crunchbase (SafeGraph):_ []()  
+_Crunchbase (SafeGraph):_ [https://www.crunchbase.com/organization/safegraph](https://www.crunchbase.com/organization/safegraph)  
 _Gigya:_ [https://www.gigya.com/blog/exploring-future-identity](https://www.gigya.com/blog/exploring-future-identity)  
 _Even:_ [https://evenfinancial.com/press/mit-brings-together-fintech-financial-services-first-ever-hackathon](https://evenfinancial.com/press/mit-brings-together-fintech-financial-services-first-ever-hackathon)  
 _SafeGraph:_ [https://blog.safegraph.com/less-than-10-of-bid-stream-location-data-is-high-quality-and-we-know-how-to-find-it-3a2c0df35475](https://blog.safegraph.com/less-than-10-of-bid-stream-location-data-is-high-quality-and-we-know-how-to-find-it-3a2c0df35475)  
