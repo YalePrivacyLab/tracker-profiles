@@ -19,7 +19,7 @@ Match Group (a division of IAC/InterActiveCorp) [BusinessInsider, 01](http://www
 Not public
 
 ## Products and Services
-It is note entirely clear what the Tinder Analytics SDK does. Some news outlets have published details about Tinder analytical practices, often in conjunction with third parties. Minor press about Tinder and "swiping right" offers clues:
+It is not entirely clear what the Tinder Analytics SDK does. Some news outlets have published details about Tinder analytical practices, often in conjunction with third parties. Minor press about Tinder and "swiping right" offers clues:
 
 "Earlier this year, to combat this collection of overzealous swipers, the company set a limit on the number of right swipes users could make daily. Then it rounded up profiles of the most prolific right-swipers and watched what happened. Would they get upset and leave? Would they stop using for a while and lick their wounds? Or would they realize the error in their ways and be a little more discriminating in suggesting possible hookups?" [Fortune, 01](http://fortune.com/2015/09/29/tinder-interana-analytics/)
 
