@@ -25,7 +25,7 @@ Kochava's founder and CEO is Charles Manning.  [Source: website](https://www.koc
 
 * Kochava takes data privacy "very seriously" and goes so far as to list the security standards it employs ("ISO/IEC 27001"), encryption types ("SSL/TLS"), and storage types used ("SSAE16 Type II SOC 2"). 
 
-* Kochava has a detailed data processing policy demonstrating its commitment to the European GDPR. Many provisions apply to end-user personal data. [Link here](https://www.kochava.com/data-processing-policy/)
+* Kochava has a detailed data processing policy demonstrating its commitment to the European GDPR. Many provisions apply to end-user personal data. [Link](https://www.kochava.com/data-processing-policy/)
 * It is unclear whether Kochava applies the GDPR standard to end-users outside the EU, and to what extent the same definitions of personal data apply.
 
 * The collection of personal data is limited to that which is "adequate, relevant, and necessary for the purpose of which they are processed." Kochava states that is contractual provisions prohibit clients from "utilizing the Platform to collect, process, or otherwise handle sensitive personal data" and said data is deleted after a client's contract has been terminated.
