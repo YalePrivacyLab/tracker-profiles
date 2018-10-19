@@ -2,9 +2,13 @@
 
 This repository contains research profiles on Android app trackers hidden in popular Google Play apps.  It also contains guides to help readers understand the advertising tracker business, including a list of acroynyms, a glossary of terms, and a list of Android app permissions.  Our release coincides with the excellent work of [Exodus Privacy](https://exodus-privacy.eu.org) on their Exodus privacy auditing platform.  Exodus is the first attempt at systematically auditing Google Play apps for the presence of tracker code, and the detailed descriptions here can now be integrated with the Exodus privacy auditing software.
 
-Our documents will continue to be improved, and this is just the beginning of in-depth research into the wide world of tracker software inside mobile markets like Google Play and the Apple iOS app store.
+* The tracker profiles generated here move upstream to Exodus, then on to F-Droid for scanning of its own requests for packaging (i.e. apps that have been submitted to the F-Droid maintainers).
 
-Please see https://privacylab.yale.edu/trackers for the announcement of our work and a more detailed explanation.
+* Tracker profiles submitted to Exodus will also be used in the Yalp Store and by plugins like Exodify to make sure that users are aware of the trackers in apps they may (or may not) choose to install from Google Play.
+
+* In these ways, the work done here has a tangible impact on the privacy and surveillance awareness of Android users.
+
+Our documents will continue to be improved, and this is just the beginning of in-depth research into the wide world of tracker software inside mobile markets like Google Play and the Apple iOS app store.
 
 ## Who We Are
 
