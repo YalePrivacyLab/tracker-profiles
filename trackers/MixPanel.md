@@ -17,7 +17,7 @@ MixPanel was founded in 2009 by Suhail Doshi and Tim Trefren.  [Source: website]
 
 * Behavioral Analytics
 * Data Collection
-* Media Trend analysis[See: Forbes article on 2018 report](https://www.forbes.com/sites/curtissilver/2018/05/08/mixpanel-2018-media-benchmarks-report-reveals-the-truth-of-our-media/#19fc268d2349)
+* Media Trend analysis [See: Forbes article on 2018 report](https://www.forbes.com/sites/curtissilver/2018/05/08/mixpanel-2018-media-benchmarks-report-reveals-the-truth-of-our-media/#19fc268d2349)
 * Anonymous Profiling "Firmographics"
 
 ## Privacy Policy
