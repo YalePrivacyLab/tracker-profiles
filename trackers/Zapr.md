@@ -26,4 +26,4 @@ Analytics, Location, Advertising
 https://github.com/zapr-oss , https://docs.google.com/document/d/1vKGRFt2YoSmSsVvSvtZL4l72HuYrvayvaZ_ZEAGq1Ms/edit (SDK dev doc) , https://bitbucket.org/zapr/ , https://bintray.com/zapr
 
 ## Notes
-aka Red Brick Lane Marketing Solutions, Audio Content Recognition background record audio for ambient finger printing
+aka Red Brick Lane Marketing Solutions, aka com.hotstar.datasdk , Audio Content Recognition background record audio for ambient finger printing
