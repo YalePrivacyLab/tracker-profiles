@@ -1,29 +1,49 @@
 # Tracker Name
 xxx
 
-## Website
+# In εxodus?
+Yes|No
+
+# Website
 xxx
 
-## About
+# Short Description
 xxx
 
-## Category
-xxx
-
-## [Exodus Detection Rules](https://exodus-privacy.eu.org)
+# [Exodus Detection Rules](https://exodus-privacy.eu.org)
 *   Network signature: `xxx.com`
 *   Code signature: `com.xxx`
 
-## Repositories
+# Category
+xxx
+
+# About
+xxx
+
+## Capabilities
+xxx
+
+## Advertising
+xxx
+
+## Analytics
+xxx
+
+## Network
+xxx
+
+# Notes
+xxx
+
+## Technical
 *   Maven: `xxx`
 *   Artifact ID: `xxx`
 *   Group ID: `xxx`
-
-## Gradle
-`xxx`
-
-## Additional links
+*   Gradle: `xxx`
 xxx
 
-## Notes
+# Citations
+xxx
+
+# Additional Links
 xxx
