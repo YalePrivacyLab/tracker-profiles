@@ -1,5 +1,8 @@
 # CopSonic
 
+# In εxodus?
+No
+
 ## About
 
 CopSonic is a private family-owned French digital audio and technology company.  It has less than 50 employees and is based in Tarn-et-Garonne, France. [Source: OpenCorporates](https://opencorporates.com/companies/fr/350129557)

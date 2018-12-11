@@ -1,6 +1,9 @@
 # Tracker Name
 Trillbit
 
+# In εxodus?
+No
+
 ## Website
 https://trillbit.com/
 
