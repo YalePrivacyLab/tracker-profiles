@@ -27,7 +27,7 @@ Advertising, Location, Identity, Tracking, Beacons
 `xxx`
 
 ## Additional links
-https://api-production-v4.actv8technologies.com/
+https://api-production-v4.actv8technologies.com/ , http://sonar.actv8technologies.com/fdb/
 
 ## Notes
 relies on Cifrasoft
