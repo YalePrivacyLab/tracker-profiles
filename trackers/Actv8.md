@@ -19,9 +19,9 @@ Advertising, Location, Identity, Tracking, Beacons
 *   Code signature: `me.actv8`
 
 ## Repositories
-*   Maven: `xxx`
-*   Artifact ID: `xxx`
-*   Group ID: `xx`
+*   Maven: `https://mvnrepository.com/artifact/me.actv8.core/actv8-sdk`
+*   Artifact ID: `actv8-sdk`
+*   Group ID: `me.actv8.core`
 
 ## Gradle
 `xxx`
@@ -30,4 +30,4 @@ Advertising, Location, Identity, Tracking, Beacons
 https://api-production-v4.actv8technologies.com/ , http://sonar.actv8technologies.com/fdb/
 
 ## Notes
-relies on Cifrasoft
+relies on Cifrasoft, maven repo may be outdated
