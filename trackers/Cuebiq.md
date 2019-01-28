@@ -26,7 +26,7 @@ Its trusted partners include: Clear Channel, Oracle, Google, Facebook, Ubimo, an
 
 [Policy as of 18/5/2018, reviewed 18/11/2018:](https://www.cuebiq.com/privacypolicy/)
 
-* Cuebiq is using a blockchain platform it developed to encrypt and the anonymize personally identifiable information it collects. This is advantageous because (1) it more seamlessly complies with GDPR and (2) enables its partners to efficiently access its ledgers.
+* Cuebiq uses a blockchain platform it developed to encrypt and anonymize the personally identifiable information it collects. This is advantageous because (1) it more seamlessly complies with GDPR and (2) enables its partners to efficiently access its ledgers.
 
 * Cuebiq's policy openly states it ignores DNR (Do Not Track) requests in web browsers. 
 
