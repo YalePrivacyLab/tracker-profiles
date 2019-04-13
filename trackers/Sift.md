@@ -28,6 +28,7 @@ Identity, Tracking, Beacon, Credit Score
 
 ## Additional links
 * https://www.wsj.com/articles/the-secret-trust-scores-companies-use-to-judge-us-all-11554523206
+* https://archive.is/iUVrw
 * https://github.com/SiftScience/sift-ios
 * https://github.com/SiftScience/inline-javascript
 * https://github.com/SiftScience/sift-ios
