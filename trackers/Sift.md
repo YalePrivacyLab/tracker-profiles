@@ -35,4 +35,4 @@ Identity, Tracking, Beacon, Credit Score
 
 
 ## Notes
-Article in the Wall Street Journal brought this tracker to prominence in April 2019.
+Formerly "Sift Science". Article in the Wall Street Journal brought this tracker to prominence in April 2019.
