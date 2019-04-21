@@ -22,7 +22,6 @@ InMobi was founded in Mumbai, India, as mKhoj, in 2007 by Naveen Tewari, Abhay S
 * E-Commerce
 * In-app Mobile Advertising
 * Market Research Platform
-* 
 
 ## Privacy Policy
 
