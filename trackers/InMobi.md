@@ -2,7 +2,7 @@
 
 ## About
 
-[InMobi](https://www.inmobi.com/) is private, Indian-based advertising behemoth.  It has relationships with over 30,000 companies and app developers. It has approximately 1,500 employees in offices in 12 different countries. [See also: OpenCorporates](https://opencorporates.com/companies/us_ca/C3422070)
+[InMobi](https://www.inmobi.com/) is a private, Indian-based advertising behemoth.  It has relationships with over 30,000 companies and app developers. It has approximately 1,500 employees in offices in 12 different countries. [See also: OpenCorporates](https://opencorporates.com/companies/us_ca/C3422070)
 
 InMobi's founder, in a recent [Forbes article,](http://www.forbesindia.com/article/leaderboard/inmobi-wants-to-glue-your-attention-to-your-lock-screen/53095/1) stated that "Consumers will move from seeking content to consuming what is shown to them."  
 
