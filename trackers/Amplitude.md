@@ -37,7 +37,7 @@ Amplitude is a private company founded in 2012 by Spencer Skates, Curtis Liu, an
 
 ## Related Links
 
-For a breakdown of Amplitude's Analytics Platform, please [see this link.](https://practicoanalytics.com/definitive-guide-amplitude-analytics/)  
+For a breakdown of Amplitude's analytics platform, please [see this link.](https://practicoanalytics.com/definitive-guide-amplitude-analytics/)  
 
 # Questions or concerns about this document?
 Please contact Privacy Lab: https://privacylab.yale.edu/directory
