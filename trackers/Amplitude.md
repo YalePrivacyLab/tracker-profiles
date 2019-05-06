@@ -2,9 +2,7 @@
 
 ## About
 
-Amplitude, Inc. is a product analytics and data analysis company. It serves over 26,000 companies globally.  It is headquartered in San Francisco, CA, and has approximately 200-501 employees.  
-
-[See also: OpenCorporates](https://opencorporates.com/companies/us_de/5072121) 
+Amplitude, Inc. is a product analytics and data analysis company. It serves over 26,000 companies globally.  It is headquartered in San Francisco, CA, and has approximately 200-501 employees.  [See also: OpenCorporates](https://opencorporates.com/companies/us_de/5072121) 
  
 Amplitude's clients include Microsoft, PayPal, Capital One, Adidas, Patreon, Instacart, Calm, Change.org, HubSpot, DropBox, Autodesk, DoorDash, Yik Yak, Nokia, and many others.  
 
