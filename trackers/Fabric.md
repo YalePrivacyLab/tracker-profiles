@@ -8,7 +8,7 @@ No
 https://get.fabric.io/
 
 ## About
-
+Get insight into your users and what actions they're taking inside your app. Uncover behaviors that correlate with healthy and unhealthy users. Easily monetize your app with ads.
 
 
 ## Category

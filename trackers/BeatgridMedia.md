@@ -8,7 +8,7 @@ No
 http://www.beatgridmedia.com/
 
 ## About
-
+Broadcast monitoring and person-based cross-media audience data at scale, through a new Automatic Content Recognition technology. Our apps measure actual TV, video, radio, OOH reach and campaign effectiveness to increase ROI.
 
 
 ## Category
