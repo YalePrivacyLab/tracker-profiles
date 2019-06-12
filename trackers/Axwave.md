@@ -15,7 +15,7 @@ Axwave's portable ACR technology  monitors content occurrences across Live TV, D
 Location, Tracking, Audio, Advertising
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-*   Network signature: `xxx.com`
+*   Network signature: `axwave.com`
 *   Code signature: `com.axwave`
 
 ## Repositories
