@@ -2,7 +2,7 @@
 
 ## About
 
-Eulerian Technologies is a privately-held e-marketing and web analytics company based in France. [Source: OpenCorporates](https://opencorporates.com/companies/gb/04437532)It has offices in Paris, Madrid, Lille, and staff in Canada. [Source: Linkedin](https://www.linkedin.com/company/eulerian-technologies/])
+Eulerian Technologies is a privately-held e-marketing and web analytics company based in France. [Source: OpenCorporates](https://opencorporates.com/companies/gb/04437532)  It has offices in Paris, Madrid, Lille, and staff in Canada. [Source: Linkedin](https://www.linkedin.com/company/eulerian-technologies/])
 
 ## Ownership
 
