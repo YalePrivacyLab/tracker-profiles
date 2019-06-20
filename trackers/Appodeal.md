@@ -1,6 +1,9 @@
 # Tracker Name
 Appodeal
 
+# In εxodus?
+Yes
+
 ## Website
 https://www.appodeal.com/
 

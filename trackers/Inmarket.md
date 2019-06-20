@@ -2,7 +2,7 @@
 Inmarket
 
 # In εxodus?
-No
+Yes
 
 ## Website
 https://inmarket.com/
@@ -26,7 +26,7 @@ Location, Beacon, Advertising
 `xxx`
 
 ## Additional links
-http://data.altbeacon.org/android-distance.json 
+http://data.altbeacon.org/android-distance.json
 
 ## Notes
-integration with Moat 
+integration with Moat

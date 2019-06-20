@@ -1,4 +1,8 @@
-# InMobi
+# Tracker Name
+InMobi
+
+# In εxodus?
+Yes
 
 ## About
 
@@ -31,7 +35,7 @@ InMobi was founded in Mumbai, India, as mKhoj, in 2007 by Naveen Tewari, Abhay S
 
 * InMobi's privacy policy states that it collects information about the "device type (e.g. smartphone, tablet, etc.),operating system (e.g. iOS, Android, Windows, Blackberry), network provider, mobile browser used (e.g. Safari, Internet Explorer etc.),platform, SDK version, timestamp, API key (identifier for application), application version, iOS Identifier for Advertising, iOS Identifier for Vendors, model, manufacture of device, OS version of device, session start/stop time, locale (specific location where a given language is spoken), time zone, network status such as WiFi, the geo-location of your device (using GPS or other geo-location data) and the Identifier for Advertising (IDFA) or the Google Advertising ID (AAID) etc"  which it may infer from WiFi identifiers in the area.   
 
-* It also collects information regarding "(i) the content type of the ad (what the ad is about, e.g. games, finance, entertainment, news); (ii) the ad type (e.g. whether the ad is a text, image, or video based ad); (iii) where the ad is being served (e.g. the address of the site on which the ad appears); and (iv) certain information about post-click activity in relation to the ad including user interaction with such ad."  It may also collect email addresses in a hashed format. 
+* It also collects information regarding "(i) the content type of the ad (what the ad is about, e.g. games, finance, entertainment, news); (ii) the ad type (e.g. whether the ad is a text, image, or video based ad); (iii) where the ad is being served (e.g. the address of the site on which the ad appears); and (iv) certain information about post-click activity in relation to the ad including user interaction with such ad."  It may also collect email addresses in a hashed format.
 
 * This information is shared with "Publishers, Developers, Advertisers, Data Partners, Measurement Companies, InMobi Affiliates, and third parties such as advisors and law enforcement authorities."  
 

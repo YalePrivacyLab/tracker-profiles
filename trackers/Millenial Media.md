@@ -1,8 +1,12 @@
-# Millenial Media
+# Tracker Name
+Millennial Media
+
+# In εxodus?
+Yes
 
 ## About
 
-Millenial Media was founded in 2006 and publicly acquired by AOL in 2015.  Oath Inc., a Verizon subsidiary, acquired AOL in 2017.  
+Millennial Media was founded in 2006 and publicly acquired by AOL in 2015.  Oath Inc., a Verizon subsidiary, acquired AOL in 2017.  
 
 ## Ownership
 

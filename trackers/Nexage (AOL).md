@@ -1,4 +1,8 @@
-# Nexage (Millenial Media, part of ONE by AOL)
+# Tracker Name
+Nexage (Millenial Media, part of ONE by AOL)
+
+# In εxodus?
+Yes
 
 ## Primary Location
 United States (Boston) [Crunchbase, 01](https://www.crunchbase.com/organization/nexage)
@@ -13,7 +17,8 @@ Nexage "offers a mobile advertising platform that provides private and public ex
 Millenial Media, which became part of ONE by AOL; the AOL company name has changed to Oath, which is a subsidiary of Verizon Communications [AOL, 01](http://privacy.aol.com)
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `nexage\.com`
+*   Network signature: `nexage\.com`
+*   Code signature: `com.nexage.android.|org.nexage.`
 
 ## Documentation
 [http://docs.onemobilesdk.aol.com/android-ad-sdk/integration-guide.html](http://docs.onemobilesdk.aol.com/android-ad-sdk/integration-guide.html)
@@ -34,7 +39,7 @@ They further state, "With your consent, we may use available services on your de
 
 _Location tracking and third parties:_ Oath states, "We may use third-party providers to help operate our Services, including to deliver ads and understand how people use our Services on various devices.  These providers may collect information about other apps on your various devices, the websites you visit, location information, inaudible audio waves, and other information in order to help analyze usage and target advertising on the site or app and elsewhere across your devices. These providers may use cookies, web beacons, and other technologies (including audio beacons) to collect this information" [AOL, 07](http://legal.aol.com/mobileTOS).
 
-_Other information collected:_ 
+_Other information collected:_
 
 * Log information (interactions with web sites, search queries, information about your operating system, IP address, etc)
 * Device information (the type of device, such as iPhone; device identifiers which may be unique to your device; your Internet Service Provider)
@@ -83,7 +88,7 @@ Other companies:
 * Acxiom
 * Session M
 * Taboola
-* Tapad 
+* Tapad
 
 Oath states that, "like Oath, these companies and other third parties not listed above may use cookies, web beacons, and similar technologies on or in connection with our Services" [AOL, 06](http://privacy.aol.com/advertising-and-privacy).
 

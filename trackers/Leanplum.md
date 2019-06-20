@@ -1,4 +1,8 @@
-# Leanplum
+# Tracker Name
+Leanplum
+
+# In εxodus?
+Yes
 
 ## Primary Location
 United States (San Francisco)
@@ -13,7 +17,8 @@ Leanplum offers a mobile marketing platform with solutions for mobile messaging,
 Leanplum
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `leanplum\.com`
+*   Network signature: `leanplum\.com`
+*   Code signature: `com.leanplum.`
 
 ## Documentation
 [https://www.leanplum.com/docs/android](https://www.leanplum.com/docs/android)

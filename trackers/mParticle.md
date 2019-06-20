@@ -1,4 +1,8 @@
-# mParticle
+# Tracker Name
+mParticle
+
+# In εxodus?
+Yes
 
 ## Primary location
 United States (New York) [Crunchbase, 01](https://www.crunchbase.com/organization/mparticle)
@@ -13,7 +17,8 @@ mParticle offers "a customer data platform built for mobile and native apps acro
 mParticle
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `mparticle\.com`
+*   Network signature: `mparticle\.com`
+*   Code signature: `com.mparticle`
 
 ## Documentation
 [https://docs.mparticle.com/developers/sdk/android/getting-started](https://docs.mparticle.com/developers/sdk/android/getting-started)
@@ -36,7 +41,7 @@ Products and services include:
 * * * _AudienceSync:_ "Transform raw data into actionable audience segments and sync them across paid media, CRM, and other platforms"
 * * * _Enrichment:_ "Manage integrations with third-party profile enrichment providers and supplement existing data with additional customer insights"
 * * * _Warehouses:_ "Instantly load data into Amazon Redshift, BigQuery and other data warehouses, BI tools, and machine learning extensions" [mParticle, 05](https://www.mparticle.com/product)
-* _Enhance analytics:_ "Unify data around a single customer profile to fuel better insights and attribution reporting" 
+* _Enhance analytics:_ "Unify data around a single customer profile to fuel better insights and attribution reporting"
 * _Segmentation:_ Build and sync audience segments across platforms [mParticle, 06](https://www.mparticle.com/marketer)
 * _Data integration:_ "Unite disparate data sources to better understand the customer and key business metrics" [mParticle, 07](https://www.mparticle.com/productmanager)
 * _Cross-device identification:_ "Improve media measurement, customer journey analytics, lifetime value modeling, and more by resolving customer identity data across disparate sources" [mParticle, 08](https://www.mparticle.com/analytics)

@@ -2,7 +2,7 @@
 Instreamatic
 
 # In εxodus?
-No
+Yes
 
 ## Website
 http://instreamatic.com/

@@ -1,4 +1,8 @@
-# Flurry
+# Tracker Name
+Flurry
+
+# In εxodus?
+Yes
 
 ## Primary Location
 United States
@@ -13,7 +17,8 @@ Flurry is part of the Yahoo Developer network suite. Flurry's product, Flurry An
 Oath Inc. (subsidiary of Verizon Communications; Oath includes Yahoo and AOL) [Wikipedia, 01](https://en.wikipedia.org/wiki/Oath_Inc.); [Ars Technica, 01](https://arstechnica.com/information-technology/2017/06/oath-verizon-completes-4-5-billion-buy-of-yahoo-and-merges-it-with-aol)
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `flurry\.com`
+*   Network signature: `flurry\.com`
+*   Code signature: `com.flurry.`
 
 ## Products and Services
 Flurry Analytics:
@@ -48,7 +53,7 @@ Yahoo offers opt-out options for third parties, including the recommendation to 
 _Yahoo partners:_ Adxpose (comScore product) / Audience Science / comScore/ScorecardResearch / DoubleVerify / Integral Ads / KN Dimestore / Nielsen / Facebook / Google+ / LinkedIn / Pinterest / Twitter / 30 Boxes / Amazon / Basil (Backstage Technologies) / Bunchball Games / ChitChat (Monusoft) / CoverGirl Beauty Consultant Live Chat / Dropbox / eBay / enDICEr / Love Match/Fun Center (B4U.com) / NDCSA / NewsGator / OtherInBox / Pandaf Games / StumbleUpon / WackyB Twitter Sync / WebEx Co-Browse / YouSendIt / ABC / Astrology.com/iVillage / Cars.com / Healthline / Match.com / Monster Inc. / Nokia Maps / Orbitz / PriceGrabber / Shopzilla / Spotify / Team Fan Shop (Pro Football Weekly) / Tenor / TripAdvisor / TrueCar / Turner / Vast (Autos) / Zillow / ABC News / Blastro.com / Blip.tv / CNBC / CNN / CollegeHumor.com / Dailymotion / Ebaumsworld.com / Ehow.com / Fox News / Gametrailers.com / Good Morning America / Guardian News / Hulu / Metacafe / Metatube.com / Myspace.com / NBC / NFL / PBS / Ustream / Vevo / Videobash.com / Vimeo / Washington Post / Worldstarhiphop.com / YouTube / Chitika / Google / Media.net / Microsoft / NetSeer / Yandex / Abaca Technology Corporation / AOL / Authentication Metrics / Aviary / Bankrate / Bloomreach (Commerce SEO) / Branch.io / Detroit Trading Company / Dropbox / Google / HelloWorld, Inc. / HortonWorks / Lashback / Luminate / Manilla / Outbrain / Paypal / Project Slice / SigFig / Symantec / Trend Micro / Truedomain / Urban Airship / Vantage (Yahoo Real Estate) [Yahoo, 04](https://policies.yahoo.com/ie/en/yahoo/privacy/topics/thirdparties/index.htm)
 
 ## Details
-_Financial Details:_ Flurry was founded in 2005. By December 2013, it had raised $62.5 million [TechCrunch, 01](https://techcrunch.com/2013/12/06/flurry-funding).  On July 21, 2014 Yahoo bought Flurry for a reported $200-300 million [TechCrunch, 02](https://techcrunch.com/2014/07/21/yahoo-is-buying-mobile-analytics-firm-flurry-for-north-of-200m). Flurry partnered with Research Now, a digital data collecting firm, in 2014, for the purpose of "to track mobile app users, offline" [AdAge, 01](http://adage.com/article/digital/flurry-research-build-mobile-app-advertising-database/292287). 
+_Financial Details:_ Flurry was founded in 2005. By December 2013, it had raised $62.5 million [TechCrunch, 01](https://techcrunch.com/2013/12/06/flurry-funding).  On July 21, 2014 Yahoo bought Flurry for a reported $200-300 million [TechCrunch, 02](https://techcrunch.com/2014/07/21/yahoo-is-buying-mobile-analytics-firm-flurry-for-north-of-200m). Flurry partnered with Research Now, a digital data collecting firm, in 2014, for the purpose of "to track mobile app users, offline" [AdAge, 01](http://adage.com/article/digital/flurry-research-build-mobile-app-advertising-database/292287).
 
 _Scope:_ By December 6, 2013, Flurry told TechCrunch "400,000 apps are using its analytics product, with 20,000 additions each month, and that it's tracking activity from 1.2 billion smartphones and tablets. It also said that it's working with 125,000 developers" [TechCrunch, 01](https://techcrunch.com/2013/12/06/flurry-funding).  
 

@@ -1,4 +1,8 @@
-# HockeyApp (Bit Stadium GmbH, acquired by Microsoft)
+# Tracker Name
+HockeyApp (Bit Stadium GmbH, acquired by Microsoft)
+
+# In εxodus?
+Yes
 
 ## Primary Location
 Microsoft: United States (Seattle) / Bit Stadium: Germany (Stuttgart) [Crunchbase, 01](https://www.crunchbase.com/organization/bit-stadium-gmbh)
@@ -14,7 +18,8 @@ HockeyApp is utilized for crash reporting, app distribution, user feedback, and 
 Bit Stadium is a subsidiary of Microsoft [Bloomberg, 01](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=279701634)
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `hockeyapp\.net`
+*   Network signature: `hockeyapp\.net`
+*   Code signature: `net.hockeyapp.`
 
 ## Documentation
 [https://support.hockeyapp.net/kb/client-integration-android/hockeyapp-for-android-sdk](https://support.hockeyapp.net/kb/client-integration-android/hockeyapp-for-android-sdk)
@@ -59,4 +64,3 @@ HockeyApp was launched in 2012. It was acquired by Microsoft in 2014 [Crunchbase
 
 # Questions or concerns about this document?
 Please contact Privacy Lab: https://privacylab.yale.edu/directory
-

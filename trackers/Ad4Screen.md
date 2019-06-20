@@ -1,4 +1,8 @@
-# Ad4Screen
+# Tracker Name
+Ad4Screen
+
+# In εxodus?
+Yes
 
 ## Primary Location
 France (Paris). [Crunchbase, 01](https://www.crunchbase.com/organization/ad4screen)
@@ -13,11 +17,8 @@ Ad4Screen is "a marketing and advertising pioneer on Mobile Net (Smartphones, Ta
 Ad4Screen
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-
-* `ad4screen`
-* `a4\.tl`
-* `app4free`
-* `accengage\.com`
+*   Network signature: `a4\.tl|accengage\.com|ad4screen\.com|ad4push\.com`
+*   Code signature: `com.ad4screen.sdk`
 
 ## Documentation
 Via Accengage [https://docs.accengage.com/display/AND/Integration](https://docs.accengage.com/display/AND/Integration)
@@ -38,7 +39,7 @@ Display / Rich Media / Videos: "Our Ad Hoc Experts select the best formats, supp
 Facebook & Twitter campaigns: "Our teams are Experts in setting up specific mobile campaigns on Facebook and Twitter. Share high visibility and drive a Performance Business Model forward! Many available targeting criteria specific for Mobile and for each specific plateform. Ensure an Ongoing Performance"  
 
 _Promote Mobile Apps:_ "Thanks to Mobile advertising, Ad4Screen helps you to enhance your brand reputation, gain in-depth visibility and increase your volume of APP downloads. Ad4Screen’s specific business goal lies on the guarantee to capture a growing share of Cost Per Download (CPD)." Display / Videos: "Our Experts select the market’s best set of formats, supports and well known players in the market in order to empower your Mobile APP or Tablet, whether iOS or Android.   
-   
+
   * Traditional formats: banners, interstitials
   * Banners, interstitials HTML5   
   * Interstitials videos   

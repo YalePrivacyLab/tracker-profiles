@@ -1,4 +1,8 @@
-# BlueConic
+# Tracker Name
+BlueConic
+
+# In εxodus?
+Yes
 
 ## About
 
@@ -12,7 +16,7 @@ BlueConic was founded by Bart Heilbron and Martjin van Berkum in 2010. [Source: 
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 
-* Code detection rule: com.blueconic
+* Code detection rule: `com.blueconic`
 * Network detection rule: NC
 
 ## What it does

@@ -2,7 +2,7 @@
 Gimbal
 
 # In εxodus?
-No
+Yes
 
 ## Website
 https://gimbal.com/
@@ -16,7 +16,7 @@ Beacon, Location, Identity, Tracking, Advertising
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 *   Network signature: `gimbal.com`
-*   Code signature: `com.gimbal`
+*   Code signature: `com.gimbal.android`
 
 ## Repositories
 *   Maven: `https://mvnrepository.com/artifact/com.gimbal.android.v4/gimbal-sdk`

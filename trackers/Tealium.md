@@ -1,4 +1,8 @@
-# Tealium
+# Tracker Name
+Tealium
+
+# In εxodus?
+Yes
 
 ## Primary location
 United States (San Diego) [Crunchbase, 01](https://www.crunchbase.com/organization/tealium)
@@ -13,7 +17,8 @@ Tealium offers a universal data hub that unites its clients' tools and teams wit
 Tealium
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `tiqcdn\.com`
+*   Network signature: `tiqcdn\.com`
+*   Code signature: `.tealium.`
 
 ## Documentation
 https://community.tealiumiq.com/t5/Tealium-for-Android/Adding-Tealium-to-Your-Android-App/ta-p/16846

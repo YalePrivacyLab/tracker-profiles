@@ -1,4 +1,8 @@
-# Yandex Ad
+# Tracker Name
+Yandex Ad
+
+# In εxodus?
+Yes
 
 ## About
 
@@ -6,7 +10,7 @@ Yandex (NASDAQ: YNDX) is a multinational corporation dealing in Internet-related
 
 ## Ownership
 
-Yandex's current CEO and founder is Arkady Volozh. In 2018, Volozh was added the US Treasury Department's list of Russian "oligarchs" linked to Russian President Vladmir Putin. [Source: Boston Globe](https://www.bostonglobe.com/news/world/2018/01/30/releases-putin-list-russian-politicians-oligarchs/PUw8A93TCiXGMMOMNSKTUI/story.html) 
+Yandex's current CEO and founder is Arkady Volozh. In 2018, Volozh was added the US Treasury Department's list of Russian "oligarchs" linked to Russian President Vladmir Putin. [Source: Boston Globe](https://www.bostonglobe.com/news/world/2018/01/30/releases-putin-list-russian-politicians-oligarchs/PUw8A93TCiXGMMOMNSKTUI/story.html)
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 
@@ -23,7 +27,7 @@ Yandex's current CEO and founder is Arkady Volozh. In 2018, Volozh was added the
 
 [Policy as of 29/8/2018](https://yandex.ru/legal/confidential/):
 
-* Yandex's policy does not define personal information but refers the reader to "applicable laws and regulations." 
+* Yandex's policy does not define personal information but refers the reader to "applicable laws and regulations."
 
 * Personal information can be obtained by advertising partners.  
 

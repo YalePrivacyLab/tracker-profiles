@@ -1,4 +1,8 @@
-# Appboy (Braze)
+# Tracker Name
+Appboy (Braze)
+
+# In εxodus?
+Yes
 
 ## Primary Location
 United States (New York City) [Crunchbase, 01](https://www.crunchbase.com/organization/braze)
@@ -13,7 +17,8 @@ Braze is a mobile marketing company that offers CRM solutions and mobile marketi
 Braze
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `appboy\.com`
+*   Network signature: `appboy\.com`
+*   Code signature: `com.appboy`
 
 ## Documentation
 [https://www.braze.com/documentation/Android](https://www.braze.com/documentation/Android)
@@ -56,7 +61,7 @@ ABC News / Citi / GAP / Axel Springer / Dominos / Delivery Hero / Hearst / KFC /
 _Financial details:_ Braze was founded in 2011 and has raised over $95 million from funders. Braze changed its name from Appboy in 2017 [Crunchbase, 01](https://www.crunchbase.com/organization/braze).
 
 ### Methods
-* Targeted advertisments [Braze, 01](https://www.braze.com) 
+* Targeted advertisments [Braze, 01](https://www.braze.com)
 * Location-based targeting [Braze, 07](https://www.braze.com/product/integrations)
 * Real-world location targeting (including real-time targeting) [Braze, 02](https://www.braze.com/product/cross-channel-personalization) [Braze, 03](https://www.slideshare.net/Appboy/appboy-urban-outfitters-placeiq-case-study); [Braze, 07](https://www.braze.com/product/integrations); [Braze, 08](https://www.braze.com/academy/User_Targeting); [Braze, 09](https://www.braze.com/blog/appboy-location-targeting-tool); [Braze, 10](http://www.prweb.com/releases/2013/10/prweb11275487.htm)
 * Targeted advertising based on consumer actions [Braze, 02](https://www.braze.com/product/cross-channel-personalization)
@@ -69,7 +74,7 @@ _Financial details:_ Braze was founded in 2011 and has raised over $95 million f
 ## References
 * _Braze, 01._ [https://www.braze.com](https://www.braze.com)
 * _Braze, 02._ [https://www.braze.com/product/cross-channel-personalization](https://www.braze.com/product/cross-channel-personalization)
-* _Braze, 03._ [https://www.slideshare.net/Appboy/appboy-urban-outfitters-placeiq-case-study](https://www.slideshare.net/Appboy/appboy-urban-outfitters-placeiq-case-study) 
+* _Braze, 03._ [https://www.slideshare.net/Appboy/appboy-urban-outfitters-placeiq-case-study](https://www.slideshare.net/Appboy/appboy-urban-outfitters-placeiq-case-study)
 [Braze, 04._ [https://www.braze.com/customers/postmates](https://www.braze.com/customers/postmates)
 * _Braze, 05._ [https://www.braze.com/product/lifecycle-engagement-orchestration](https://www.braze.com/product/lifecycle-engagement-orchestration)
 * _Braze, 06._ [https://www.braze.com/product/optimization-ai](https://www.braze.com/product/optimization-ai)

@@ -1,4 +1,8 @@
-# Cuebiq
+# Tracker Name
+Cuebiq
+
+# In εxodus?
+Yes
 
 ## About
 
@@ -12,8 +16,8 @@ Its trusted partners include: Clear Channel, Oracle, Google, Facebook, Ubimo, an
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 
-* Code detection rule: com.cuebiq.cuebiqsdk.model.Collector|com.cuebiq.cuebiqsdk.receiver.CoverageReceiver
-* Network detection rule: cuebiq\.com
+* Code detection rule: `com.cuebiq.cuebiqsdk.model.Collector|com.cuebiq.cuebiqsdk.receiver.CoverageReceiver`
+* Network detection rule: `cuebiq\.com`
 
 ## What it does
 
@@ -28,7 +32,7 @@ Its trusted partners include: Clear Channel, Oracle, Google, Facebook, Ubimo, an
 
 * Cuebiq uses a blockchain platform it developed to encrypt and anonymize the personally identifiable information it collects. This is advantageous because (1) it more seamlessly complies with GDPR and (2) enables its partners to efficiently access its ledgers.
 
-* Cuebiq's policy openly states it ignores DNR (Do Not Track) requests in web browsers. 
+* Cuebiq's policy openly states it ignores DNR (Do Not Track) requests in web browsers.
 
 * Cuebiq's policy states that it shares information with third parties such as "advertising agency trading desks, proximity solution providers, [and] advertising technology providers" in addition to "other companies and organizations... for instance (without limitation) for scientific, medical, civic, meteorological, automotive, and market-related research."
 

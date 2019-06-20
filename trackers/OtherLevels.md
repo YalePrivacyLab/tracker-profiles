@@ -1,6 +1,9 @@
 # Tracker Name
 OtherLevels
 
+# In εxodus?
+Yes
+
 ## Website
 https://www.otherlevels.com/
 

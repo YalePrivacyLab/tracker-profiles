@@ -1,4 +1,8 @@
-# Fidzup
+# Tracker Name
+Fidzup
+
+# In εxodus?
+Yes
 
 ## Primary Location
 France (Paris) [Crunchbase, 01](https://www.crunchbase.com/organization/fidzup)
@@ -13,7 +17,8 @@ Fidzup merges online and offline mobile marketing for retailers. Their services 
 Fidzup
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `fidzup`
+*   Network signature: `fidzup`
+*   Code signature: `com.fidzup.`
 
 ## Documentation
 Fidzup SDK not listed, other code available at https://github.com/Fidzup
@@ -21,7 +26,7 @@ Fidzup SDK not listed, other code available at https://github.com/Fidzup
 ## Products and Services
 Fidzup has two primary services:
 
-1. Drive to store campaign 
+1. Drive to store campaign
 2. Retargeting campaign    
 
 Their service is designed to protect retailers for "showcasing" whereby consumers view products in retail stores and look for prices and promotions found elsewhere, especially online.  "Thus," Fidzup states, "those consumers who move to a point of sale but do not buy represent a real 'blind spot' for the brand."
@@ -64,14 +69,14 @@ _Data collection and identifiable information:_ Fidzup states it "collects data 
 
 _Retention:_ Collected data "are stored anonymously on our servers for 12 months."
 
-_Data Use:_ "Collected data allows: 
+_Data Use:_ "Collected data allows:
 
 1. To enhance your experience while you visit point of sales equipped with our technologies.
 2. To provide visitors’ in­store behavior reports to our customers. Those reports contain point of sales visit trends, made of aggregated data. No personal or individual information is included.
 3. To personalize visitors mobile ads on smartphone applications they use.
 We use anonymous visit data to provide a personalized experience on our partners smartphone applications. For example: after visiting a shop you could see a personalized banner for this particular shop instead of a generic one."
 
-_Opt-out:_ Fidzup states, "The simplest way to prevent data collection from your Wifi is to disable your Wifi connection near places that use it. 
+_Opt-out:_ Fidzup states, "The simplest way to prevent data collection from your Wifi is to disable your Wifi connection near places that use it.
 
 We also provide a way to delete all data regarding your smartphone with our opt-out form" [Fidzup, 04](https://www.fidzup.com/en/privacy).
 
@@ -83,7 +88,7 @@ _Brands and retailers:_ Gemo / Timberland / Buffalo Grill / Grand Optical / Opel
 _Supporters:_ Mobile Marketing Association France / Electronic Business Group / IAB France / Picom / La Nuit Des Rois [Fidzup, 01](https://www.fidzup.com/en)  
 
 ## Details
-_Financial details: "Fidzup was founded in 2011 by two entrepreneurs sharing the same idea: to give a lift to traditional business through technological innovation" [Fidzup, 02](https://www.fidzup.com/en/team). They raised $3,7 million with venture capitalists CapHorn Invest and Turenne Capital as well as existing investors CapDecisif Management via the FRCI (Fonds Régional Co-investissement de la Région Ile de France) and Petit Poucet Participation, the press reported in November 2016 [BusinessWire, 01](http://www.businesswire.com/news/home/20161130005981/en/Fidzup-Performance-Marketing-Startup-Retailers-Raises-3.7); [Tech.eu, 01](http://tech.eu/brief/fidzup-raises-investment). 
+_Financial details: "Fidzup was founded in 2011 by two entrepreneurs sharing the same idea: to give a lift to traditional business through technological innovation" [Fidzup, 02](https://www.fidzup.com/en/team). They raised $3,7 million with venture capitalists CapHorn Invest and Turenne Capital as well as existing investors CapDecisif Management via the FRCI (Fonds Régional Co-investissement de la Région Ile de France) and Petit Poucet Participation, the press reported in November 2016 [BusinessWire, 01](http://www.businesswire.com/news/home/20161130005981/en/Fidzup-Performance-Marketing-Startup-Retailers-Raises-3.7); [Tech.eu, 01](http://tech.eu/brief/fidzup-raises-investment).
 
 For Product pricing (from old website), see [Fidzup v2, 04](https://web.archive.org/web/20171015030915/http://v2.fidzup.com/en//nos-offres).
 
@@ -97,10 +102,10 @@ Specifically, where Criteo is interested in the behavior of Internet users on e-
 
 _Devices:_ Mobile (Android, Apple) / Fidbox
 
-_Slogans:_ 
+_Slogans:_
 
 * "Online Offline: Performance mobile marketing for retailers" [Fidzup, 01](https://www.fidzup.com/en)
-* "An innovative technology for interior presence detection" 
+* "An innovative technology for interior presence detection"
 * "A mailing platform for geolocalized interactive content" [Fidzup v2, 01](http://archive.is/kUZGK)  
 
 ### Methods
@@ -170,7 +175,7 @@ _Some of the data collected:_
 
 ## References
 * _Ad-exchange.fr, 01._ http://ad-exchange.fr/fidzup-retargeting-unit-le-ciblage-publicitaire-sur-smartphone-et-le-monde-physique-14297._ http://ad-exchange.fr/fidzup-retargeting-unit-le-ciblage-publicitaire-sur-smartphone-et-le-monde-physique-14297
-* _Ad-exchange.fr, 02._ http://ad-exchange.fr/fidzup-veut-booster-ladoption-de-boitiers-du-type-beacon-dans-les-magasins-francais-27156._ http://ad-exchange.fr/fidzup-veut-booster-ladoption-de-boitiers-du-type-beacon-dans-les-magasins-francais-27156 
+* _Ad-exchange.fr, 02._ http://ad-exchange.fr/fidzup-veut-booster-ladoption-de-boitiers-du-type-beacon-dans-les-magasins-francais-27156._ http://ad-exchange.fr/fidzup-veut-booster-ladoption-de-boitiers-du-type-beacon-dans-les-magasins-francais-27156
 * _BusinessWire, 01._ http://www.businesswire.com/news/home/20161130005981/en/Fidzup-Performance-Marketing-Startup-Retailers-Raises-3.7
 * _Crunchbase, 01._ https://www.crunchbase.com/organization/fidzup
 [Fidzup, 01._ https://web.archive.org/web/20171124095315/https://www.fidzup.com/en
@@ -178,7 +183,7 @@ _Some of the data collected:_
 * _Fidzup, 03, .zip file._ https://web.archive.org/web/20171124095525/http://www.fidzup.com/fidzup-2015.zip
 * _Fidzup, 04._ https://web.archive.org/web/20171124095616/https://www.fidzup.com/en/privacy
 * _Fidzup v2, 01._ http://archive.is/kUZGK
-* _Fidzup v2, 02._ https://web.archive.org/web/20171015025307/http://v2.fidzup.com/en//notre-solution 
+* _Fidzup v2, 02._ https://web.archive.org/web/20171015025307/http://v2.fidzup.com/en//notre-solution
 [Fidzup v2, 03._ https://web.archive.org/web/20171015030737/http://v2.fidzup.com/en//cas-dusage
 * _Fidzup v2, 04._ https://web.archive.org/web/20171015030915/http://v2.fidzup.com/en//nos-offres
 [L'Usine Digitale, 01._ https://www.usine-digitale.fr/editorial/les-100-du-digital-retail-fidzup-pour-geolocaliser-ses-clients-grace-a-leur-smartphone-et-des-ultrasons.N348982

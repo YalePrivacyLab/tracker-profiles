@@ -1,4 +1,8 @@
-# Weborama
+# Tracker Name
+Weborama
+
+# In εxodus?
+Yes
 
 ## Primary Location
 France (Paris)
@@ -10,8 +14,8 @@ Weborama "collect, organise, stock, transform and operate data within the advert
 Weborama
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `weborama\.net`
-* `weborama\.fr`
+*   Network signature: `weborama\.net|weborama\.fr`
+*   Code signature: `com.weborama.`
 
 ## Documentation
 [https://be-interactive.atlassian.net/wiki/spaces/SDK/pages/5931037/Integration+with+DFP](https://be-interactive.atlassian.net/wiki/spaces/SDK/pages/5931037/Integration+with+DFP)
@@ -24,17 +28,17 @@ Weborama features an audience-driven advertising platform:
 
 "The Weborama platform enables advertisers to create audience segments from Media, Site and/or CRM data. These segments can be enhanced using 3rd party data. Advertisers can use these segments to buy ad space and target their campaigns. The Weborama platform analyses the performance of these campaigns and audiences and optimises them in real time" [Weborama, 02](https://www.weborama.com/data/presentation).  
 
-"Weborama has been developing solutions in adserving, data Management Platform (DMP), audience analysis, data segmentation and target segments for 15 years" [Weborama, 03](http://www.weborama.com/documents/2013/06/data-according-to-weborama.pdf). 
+"Weborama has been developing solutions in adserving, data Management Platform (DMP), audience analysis, data segmentation and target segments for 15 years" [Weborama, 03](http://www.weborama.com/documents/2013/06/data-according-to-weborama.pdf).
 
 _Weborama Audience Manager:_ A Data Management Platform; it is a "data management platform for segmentation of different sources of 1st party (CRM, media and website) data, enriched by 3rd party data using access to data owned by Weborama."
 
 _Weborama Audience Insight:_ A "tool for analysing audience behavior on internet sites"  
 
-_Weborama Campaign Manager:_ "adserving tool for management and optimisation of advertising campaigns" 
+_Weborama Campaign Manager:_ "adserving tool for management and optimisation of advertising campaigns"
 
 _Weborama Advanced Rich Media:_ A "tool for managing rich media/video campaigns"  
 
-_Weborama Audience Exchange:_ A " premium multi-device audience platform, on two channels (WaX for agency, WaX for trading desk). Classic formats, rich media and in stream" 
+_Weborama Audience Exchange:_ A " premium multi-device audience platform, on two channels (WaX for agency, WaX for trading desk). Classic formats, rich media and in stream"
 
 Weborama offers audience analysis and a targeted marketing proposal for publishers [Weborama, 03](http://www.weborama.com/documents/2013/06/data-according-to-weborama.pdf).
 
@@ -89,12 +93,12 @@ Data mining is conducted as follows: "this database is then enriched with socio-
 
 Training the model is conducted as follows: From the database, build graphic representation and create permanent tree segments. The criteria most relevant to each product or service can be extracted, where the criteria is based on transformation of the internet users exposed to ad campaigns and impressions.
 
-Weborama's database "is then enriched with socio-demographic and behavioural criteria for internet users whose profile is known to Weborama, thanks to their database of 70 million qualified profiles in France. this data is cross-referenced with the data coming from Weborama Campaign Manager. this anonymous information is accessible as a whole using the internet user identifier (a series of characters for each individual contained in the cookies deposited in the internet explorer). this unique identifier allows Weborama to find the complete profile of the internet user in their database, in real time." 
+Weborama's database "is then enriched with socio-demographic and behavioural criteria for internet users whose profile is known to Weborama, thanks to their database of 70 million qualified profiles in France. this data is cross-referenced with the data coming from Weborama Campaign Manager. this anonymous information is accessible as a whole using the internet user identifier (a series of characters for each individual contained in the cookies deposited in the internet explorer). this unique identifier allows Weborama to find the complete profile of the internet user in their database, in real time."
 
-Weborama runs A/B testing to determine if the model is working, based on confidence intervals.  Variation can occur for many reasons, such as a calendar event or a holiday. 
+Weborama runs A/B testing to determine if the model is working, based on confidence intervals.  Variation can occur for many reasons, such as a calendar event or a holiday.
 
-_Segmentation for publishers:_ "Above all, the aim of publishers is to organise their commercial products so that they can offer advertisers and agencies, in addition to the contextual menu, packs of targeted audiences, enriched by 3rd party data. the second challenge is to build specific audience packs using ad hoc target segments based on both socio-demographic and behavioural targeting (taking account of the internet users’ different areas of interest).  "Segmentation of a site’s audience allows visitor profiles 
-from other areas of interest to be seen. It is highly probable that a current affairs site has, among its audience, people who enjoy other sites (finance, beauty, fashion, cookery, travel...). this will offer the publishers the possibility of assessing their content quality, as well as that of their audience, while expanding their client base. " 
+_Segmentation for publishers:_ "Above all, the aim of publishers is to organise their commercial products so that they can offer advertisers and agencies, in addition to the contextual menu, packs of targeted audiences, enriched by 3rd party data. the second challenge is to build specific audience packs using ad hoc target segments based on both socio-demographic and behavioural targeting (taking account of the internet users’ different areas of interest).  "Segmentation of a site’s audience allows visitor profiles
+from other areas of interest to be seen. It is highly probable that a current affairs site has, among its audience, people who enjoy other sites (finance, beauty, fashion, cookery, travel...). this will offer the publishers the possibility of assessing their content quality, as well as that of their audience, while expanding their client base. "
 
 _Two methods of data enrichment from publishers:_ The first method "includes the synchronisation and propagation of Weborama’s socio-demographic criteria and behavioural clusters on the publisher’s site audience. this is possible by identifying profiles recognised within the site’s audience, which are already part of the Weborama database. In this particular case, the adserver of the publisher calls the Weborama database for each internet user. If the Weborama database recognises the socio-demographic profile or behaviour of the visitor to the site, the visitor is transferred to the publisher’s adserver. the publisher’s adserver therefore now contains the socio-demographic and behavioural profile of the majority of its internet users."  
 
@@ -109,7 +113,7 @@ The second method "identifies and analyses the website user’s profiles to crea
 * _Weborama, 05._ [https://www.weborama.com/infos-financieres/financial-figures](https://www.weborama.com/infos-financieres/financial-figures)  
 * _Weborama, 06._ [https://www.weborama.com/documents/2017/09/weborama-growth-of-the-operating-profit-in-the-first-half-of-2017.pdf](https://www.weborama.com/documents/2017/09/weborama-growth-of-the-operating-profit-in-the-first-half-of-2017.pdf)  
 * _Weborama, 07._ [https://www.weborama.com/e-privacy/our-commitment](https://www.weborama.com/e-privacy/our-commitment)
- 
+
 ## External Links
 * _Wikipedia (Weborama, French):_ [https://fr.wikipedia.org/wiki/Weborama](https://fr.wikipedia.org/wiki/Weborama)  
 * _Wikipedia (Weborama, English translation):_ [https://translate.google.com/translate?hl=en&sl=fr&u=https://fr.wikipedia.org/wiki/Weborama&prev=search](https://translate.google.com/translate?hl=en&sl=fr&u=https://fr.wikipedia.org/wiki/Weborama&prev=search)

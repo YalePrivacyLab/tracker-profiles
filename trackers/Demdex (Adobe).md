@@ -1,4 +1,8 @@
-# Demdex (Adobe)
+# Tracker Name
+Demdex (Adobe)
+
+# In εxodus?
+Yes
 
 ## Primary Location
 United States
@@ -13,7 +17,8 @@ Demdex offers audience management solutions for parts of Adobe's advertising eco
 Adobe Systems Incorporated
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `demdex\.net`
+*   Network signature: `demdex\.net`
+*   Code signature: `com.adobe.mobile.Analytics`
 
 ## Documentation
 [https://marketing.adobe.com/developer/get-started/mobile/c-measuring-mobile-applications](https://marketing.adobe.com/developer/get-started/mobile/c-measuring-mobile-applications)
@@ -21,9 +26,9 @@ Adobe Systems Incorporated
 ## Products and Services
 Adobe's Audience Manager service was build on top of the Demdex data bank product they acquired in 2011 [Analytics Demystified, 01](http://analyticsdemystified.com/adobe-analytics/adobes-new-marketing-cloud-visitor-id-how-does-it-work). Some services include:
 
-* _Segmenting:_ "Build, test, and activate...audiences...based on a set of traits". "Divide millions of records into trait-specific categories" like "moms of grade school kids". Find new prospects with "look-alike modeling"; "pinpoint your most frequent users, as well as how recently they've interacted with your marketing." 
+* _Segmenting:_ "Build, test, and activate...audiences...based on a set of traits". "Divide millions of records into trait-specific categories" like "moms of grade school kids". Find new prospects with "look-alike modeling"; "pinpoint your most frequent users, as well as how recently they've interacted with your marketing."
 * _Cross-device identification:_ Use the "profiling feature" in Audience Manager "to tie one profile to multiple devices" and "discover if users are sharing a device, for instance, within a household". Target customers "after they may logged off your site or app."
-* _Reports:_ Generate reports like Optimal Frequency reports, Advertiser Performance Reports to gain insight about user interactions like impressions, clicks, and conversions 
+* _Reports:_ Generate reports like Optimal Frequency reports, Advertiser Performance Reports to gain insight about user interactions like impressions, clicks, and conversions
 * _Predictive analytics:_ Performs predictive analytics
 * Organize your own first party data and augment it with second or third party data with the Audience Marketplace feature
 * Price your data for sale and partners [Adobe, 19](https://www.adobe.com/data-analytics-cloud/audience-manager.html)
@@ -139,7 +144,7 @@ Adobe's platform support "includes Apple App Store, Google Play, Amazon Appstore
 * _Adobe, 23_. [https://blogs.adobe.com/digitalmarketing/mobile/10-things-you-need-to-know-about-adobes-mobile-marketing](https://blogs.adobe.com/digitalmarketing/mobile/10-things-you-need-to-know-about-adobes-mobile-marketing)  
 * _Adobe, 24_. [http://www.adobe.com/experience-cloud/service-support/partners.html](http://www.adobe.com/experience-cloud/service-support/partners.html)  
 * _Analytics Demystified, 01_. [http://analyticsdemystified.com/adobe-analytics/adobes-new-marketing-cloud-visitor-id-how-does-it-work](http://analyticsdemystified.com/adobe-analytics/adobes-new-marketing-cloud-visitor-id-how-does-it-work)  
-* _Crunchbase, 01_. [https://www.crunchbase.com/organization/demdex](https://www.crunchbase.com/organization/demdex) 
+* _Crunchbase, 01_. [https://www.crunchbase.com/organization/demdex](https://www.crunchbase.com/organization/demdex)
 * _Forbes, 01_. [https://www.forbes.com/sites/roberthof/2013/11/07/adobe-takes-its-marketing-cloud-services-mobile](https://www.forbes.com/sites/roberthof/2013/11/07/adobe-takes-its-marketing-cloud-services-mobile)  
 * _MarketWatch, 01_. [https://www.marketwatch.com/story/adobe-launches-mobile-services-for-adobe-marketing-cloud-2013-11-07](https://www.marketwatch.com/story/adobe-launches-mobile-services-for-adobe-marketing-cloud-2013-11-07)  
 * _PCWorld, 01_. [https://www.pcworld.com/article/2061880/adobe-adds-geolocation-targeting-to-marketing-cloud.html](https://www.pcworld.com/article/2061880/adobe-adds-geolocation-targeting-to-marketing-cloud.html)  
@@ -148,7 +153,7 @@ Adobe's platform support "includes Apple App Store, Google Play, Amazon Appstore
 ## External links
 * _Wikipedia (Adobe Marketing Cloud_: [https://en.wikipedia.org/wiki/Adobe_Marketing_Cloud](https://en.wikipedia.org/wiki/Adobe_Marketing_Cloud)  
 * _Adobe Audience Manager_: [https://www.adobe.com/data-analytics-cloud/audience-manager.html](https://www.adobe.com/data-analytics-cloud/audience-manager.html)  
-* _Adobe Marketing Cloud_: [http://www.adobe.com/marketing-cloud.html](http://www.adobe.com/marketing-cloud.html) 
+* _Adobe Marketing Cloud_: [http://www.adobe.com/marketing-cloud.html](http://www.adobe.com/marketing-cloud.html)
 
 # Questions or concerns about this document?
 Please contact Privacy Lab: https://privacylab.yale.edu/directory

@@ -1,4 +1,8 @@
-# MixPanel
+# Tracker Name
+MixPanel
+
+# In εxodus?
+Yes
 
 ## About
 

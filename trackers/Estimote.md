@@ -1,4 +1,8 @@
-# Estimote
+# Tracker Name
+Estimote
+
+# In εxodus?
+Yes
 
 ## About
 
@@ -12,7 +16,7 @@ Estimote's founders are Jakub Krzych and Lukasz Kostka. [Source: website](https:
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 
-* Code detection rule: com.estimote.
+* Code detection rule: `com.estimote.`
 * Network detection rule: NC
 
 ## What it does

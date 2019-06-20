@@ -1,4 +1,8 @@
-# MoPub (Twitter)
+# Tracker Name
+MoPub (Twitter)
+
+# In εxodus?
+Yes
 
 ## Primary location
 United States
@@ -13,7 +17,8 @@ MoPub offers services aimed th help publishers acquire and serve advertisements 
 Twitter
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `mopub\.com`
+*   Network signature: `mopub\.com`
+*   Code signature: `com.mopub.mobileads.`
 
 ## Documentation
 [https://www.mopub.com/resources/docs/android-sdk-integration](https://www.mopub.com/resources/docs/android-sdk-integration)
@@ -53,9 +58,9 @@ _Information Use on End Users:_ This includes for the following purposes:
 * Geo-Targeting
 * Providing and Improving MoPub Services
 
-_PII:_ "MoPub will not combine the non-personally identifiable information collected to provide the MoPub Services with your personally-identifying information without your express consent." 
+_PII:_ "MoPub will not combine the non-personally identifiable information collected to provide the MoPub Services with your personally-identifying information without your express consent."
 
-_Information sharing:_ 
+_Information sharing:_
 
 * With advertiser customers: for the purposes of the ad bidding process.
 * Aggregated and non-PII data: "We share aggregate or non-personally identifiable information about the use of our Services with MoPub Customers. For example, we provide advertisers reports showing how many users viewed or clicked on their ads. We also provide publishers reports about the types of ads served to their apps."
