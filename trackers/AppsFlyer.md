@@ -1,4 +1,8 @@
-# AppsFlyer
+# Tracker Name
+AppsFlyer
+
+# In εxodus?
+Yes
 
 ## Primary Location
 Israel (Herzliya)
@@ -13,13 +17,14 @@ A mobile & attribution analytics platform that aims to help marketers make bette
 AppsFlyer
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `appsflyer\.com`
+*   Network signature: `appsflyer\.com`
+*   Code signature: `com.appsflyer.`
 
 ## Documentation
 [https://support.appsflyer.com/hc/en-us/articles/207032126-AppsFlyer-SDK-Integration-Android](https://support.appsflyer.com/hc/en-us/articles/207032126-AppsFlyer-SDK-Integration-Android)
 
 ## Products and Services
-AppsFlyer provides the following services: 
+AppsFlyer provides the following services:
 
 * Fraud prevention, malware protection [AppsFlyer, 04](https://www.appsflyer.com/product/protect360)
 * Identity attribution services. AppsFlyer fingerprints devices by their IDs and tracks across datasets (to solve the problem of fragmentation across devices). This works with all Windows 10 devices (including mobile), Android, and iOS [AppsFlyer, 03](https://www.appsflyer.com/product/mobile-attribution-for-user-acquisition).
@@ -41,7 +46,7 @@ _Investors include:_ Goldman Sachs / Deutsche Telekom / Qumra Capital / Magma Ve
 _Partners:_ Google [Google, 01](https://adwords.googleblog.com/2015/05/new-media-partnerships-and-ad-solutions.html); [TechCrunch, 02](https://techcrunch.com/2015/05/28/google-expands-its-app-promotion-business-with-universal-app-campaigns-and-new-media-partnerships) / Snap / Tencent / HBO / Playtika / Waze / Alibaba / Kayak / Activision [VentureBeat, 01](https://venturebeat.com/2017/05/25/appsflyer-helps-mobile-advertisers-beat-back-ad-fraud-via-machine-learning) / Facebook / Twitter / Accuweather / AdlQuity/Flipkart / Bing Search / Pandora / Opera Software / Ad4Screen / Cooladata / Fiksu / EveryAds / Nanigans / Fyber / HeyZap / Tapjoy / Adroll / Flurry / GameAnalytics / Jampp / Inmobi / Appnexus / Vserv / AppLovin / Vungle / URX / Mobvista / Inneractive / Aarki / Bidalgo / Avazu / Taptica / NativeX / AirPush / Amobee / PlayHaven / Mobilecore / Accesstrade / ADS / ADSNative / Ad County Media / AccordantMedia / Ad2games / Ad2iction / Abakus / APUS / ADyes / Accruo / AID / Aarki / Ad4Game / APPROUND MOBILE / AML / APPSILON / ART DMP / ActionAds / APPAniac / ADvantage / AdBuddiz / ADRW / ADXMI Exchange / ADSAXIS / APPAVE / AVH digital / Actionpay / Ad2Click / ART Ad Platform / ASB / Ad2c / ADPRESSO / Ad@m (kakao) / ADZ JUNCTION MEDIA / ADVERTISE.RU / Ad County / AWIN / Adbird / AdCorsa / Adamas / Adbert / AdReady / Adbrain / Adacts / AdChakra / AdCare / Adattract / AdTiming / AdWyze / AdTen / Adboosters / Adara / AdDeals / Adblender / AdView / AdTiger / AdFit / AdTriba / AdPacker / and many more. For a longer list, see [AppsFlyer, 03](https://www.appsflyer.com/partners)
 
 ## Details
-### Financial details & history 
+### Financial details & history
 AppsFlyer received early seed funding from Microsoft Accelerator and Magma Venture Partners [CrunchBase, 01](https://www.crunchbase.com/funding_round/appsflyer-seed--4b06b119). As of November 2017, AppsFlyer's website lists $84M raised from Top VC's, $6B+ annual mobile ad spend measured, 3k+ mobile tech partners, and 13 global offices (and growing) [AppsFlyer, 02](https://www.appsflyer.com/we-are-appsflyer).
 
 ### Scope

@@ -1,4 +1,8 @@
-# AppNexus
+# Tracker Name
+AppNexus
+
+# In εxodus?
+Yes
 
 ## Primary Location
 United States (New York City) [Bloomberg, 01](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=48973441)
@@ -13,7 +17,8 @@ AppNexus offers services for auction-based and directly negotiated media campaig
 AppNexus
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `adnxs\.com`
+* Code detection rule: `com.appnexus.opensdk.`
+* Network detection rule: `adnxs\.com`
 
 ## Documentation
 [https://wiki.appnexus.com/display/sdk/Integrate+the+SDK](https://wiki.appnexus.com/display/sdk/Integrate+the+SDK)
@@ -49,13 +54,13 @@ _Opt-Out:_ In browsers, AppNexus offers an opt-out web browser cookie to opt out
 
 _Data Retention:_ AppNexus retains data according to "industry standards". "Platform Data is stored using generally accepted security standards. It is usually aggregated or deleted within 30-60 days, but may be retained in the Platform for up to 18 months from the date of collection before aggregation or deletion. Aggregated data is used for reporting and analysis, and may be stored in the Platform for up to 2 additional years. When clients remove their data from the Platform, their storage and retention of data is governed by their own privacy policies and applicable laws, rules, or regulations."
 
-_Regulation:_ AppNexus supports industry self-regulation, and is "a member in good standing of the Network Advertising Initiative (NAI), and adheres to the NAI Code of Conduct for Web and Mobile" [AppNexus, 04](https://www.appnexus.com/en/company/platform-privacy-policy#choices). 
+_Regulation:_ AppNexus supports industry self-regulation, and is "a member in good standing of the Network Advertising Initiative (NAI), and adheres to the NAI Code of Conduct for Web and Mobile" [AppNexus, 04](https://www.appnexus.com/en/company/platform-privacy-policy#choices).
 
 ## Relationships
 _Clients:_ Affiperf / Air France / Hearst / MEDIA.figaro / The Guardian / Wayfair [AppNexus, 03](https://www.appnexus.com/en) / Underdog Media / Liftoff / Advance Digital / USA Today / Xaxis / Accuen / Bloomberg / Defy Media / Dow Jones / Spectrum Platform Company / District M / BannerConnect / Hitch Digital / ESPN / Fox News / Saavn [AppNexus, 05](https://www.appnexus.com/en/customer-stories)
 
 ## Details
-_History:_ AppNexus is "Founded and managed by the pioneers of the Web's original and most successful ad exchanges at Yahoo!'s Right Media and Google's DoubleClick" [PR Newswire, 01](https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html). AppNexus claims to be "The world's largest independent digital marketplace" [AppsNexus, 01](https://www.appnexus.com/en/publishers). 
+_History:_ AppNexus is "Founded and managed by the pioneers of the Web's original and most successful ad exchanges at Yahoo!'s Right Media and Google's DoubleClick" [PR Newswire, 01](https://www.prnewswire.com/news-releases/appnexus-officially-launches-ad-platform-fueling-the-real-time-bidding-revolution-in-display-advertising-87460287.html). AppNexus claims to be "The world's largest independent digital marketplace" [AppsNexus, 01](https://www.appnexus.com/en/publishers).
 
 _Collection Methods:_ "The Platform uses cookies, beacons, tags, mobile SDKs, and in some cases non-cookie technologies, to collect Platform Data associated with particular web browsers or devices" [AppNexus, 04](https://www.appnexus.com/en/company/platform-privacy-policy#choices).
 

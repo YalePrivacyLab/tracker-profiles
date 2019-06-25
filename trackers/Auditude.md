@@ -2,7 +2,7 @@
 Auditude
 
 # In εxodus?
-No
+Yes
 
 ## Website
 https://www.adobe.com/privacy/policies/auditude.html
@@ -27,7 +27,7 @@ Advertising, Location, Identity, Tracking
 `xxx`
 
 ## Additional links
-http://ad.auditude.com/adserver/e?type=playererror , theplatform.com 
+http://ad.auditude.com/adserver/e?type=playererror , theplatform.com
 
 ## Notes
 Legacy, superceded by Adobe Primetime

@@ -2,7 +2,7 @@
 Pilgrim
 
 # In εxodus?
-No
+Yes
 
 ## Website
 https://enterprise.foursquare.com/products/pilgrim

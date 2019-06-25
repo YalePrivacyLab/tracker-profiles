@@ -1,4 +1,8 @@
-# Localytics
+# Tracker Name
+Localytics
+
+# In εxodus?
+Yes
 
 ## Primary Location
 United States (Boston) [Localytics, 01](https://www.localytics.com/company/about)
@@ -13,7 +17,8 @@ Localytics offers an analytics and marketing platform for targeted and personali
 Self-owned
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `localytics\.com`
+*   Network signature: `localytics\.com`
+*   Code signature: `com.localytics.android.`
 
 ## Documentation
 [https://docs.localytics.com/dev/android.html#android](https://docs.localytics.com/dev/android.html#android)
@@ -30,12 +35,12 @@ Localytics leverages the same tracking platform in iOS and Android.
 
 ## Privacy Policy
 
-_Personally identifiable information collection (via Services):_ Localytics requests that its Customers not provide to it PII about their End Users. However, Localytics states that End Users should be aware Customers may request PII for their own use for their mobile apps. To the extent that Localytics does receive PII from Customers, it pledges to maintain the confidentiality of the PII. Localytics does obtain information from website log files, and maintains the right to combine automatically collected log data with other information they have about you. 
+_Personally identifiable information collection (via Services):_ Localytics requests that its Customers not provide to it PII about their End Users. However, Localytics states that End Users should be aware Customers may request PII for their own use for their mobile apps. To the extent that Localytics does receive PII from Customers, it pledges to maintain the confidentiality of the PII. Localytics does obtain information from website log files, and maintains the right to combine automatically collected log data with other information they have about you.
 
 _Information sharing:_ Localytics "does not rent, sell or share PII, including your Personal Information, with any third parties" expect with your express consent, or in the event of "a merger, acquisition, or sale of all or a portion of its assets", at which case you will be prominently notified "of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information" [Localytics, 07](https://www.localytics.com/privacy-policy)
 
 ## Relationships
-_Customers:_ Comcast / A&E / OLA / Runkeeper / Microsoft / CVS Pharmacy / The New York Times / Avis / Salesforce Marketing Cloud / Amazon / Wendy's / Zipcar [Localytics, 02](https://www.localytics.com) / Oracle Marketing Cloud / Adobe Marketing Cloud / Facebook Marketing Partners / Twitter 
+_Customers:_ Comcast / A&E / OLA / Runkeeper / Microsoft / CVS Pharmacy / The New York Times / Avis / Salesforce Marketing Cloud / Amazon / Wendy's / Zipcar [Localytics, 02](https://www.localytics.com) / Oracle Marketing Cloud / Adobe Marketing Cloud / Facebook Marketing Partners / Twitter
 
 _Alliance partners:_ Bitbang / Cainkade / Cube Loco / Epicfy / Exicon / Jackrabbit / Jargon / Kapitec Software / Keystone Solutions / Mobiquity / NorthBay / Northout / Pollfish / Rocket Insights / Scholarly iQ / Scientific Computers Ltd. / Semba  Mobile / Social Fulcrum / Somo / SP2 Serviços Empresariais Ltda / Stratigent / Vendus Labs Inc.
 

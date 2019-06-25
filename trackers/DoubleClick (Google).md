@@ -1,4 +1,8 @@
-# DoubleClick
+# Tracker Name
+Google DoubleClick
+
+# In εxodus?
+Yes
 
 ## Primary Location
 United States (New York City) [Crunchbase, 01](https://www.crunchbase.com/organization/doubleclick)
@@ -13,8 +17,8 @@ DoubleClick offers products and services to publishers and advertisers. Publishe
 Google
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `mng-ads\.com`
-* `doubleclick\.net`
+*   Network signature: `mng-ads\.com|doubleclick\.net|doubleclick\.com|2mdn\.net|dmtry\.com`
+*   Code signature: `com.google.android.gms.ads.doubleclick`
 
 ## Documentation
 [https://developers.google.com/doubleclick-publishers/docs/start](https://developers.google.com/doubleclick-publishers/docs/start)
@@ -80,7 +84,7 @@ DoubleClick was founded in 1995 [Crunchbase, 01](https://www.crunchbase.com/orga
 * _ProPublica, 01._ https://www.propublica.org/article/google-has-quietly-dropped-ban-on-personally-identifiable-web-tracking  
 * _Search Engine Land, 01._ https://searchengineland.com/google-attribution-search-marketers-need-know-275751  
 * _TechCrunch, 01._ https://techcrunch.com/2017/05/23/google-attribution-is-a-free-and-easy-way-to-evaluate-marketing-efforts  
-* _TechCrunch, 02._ https://techcrunch.com/2017/05/23/google-is-now-using-deep-learning-to-measure-store-visits 
+* _TechCrunch, 02._ https://techcrunch.com/2017/05/23/google-is-now-using-deep-learning-to-measure-store-visits
 
 ## External links
 * _Crunchbase (DoubleClick):_ [https://www.crunchbase.com/organization/doubleclick](https://www.crunchbase.com/organization/doubleclick)

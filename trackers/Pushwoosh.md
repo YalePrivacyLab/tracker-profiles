@@ -1,4 +1,8 @@
-# Pushwoosh
+# Tracker Name
+Pushwoosh
+
+# In εxodus?
+Yes
 
 ## Primary Location
 United States (Washington, DC) [CrunchBase, 01](https://www.crunchbase.com/organization/pushwoosh)
@@ -13,7 +17,8 @@ Pushwoosh pushes in-app messaging across platforms [Pushwoosh, 01](https://www.p
 Pushwoosh
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `pushwoosh\.com`
+*   Network signature: `pushwoosh\.com`
+*   Code signature: `com.pushwoosh`
 
 ## Documentation
 [http://docs.pushwoosh.com/docs/fcm-integration](http://docs.pushwoosh.com/docs/fcm-integration)
@@ -22,7 +27,7 @@ Pushwoosh
 Features include:
 
 * _Data collection (via tags):_ "Collect additional data from your users as Tags - gender, city and DOB, or the amount of money spent on in-app purchases. Then use this data for precise segmentation, personal communication, push automation and analytics."
-* _Real world location targeting:_ "Try real-time location-based feature to send automated push notifications to users entering a specific area. Send your sale offers, discount alerts and welcoming messages automatically" [Pushwoosh, 02](https://www.pushwoosh.com/features). 
+* _Real world location targeting:_ "Try real-time location-based feature to send automated push notifications to users entering a specific area. Send your sale offers, discount alerts and welcoming messages automatically" [Pushwoosh, 02](https://www.pushwoosh.com/features).
    * _Targeting in geozones:_ "pins on the map that allow sending automatically triggered push notifications right at the moment a user enters the specified area on the map. Its range can be set from 50 to 1000 meters, and it has an adjustable cooldown period" [Pushwoosh, 03](http://docs.pushwoosh.com/docs/geozones).
    * _iBeacon micro-targeting_ [Pushwoosh, 10](https://www.pushwoosh.com/blog/features-guides/ibeacons)
 * _Segmentation of audiences for marketing campaigns_ [Pushwoosh, 02](https://www.pushwoosh.com/features). Segments could include "username, ID, city, favorite football team, preferred news categories, or any other piece of information about your users" [Pushwoosh, 04](http://docs.pushwoosh.com/docs/segmentation-tags-and-filters).

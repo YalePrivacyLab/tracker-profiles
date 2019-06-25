@@ -1,6 +1,9 @@
 # Tracker Name
 Dov-E
 
+# In εxodus?
+Yes
+
 ## Website
 https://www.dov-e.com/
 

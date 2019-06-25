@@ -1,4 +1,8 @@
-# Teemo (ex Databerries)
+# Tracker Name
+Teemo (ex Databerries)
+
+# In εxodus?
+Yes
 
 ## Primary Location
 France (Paris) [Crunchbase, 01](https://www.crunchbase.com/organization/databerries)
@@ -7,13 +11,14 @@ France (Paris) [Crunchbase, 01](https://www.crunchbase.com/organization/databerr
 [https://www.teemo.co](https://www.teemo.co)
 
 ## About
-Teemo claims to run the "World's first and biggest persistent geolocation targeting database".  They provide "solutions" for "retail advertisers" and "app publishers". [Teemo, 01](http://teemo.co). 
+Teemo claims to run the "World's first and biggest persistent geolocation targeting database".  They provide "solutions" for "retail advertisers" and "app publishers". [Teemo, 01](http://teemo.co).
 
 ## Ownership
 Teemo
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `databerries\.com`
+*   Network signature: `databerries\.com`
+*   Code signature: `com.databerries.|com.geolocstation.`
 
 ## Documentation
 https://teemo.co/sdkguidelines/
@@ -110,8 +115,8 @@ Headquartered in Paris, Databerries employs 40 people and plans to double its wo
 
 According to the company, offline retailers spend more than $100bn (€93.9bn) on advertising every year, relying largely on outdoor and other offline channels to increase store visits with limited ability to track the performance of their advertising campaigns. According to a report by MarketsandMarkets, the cross-platform and mobile advertising market is estimated to grow from $25.2bn (€23.7bn) in 2015 to $80.5bn (€75.6bn) by 2020, at a CAGR of 26.1%." [Go4Venture, 01](http://go4venture.com/hti/usd-16m-a-mar-2017-databerries)
 
-_Slogans:_ 
-* "Real-life Targeting, Offline Measurement" 
+_Slogans:_
+* "Real-life Targeting, Offline Measurement"
 * "Reinventing offline marketing"
 
 _Devices:_ Android (Google Android ID) and Apple (IDFA)
@@ -119,7 +124,7 @@ _Devices:_ Android (Google Android ID) and Apple (IDFA)
 ## References
 * _Crunchbase, 01._ [https://www.crunchbase.com/organization/databerries](https://www.crunchbase.com/organization/databerries)
 * _Teemo, 01._ [http://teemo.co](http://teemo.co)  
-* _Teemo, 02._ [https://teemo.co/about](https://teemo.co/about) 
+* _Teemo, 02._ [https://teemo.co/about](https://teemo.co/about)
 * _Teemo, 03._ [https://teemo.co/sdkguidelines](https://teemo.co/sdkguidelines)   
 * _Teemo, 04._ [https://teemo.co/privacy](https://teemo.co/privacy)
 

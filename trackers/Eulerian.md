@@ -1,4 +1,8 @@
-# Eulerian
+# Tracker Name
+Eulerian
+
+# In εxodus?
+Yes
 
 ## About
 
@@ -10,12 +14,12 @@ Guillaume Fougnies and Mathieu Jondet founded Eulerian Technologies in 2002.  [S
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
 
-* Code detection rule: com.eulerian.android.sdk
-* Network detection rule: eulerian\.com
+* Code detection rule: `com.eulerian.android.sdk`
+* Network detection rule: `eulerian\.com`
 
 ## What it does
 
-* Behavioral Analytics 
+* Behavioral Analytics
 * Data Collection
 * Attribution Modeling
 

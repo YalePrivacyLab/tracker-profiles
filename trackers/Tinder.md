@@ -1,4 +1,8 @@
-# Tinder Analytics
+# Tracker Name
+Tinder Analytics
+
+# In εxodus?
+Yes
 
 ## Primary Location
 United States
@@ -13,7 +17,8 @@ Tinder is a location-based social search mobile app geared towards dating and ho
 Match Group (a division of IAC/InterActiveCorp) [BusinessInsider, 01](http://www.businessinsider.com/match-the-company-that-owns-tinder-just-filed-to-go-public-2015-10); [CrunchBase, 01](https://www.crunchbase.com/organization/match-group)
 
 ## [Exodus Detection Rules](https://exodus-privacy.eu.org)
-* `etl\.tindersparks\.com`
+*   Network signature: `etl\.tindersparks\.com`
+*   Code signature: `com.tinder.analytics|com.tinder.ads`
 
 ## Documentation
 Not public
@@ -37,12 +42,12 @@ _Collection of conversations:_ "If you chat with other Tinder users, you provide
 
 _Third Party data collection:_ "Tinder is part of The Match Group family of businesses, which as of the date of this policy includes websites and apps such as OurTime.com, BlackPeopleMeet.com, OkCupid, Twoo, POF, Meetic, LoveScout24, Match and ParPerfeito. We may obtain both personal and non-personal information about you from other Match businesses, business partners and other third parties."  
 
-_Technologies used to collect data:_ 
+_Technologies used to collect data:_
 
 * When visiting Tinder's Service, you automatically provide Tinder with your "IP address, device ID and type, your browser type and language, the operating system used by your device, access times, your mobile device’s geographic location while our application is actively running, and the referring website address."
 * _Cookies_ are used track users. They state, "If we advertise, we (or third parties) may use certain data collected on our Service to show you Tinder advertisements on other sites or applications".
 * _Pixel tags_ (aka, web beacons or clear GIFs) are used in web pages, ads, and emails. These are used to access cookies and track user activities.
-* _Mobile device IDs_ are used to store your preferences and track your use of the Tinder app. 
+* _Mobile device IDs_ are used to store your preferences and track your use of the Tinder app.
     * "Ad companies also use device IDs or Advertising IDs to track your use of the app, track the number of ads displayed, measure ad performance and display ads that are more relevant to you. Analytics companies use device IDs to track information about app usage."
 
 _Third Party data collecting:_ "We may allow service providers, advertising companies and ad networks, and other third parties to display advertisements on our Service and elsewhere. These companies may use tracking technologies, such as cookies or web beacons, to collect information about users who view or interact with their advertisements. We do not provide any non-masked or non-obscured personal information to third parties."  
@@ -71,7 +76,7 @@ If you are visiting from the European Union or other regions with laws governing
 _Match Group businesses:_ Match.com / OkCupid / OurTime.com / BlackPeopleMeet.com / Twoo / Meetic / POF / LoveScout24 / ParPerfeito [Tinder, 01](https://www.gotinder.com/privacy)
 
 ## Details
-_Usage requirements:_ Tinder users are required to have a Facebook account and turn on loction-based tracking in order to use the app. [Tinder, 01](https://www.gotinder.com/privacy) 
+_Usage requirements:_ Tinder users are required to have a Facebook account and turn on loction-based tracking in order to use the app. [Tinder, 01](https://www.gotinder.com/privacy)
 
 _Analytics:_ Tinder uses Spotify and Facebook data to match users [Tech Times, 01](http://www.techtimes.com/articles/199964/20170302/tinder-users-finding-more-matches-thanks-spotify-popular-anthems-include.htm)
 
